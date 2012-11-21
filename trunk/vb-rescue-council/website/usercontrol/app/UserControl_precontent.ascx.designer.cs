@@ -22,15 +22,6 @@ namespace UserControl_precontent {
         protected global::AjaxControlToolkit.ToolkitScriptManager ScriptManager_control;
         
         /// <summary>
-        /// Label_application_name control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label_application_name;
-        
-        /// <summary>
         /// TableRow_account_control control.
         /// </summary>
         /// <remarks>

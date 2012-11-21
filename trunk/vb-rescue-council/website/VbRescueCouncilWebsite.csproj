@@ -9,8 +9,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VbRescueCouncil</RootNamespace>
-    <AssemblyName>VbRescueCouncil</AssemblyName>
+    <RootNamespace>VbRescueCouncilWebsite</RootNamespace>
+    <AssemblyName>VbRescueCouncilWebsite</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
@@ -444,12 +444,6 @@
     <Content Include="usercontrol\ki\UserControl_drop_down_date.ascx" />
     <Content Include="usercontrol\ki\UserControl_print_div.ascx" />
     <Content Include="usercontrol\ki\UserControl_session_interrupted.ascx" />
-    <None Include="usercontrol\app\UserControl_template_binder.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_datagrid_sortable.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_gridview_sortable.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_kicrudhelped_item.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_std.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_trivial_item.ascx-template" />
     <None Include="work.bat" />
   </ItemGroup>
   <ItemGroup>
@@ -472,7 +466,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>2329</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost/VbRescueCouncil</IISUrl>
+          <IISUrl>http://localhost/VbRescueCouncilWebsite</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
