@@ -66,9 +66,9 @@ using UserControl_users_and_mapping_binder;
 using UserControl_session_interrupted;
 using UserControl_about_by;
 using UserControl_about_tools;
-namespace VbRescueCouncil.Units
+namespace VbRescueCouncilWebsite.Units
 {
-    public class VbRescueCouncil
+    public class VbRescueCouncilWebsite
     {
         // Default.TWebForm_Default: ki_web_ui.page_class
         // Global.TGlobal: System.Web.HttpApplication
@@ -159,7 +159,7 @@ namespace VbRescueCouncil.Units
         {
         }
 
-    } // end VbRescueCouncil
+    } // end VbRescueCouncilWebsite
 
 }
 

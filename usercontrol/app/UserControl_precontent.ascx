@@ -8,9 +8,9 @@
     <td>
       <table width="100%" cellspacing="0" cellpadding="5">
         <tr>
-          <td align="left"><small><a href="#ReferenceMaterial">Reference material</a></small></td>
-          <td align="center"><ASP:Label id="Label_application_name" runat="server" font-bold="True"></ASP:Label></td>
-          <td align="right"><small><a href="#ProcessImprovement">Process improvement</a></small></td>
+          <td valign="middle" width="1%"><a runat="server" href="~/Default.aspx"><img runat="server" src="~/image/banner-pic.png" alt="Home" border="0" title="Home" style="position:relative; z-index:1"/></a></td>
+          <td valign="middle" width="1%"><!-- placeholder for an online donation control --></td>
+          <td align="center" valign="middle"><h2 style="color:White; position :relative; z-index:1">Virginia Beach Rescue Council</h2></td>
         </tr>
         <tr id="TableRow_account_control" runat="server">
           <td align="left" colspan="3">
@@ -26,8 +26,29 @@
     </td>
   </tr>
 </table>
-<table cellspacing="0" cellpadding="10" width="100%" border="0">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
   <tr>
+    <td valign="top" width="1%">
+      <table cellspacing="0" cellpadding="0">
+        <tr>
+          <td nowrap="nowrap" valign="top">
+            <table>
+              <tr><td colspan="3" nowrap="nowrap"><strong><a runat="server" href="~/Default.aspx"><br />Home</a></strong></td></tr>
+              <tr><td colspan="3" nowrap="nowrap"><strong><br />Structure</strong></td></tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td colspan="2" nowrap="nowrap">Officers</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td colspan="2" nowrap="nowrap">Members</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="border-left:1px solid gray" width="1%">&nbsp;</td>
     <td valign="top">
       <asp:UpdatePanel id="UpdatePanel_control" runat="server" updatemode="Always">
         <ContentTemplate>

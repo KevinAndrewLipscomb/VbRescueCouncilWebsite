@@ -14,7 +14,6 @@ namespace UserControl_precontent
             //
             if (!IsPostBack)
             {
-                Label_application_name.Text = ConfigurationManager.AppSettings["application_name"];
                 if (Session["username"] == null)
                 {
                     TableRow_account_control.Visible = false;
