@@ -1,0 +1,17 @@
+grant select
+ , insert
+ , update
+ , delete
+ , create
+ , create routine
+ , alter routine
+  on vbrescuecouncildb.*
+  to 'ki-vbrescuecouncil'@'localhost' identified by '~ki-vbrescuecouncil-password~'
+;
+--
+-- Must grant PROCESS priv to primary user to include SHOW ENGINE INNODB
+-- STATUS output in MySQL-related exception reports.
+--
+grant process
+  on *.*
+  to 'ki-vbrescuecouncil'@'localhost'
