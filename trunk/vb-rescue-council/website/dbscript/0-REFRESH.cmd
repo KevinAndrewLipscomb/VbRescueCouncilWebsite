@@ -1,6 +1,6 @@
 @REM $Id$
 @REM
-set base_db_name=vbrescuecouncildb
+set base_db_name=vbrescuecouncilwebsitedb
 set the_host=localhost
 set the_user=root
 if "%COMPUTERNAME%"=="alpha" goto :OPS

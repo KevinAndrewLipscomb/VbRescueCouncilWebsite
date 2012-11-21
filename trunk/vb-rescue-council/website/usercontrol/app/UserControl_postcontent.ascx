@@ -43,7 +43,7 @@
                         <table cellspacing="0" cellpadding="5" border="0">
                           <tr><td><small><strong><a name="ProcessImprovement"></a>Process improvement</strong></small></td></tr>
                           <tr><td><small>You can help us make this application better!</small></td></tr>
-                          <tr><td><small>Send suggestions <a href="mailto:feedback@frompaper2web.com?subject=VbRescueCouncil%20suggestion">here</a>.</small></td></tr>
+                          <tr><td><small>Send suggestions <a href="mailto:feedback@frompaper2web.com?subject=VbRescueCouncilWebsite%20suggestion">here</a>.</small></td></tr>
                           <tr><td><small><strong>Thanks!</strong></small></td></tr>
                         </table>
                       </td>
