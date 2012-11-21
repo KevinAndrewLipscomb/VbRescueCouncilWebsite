@@ -1,4 +1,4 @@
--- VbRescueCouncil
+-- VbRescueCouncilWebsite
 
 START TRANSACTION;
 
@@ -14,7 +14,7 @@ ALTER TABLE `member`
  ADD INDEX `first_name`(`first_name`);
 
 insert member (last_name,first_name,email_address,registration_code) values
-("Administrator","Application","vbrescuecouncil@frompaper2web.com","1");
+("Administrator","Application","vbrescuecouncilwebsite@frompaper2web.com","1");
 
 ALTER TABLE `user`
   MODIFY COLUMN `last_login` DATETIME;

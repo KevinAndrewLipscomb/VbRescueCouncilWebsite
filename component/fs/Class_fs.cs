@@ -1,6 +1,6 @@
 using System.IO;
 
-namespace VbRescueCouncil.component.os
+namespace VbRescueCouncilWebsite.component.os
   {
   public static class Class_os_Static
     {

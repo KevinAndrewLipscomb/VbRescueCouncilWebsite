@@ -5,8 +5,8 @@ grant select
  , create
  , create routine
  , alter routine
-  on vbrescuecouncildb_d.*
-  to 'ki-vbrescuecouncil-d'@'localhost' identified by '~ki-vbrescuecouncil-d-password~'
+  on vbrescuecouncilwebsitedb_d.*
+  to 'ki-vbrcw-d'@'localhost' identified by '~ki-vbrcw-d-password~'
 ;
 --
 -- Must grant PROCESS priv to primary user to include SHOW ENGINE INNODB
@@ -14,4 +14,4 @@ grant select
 --
 grant process
   on *.*
-  to 'ki-vbrescuecouncil-d'@'localhost'
+  to 'ki-vbrcw-d'@'localhost'

@@ -41,7 +41,7 @@ create table if not exists member
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 insert member (last_name,first_name,email_address,registration_code) values
-("Administrator","Application","vbrescuecouncil@frompaper2web.com","1");
+("Administrator","Application","vbrescuecouncilwebsite@frompaper2web.com","1");
 
 -- --------------------------------------------------------
 

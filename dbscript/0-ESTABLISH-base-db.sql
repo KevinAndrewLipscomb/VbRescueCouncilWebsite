@@ -3,7 +3,7 @@ START TRANSACTION;
 
 -- MySQL dump 10.13  Distrib 5.5.16, for Win32 (x86)
 --
--- Host: localhost    Database: vbrescuecouncildb_d
+-- Host: localhost    Database: vbrescuecouncilwebsitedb_d
 -- ------------------------------------------------------
 -- Server version	5.5.16
 
@@ -70,7 +70,7 @@ CREATE TABLE `member` (
 
 LOCK TABLES `member` WRITE;
 /*!40000 ALTER TABLE `member` DISABLE KEYS */;
-INSERT INTO `member` VALUES (1,'Administrator','Application','vbrescuecouncil@frompaper2web.com','1');
+INSERT INTO `member` VALUES (1,'Administrator','Application','vbrescuecouncilwebsite@frompaper2web.com','1');
 /*!40000 ALTER TABLE `member` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -316,7 +316,7 @@ LOCK TABLES `user_member_map` WRITE;
 UNLOCK TABLES;
 
 --
--- Dumping routines for database 'vbrescuecouncildb_d'
+-- Dumping routines for database 'vbrescuecouncilwebsitedb_d'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
