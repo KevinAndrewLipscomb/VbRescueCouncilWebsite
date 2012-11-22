@@ -58,3 +58,4 @@
           <ASP:ValidationSummary id="ValidationSummary_control" runat="server"></ASP:ValidationSummary>
         </ContentTemplate>
       </asp:UpdatePanel>
+      <p>&nbsp;</p>

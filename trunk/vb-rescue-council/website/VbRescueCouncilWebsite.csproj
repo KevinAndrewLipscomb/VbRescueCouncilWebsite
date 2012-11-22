@@ -91,6 +91,10 @@
     <Content Include="js\sha1.js" />
     <Content Include="login.aspx" />
     <Content Include="new_user_registration.aspx" />
+    <Content Include="pub\corporate_detail.aspx" />
+    <Content Include="pub\mission_detail.aspx" />
+    <Content Include="pub\squad_pages.aspx" />
+    <Content Include="pub\streaming_radio_traffic.aspx" />
     <Content Include="remind_username.aspx" />
     <Content Include="salogin.aspx" />
     <Content Include="Web.config" />
@@ -203,6 +207,34 @@
     </Compile>
     <Compile Include="protected\overview.aspx.designer.cs">
       <DependentUpon>overview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pub\corporate_detail.aspx.cs">
+      <DependentUpon>corporate_detail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\corporate_detail.aspx.designer.cs">
+      <DependentUpon>corporate_detail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pub\mission_detail.aspx.cs">
+      <DependentUpon>mission_detail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\mission_detail.aspx.designer.cs">
+      <DependentUpon>mission_detail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pub\squad_pages.aspx.cs">
+      <DependentUpon>squad_pages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\squad_pages.aspx.designer.cs">
+      <DependentUpon>squad_pages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pub\streaming_radio_traffic.aspx.cs">
+      <DependentUpon>streaming_radio_traffic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\streaming_radio_traffic.aspx.designer.cs">
+      <DependentUpon>streaming_radio_traffic.aspx</DependentUpon>
     </Compile>
     <Compile Include="remind_username.aspx.cs">
       <DependentUpon>remind_username.aspx</DependentUpon>
@@ -451,6 +483,8 @@
     <Content Include="usercontrol\ki\UserControl_drop_down_date.ascx" />
     <Content Include="usercontrol\ki\UserControl_print_div.ascx" />
     <Content Include="usercontrol\ki\UserControl_session_interrupted.ascx" />
+    <None Include="resource\Articles-of-incorporation.pdf" />
+    <None Include="resource\Bylaws.pdf" />
     <None Include="work.bat" />
   </ItemGroup>
   <ItemGroup>
