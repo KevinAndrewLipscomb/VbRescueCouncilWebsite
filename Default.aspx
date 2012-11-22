@@ -6,6 +6,7 @@
   <head runat="server">
     <!-- $Id$ -->
     <title></title>
+    <script type="text/javascript" src="js/gradient.js"></script>
     <link rel="StyleSheet" href="css/standard.css" type="text/css" />
     <!--[if lt IE 7]> <style type="text/css">@import "css/standard-overrides-for-ie6.css";</style><![endif]-->
   </head>
@@ -37,7 +38,7 @@
                 <tr>
                   <td style="text-align: center">
                     <a title="Radio Traffic Internet Streams" href="/~vbvolunt/index.php?title=Radio_Traffic_Internet_Streams">
-                      <img alt="Signal-1.PNG" src="/~vbvolunt/images/0/07/Signal-1.PNG" width="100" height="100"/>
+                      <img alt="Listen" src="image/Signal-1.PNG" width="100" height="100"/>
                     </a>
                     <br/>
                     <a title="Radio Traffic Internet Streams" href="/~vbvolunt/index.php?title=Radio_Traffic_Internet_Streams"><i>To live radio traffic!</i></a>
@@ -51,7 +52,7 @@
                 <tr>
                   <td style="text-align: center">
                     <a class="plainlinks" title="http://www.yahoogroups.com/group/BeachEMS" href="http://www.yahoogroups.com/group/BeachEMS" rel="nofollow">
-                      <img alt="Forum.jpg" src="/~vbvolunt/images/1/15/Forum.jpg" width="100" height="100"/>
+                      <img alt="Egroup" src="image/Forum.jpg" width="100" height="100"/>
                     </a>
                     <br/>
                     <a class="external text" href="http://www.yahoogroups.com/group/BeachEMS" rel="nofollow"><i>Collaborate!</i></a>

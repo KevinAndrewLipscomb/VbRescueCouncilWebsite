@@ -81,6 +81,13 @@
     <Content Include="Default.aspx" />
     <Content Include="exception.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="image\attention-stop.gif" />
+    <Content Include="image\Chat.jpg" />
+    <Content Include="image\Creation.jpg" />
+    <Content Include="image\deadlock.png" />
+    <Content Include="image\Forum.jpg" />
+    <Content Include="image\logo-orig-100-h.png" />
+    <Content Include="image\Signal-1.PNG" />
     <Content Include="js\sha1.js" />
     <Content Include="login.aspx" />
     <Content Include="new_user_registration.aspx" />
