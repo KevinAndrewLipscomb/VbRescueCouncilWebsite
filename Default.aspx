@@ -13,7 +13,6 @@
   <body bgcolor="white">
     <form runat="server">
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
-      <p>&nbsp;</p>
       <table style="text-align: center; width: 100%" border="1" cellspacing="0" cellpadding="5">
         <tr>
           <td>
@@ -34,14 +33,14 @@
           <tr>
             <td style="width: 25%; vertical-align: top">
               <table style="width: 100%" border="1" cellspacing="0" cellpadding="5">
-                <tr><td style="text-align: center"><big><a title="Radio Traffic Internet Streams" href="/~vbvolunt/index.php?title=Radio_Traffic_Internet_Streams">Listen</a></big></td></tr>
+                <tr><td style="text-align: center"><big><a title="Radio Traffic Internet Streams" href="pub/streaming_radio_traffic.aspx">Listen</a></big></td></tr>
                 <tr>
                   <td style="text-align: center">
-                    <a title="Radio Traffic Internet Streams" href="/~vbvolunt/index.php?title=Radio_Traffic_Internet_Streams">
+                    <a title="Radio Traffic Internet Streams" href="pub/streaming_radio_traffic.aspx">
                       <img alt="Listen" src="image/Signal-1.PNG" width="100" height="100"/>
                     </a>
                     <br/>
-                    <a title="Radio Traffic Internet Streams" href="/~vbvolunt/index.php?title=Radio_Traffic_Internet_Streams"><i>To live radio traffic!</i></a>
+                    <a title="Radio Traffic Internet Streams" href="pub/streaming_radio_traffic.aspx"><i>To live radio traffic!</i></a>
                   </td>
                 </tr>
               </table>
@@ -66,10 +65,10 @@
       <p>&nbsp;</p>
       <table style="text-align: center; width: 100%" border="1" cellspacing="0" cellpadding="5">
         <tr>
-          <td style="text-align: center; width: 25%"><a title="Mission details" href="/~vbvolunt/index.php?title=Mission_details">Mission details</a></td>
-          <td style="text-align: center; width: 25%"><a title="Squad pages" href="/~vbvolunt/index.php?title=Squad_pages">Squad pages</a></td>
-          <td style="text-align: center; width: 25%"><a class="new" title="Blogs (page does not exist)" href="/~vbvolunt/index.php?title=Blogs&amp;action=edit&amp;redlink=1">Blogs</a></td>
-          <td style="text-align: center; width: 25%"><a title="Corporate details" href="/~vbvolunt/index.php?title=Corporate_details">Corporate details</a></td>
+          <td style="text-align: center; width: 25%"><a href="pub/mission_detail.aspx">Mission details</a></td>
+          <td style="text-align: center; width: 25%"><a href="pub/squad_pages.aspx">Squad pages</a></td>
+          <td style="text-align: center; width: 25%; color: #808080;">Blogs</td>
+          <td style="text-align: center; width: 25%"><a href="pub/corporate_detail.aspx">Corporate details</a></td>
         </tr>
       </table>
       <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
