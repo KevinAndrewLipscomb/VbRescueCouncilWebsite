@@ -3,14 +3,17 @@
 <%@ Register TagPrefix="uc1" TagName="UserControl_bread_crumb_trail" Src="~/usercontrol/ki/UserControl_bread_crumb_trail.ascx" %>
 <%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="asp" %>
 <asp:ToolkitScriptManager ID="ScriptManager_control" runat="server"><Scripts><asp:ScriptReference Path="~/js/ErrorHandler.js" /></Scripts></asp:ToolkitScriptManager>
-<table width="100%" bgcolor="gray" border="1" bordercolor="gray" cellspacing="0" cellpadding="0">
+<table width="100%" class="gradient FFFFFF FF0000 horizontal" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <table width="100%" cellspacing="0" cellpadding="5">
         <tr>
-          <td valign="middle" width="1%"><a runat="server" href="~/Default.aspx"><img runat="server" src="~/image/banner-pic.png" alt="Home" border="0" title="Home" style="position:relative; z-index:1"/></a></td>
+          <td valign="middle" width="1%"><a runat="server" href="~/Default.aspx"><img runat="server" src="~/image/logo-orig-100-h.png" alt="Home" border="0" title="Home" style="position:relative; z-index:1"/></a></td>
           <td valign="middle" width="1%"><!-- placeholder for an online donation control --></td>
-          <td align="center" valign="middle"><h2 style="color:White; position :relative; z-index:1">Virginia Beach Rescue Council</h2></td>
+          <td align="center" valign="middle">
+            <h2 style="position :relative; z-index:1">Virginia Beach Rescue Council</h2>
+            <p style="position:relative; z-index:1"><em>Council of Virginia Beach Volunteer Rescue Squads, Inc.</em></p>
+          </td>
         </tr>
         <tr id="TableRow_account_control" runat="server">
           <td align="left" colspan="3">
@@ -48,7 +51,7 @@
         </tr>
       </table>
     </td>
-    <td style="border-left:1px solid gray" width="1%">&nbsp;</td>
+    <td style="border-left:1px solid red" width="1%">&nbsp;</td>
     <td valign="top">
       <asp:UpdatePanel id="UpdatePanel_control" runat="server" updatemode="Always">
         <ContentTemplate>
