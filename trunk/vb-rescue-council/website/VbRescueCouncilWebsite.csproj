@@ -92,7 +92,9 @@
     <Content Include="login.aspx" />
     <Content Include="new_user_registration.aspx" />
     <Content Include="pub\corporate_detail.aspx" />
+    <Content Include="pub\members.aspx" />
     <Content Include="pub\mission_detail.aspx" />
+    <Content Include="pub\officers.aspx" />
     <Content Include="pub\squad_pages.aspx" />
     <Content Include="pub\streaming_radio_traffic.aspx" />
     <Content Include="remind_username.aspx" />
@@ -215,12 +217,26 @@
     <Compile Include="pub\corporate_detail.aspx.designer.cs">
       <DependentUpon>corporate_detail.aspx</DependentUpon>
     </Compile>
+    <Compile Include="pub\members.aspx.cs">
+      <DependentUpon>members.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\members.aspx.designer.cs">
+      <DependentUpon>members.aspx</DependentUpon>
+    </Compile>
     <Compile Include="pub\mission_detail.aspx.cs">
       <DependentUpon>mission_detail.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pub\mission_detail.aspx.designer.cs">
       <DependentUpon>mission_detail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pub\officers.aspx.cs">
+      <DependentUpon>officers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\officers.aspx.designer.cs">
+      <DependentUpon>officers.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\squad_pages.aspx.cs">
       <DependentUpon>squad_pages.aspx</DependentUpon>
