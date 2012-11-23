@@ -14,9 +14,19 @@
     <form runat="server">
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
       <ul>
-        <li><a href="../resource/Articles-of-incorporation.pdf">Articles Of Incorporation</a></li>
-        <li><a href="../resource/Bylaws.pdf">Bylaws</a></li>
-        <li><b>Minutes</b> are published to the <a href="http://www.yahoogroups.com/group/BeachEMS">BeachEMS Egroup</a>.</li>
+        <li><p>Documents</p>
+          <ul>
+            <li><p><a href="../resource/Articles-of-incorporation.pdf">Articles Of Incorporation</a></p></li>
+            <li><p><a href="../resource/Bylaws.pdf">Bylaws</a></p></li>
+            <li><p><b>Minutes</b> are published to the <a href="http://www.yahoogroups.com/group/BeachEMS">BeachEMS Egroup</a>.</p></li>
+          </ul>
+        </li>
+        <li><p>People</p>
+          <ul>
+            <li><p><asp:HyperLink ID="HyperLink_officers" runat="server" NavigateUrl="~/pub/officers.aspx">Officers</asp:HyperLink></p></li>
+            <li><p><asp:HyperLink ID="HyperLink_members" runat="server" NavigateUrl="~/pub/members.aspx">Members</asp:HyperLink></p></li>
+          </ul>
+        </li>
       </ul>
     <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>

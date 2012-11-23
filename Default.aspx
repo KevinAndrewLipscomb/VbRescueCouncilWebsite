@@ -65,10 +65,9 @@
       <p>&nbsp;</p>
       <table style="text-align: center; width: 100%" border="1" cellspacing="0" cellpadding="5">
         <tr>
-          <td style="text-align: center; width: 25%"><a href="pub/mission_detail.aspx">Mission details</a></td>
-          <td style="text-align: center; width: 25%"><a href="pub/squad_pages.aspx">Squad pages</a></td>
-          <td style="text-align: center; width: 25%; color: #808080;">Blogs</td>
-          <td style="text-align: center; width: 25%"><a href="pub/corporate_detail.aspx">Corporate details</a></td>
+          <td style="text-align: center; width: 33%"><a href="pub/mission_detail.aspx">Mission details</a></td>
+          <td style="text-align: center; width: 34%"><a href="pub/squad_pages.aspx">Squad pages</a></td>
+          <td style="text-align: center; width: 33%"><a href="pub/corporate_detail.aspx">Corporate details</a></td>
         </tr>
       </table>
       <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>

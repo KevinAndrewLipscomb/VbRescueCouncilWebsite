@@ -31,27 +31,6 @@
 </table>
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
   <tr>
-    <td valign="top" width="1%">
-      <table cellspacing="0" cellpadding="0">
-        <tr>
-          <td nowrap="nowrap" valign="top">
-            <table>
-              <tr><td colspan="3" nowrap="nowrap"><strong><a runat="server" href="~/Default.aspx"><br />Home</a></strong></td></tr>
-              <tr><td colspan="3" nowrap="nowrap"><strong><br />Structure</strong></td></tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td colspan="2" nowrap="nowrap">Officers</td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td colspan="2" nowrap="nowrap">Members</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td style="border-left:1px solid red" width="1%">&nbsp;</td>
     <td valign="top">
       <asp:UpdatePanel id="UpdatePanel_control" runat="server" updatemode="Always">
         <ContentTemplate>

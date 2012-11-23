@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace corporate_detail {
+namespace officers {
     
     
-    public partial class TWebForm_corporate_detail {
+    public partial class TWebForm_officers {
         
         /// <summary>
         /// UserControl_precontent control.
@@ -20,24 +20,6 @@ namespace corporate_detail {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::UserControl_precontent.TWebUserControl_precontent UserControl_precontent;
-        
-        /// <summary>
-        /// HyperLink_officers control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_officers;
-        
-        /// <summary>
-        /// HyperLink_members control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_members;
         
         /// <summary>
         /// UserControl_postcontent control.
