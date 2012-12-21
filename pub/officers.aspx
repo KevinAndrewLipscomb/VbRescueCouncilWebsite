@@ -23,7 +23,7 @@
         <tr>
           <td>President</td>
           <td>Tom Harp</td>
-          <td bgcolor="Gainsboro" rowspan="5" style="text-align: center">31 December 2012</td>
+          <td bgcolor="Gainsboro" rowspan="5" style="text-align: center">31 December 2013</td>
         </tr>
         <tr>
           <td>Vice President</td>
@@ -31,15 +31,15 @@
         </tr>
         <tr>
           <td>Secretary</td>
-          <td>(vacant)</td>
+          <td>Susan Bauman</td>
         </tr>
         <tr>
           <td>Treasurer</td>
-          <td>Judi Baker</td>
+          <td>Bill Walker</td>
         </tr>
         <tr>
           <td>Executive Committee Member-At-Large</td>
-          <td>&nbsp;</td>
+          <td>Nancy Gregory</td>
         </tr>
       </table>
       <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>

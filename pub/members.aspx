@@ -29,7 +29,7 @@
           <tr>
             <td>#1 - Ocean Park</td>
             <td>Tiffany Robbins</td>
-            <td>&nbsp;</td>
+            <td>David Jarashow</td>
           </tr>
           <tr>
             <td>#2 - Davis Corner</td>
@@ -38,8 +38,8 @@
           </tr>
           <tr>
             <td>#4 - Chesapeake Beach</td>
+            <td>Deb Leonard</td>
             <td>Brittany Coutcher</td>
-            <td>&nbsp;</td>
           </tr>
           <tr>
             <td>#5 - Princess Anne Courthouse</td>
