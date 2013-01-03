@@ -33,8 +33,8 @@
           </tr>
           <tr>
             <td>#2 - Davis Corner</td>
-            <td>Judi Baker</td>
-            <td>Frank Mikeals</td>
+            <td>David Luca</td>
+            <td>Eric Hoyt</td>
           </tr>
           <tr>
             <td>#4 - Chesapeake Beach</td>
