@@ -73,8 +73,8 @@
           </tr>
           <tr>
             <td>#17 - Sandbridge</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>Doris Lee</td>
+            <td>Pam Pietrzak</td>
           </tr>
           <tr>
             <td>Marine Rescue Team</td>
