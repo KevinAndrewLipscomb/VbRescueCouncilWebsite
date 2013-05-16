@@ -29,7 +29,7 @@
           <tr>
             <td>#1 - Ocean Park</td>
             <td>Tiffany Robbins</td>
-            <td>David Jarashow</td>
+            <td>Dennis Popiela</td>
           </tr>
           <tr>
             <td>#2 - Davis Corner</td>
@@ -39,17 +39,17 @@
           <tr>
             <td>#4 - Chesapeake Beach</td>
             <td>Deb Leonard</td>
-            <td>Brittany Coutcher</td>
+            <td>Ed Leonard</td>
           </tr>
           <tr>
             <td>#5 - Princess Anne Courthouse</td>
             <td>Gary Wilks Sr</td>
-            <td>&nbsp;</td>
+            <td>Chris Dell</td>
           </tr>
           <tr>
             <td>#6 - Creeds</td>
             <td>Nancy Gregory</td>
-            <td>&nbsp;</td>
+            <td>Chris Dozier</td>
           </tr>
           <tr>
             <td>#9 - Kempsville</td>
@@ -63,13 +63,13 @@
           </tr>
           <tr>
             <td>#14 - Virginia Beach</td>
-            <td>Roy White Jr</td>
-            <td>Ellen McBride</td>
+            <td>Susan Bauman</td>
+            <td>Tom Harp</td>
           </tr>
           <tr>
             <td>#16 - Plaza</td>
-            <td>William Walker</td>
-            <td>&nbsp;</td>
+            <td>Chris Florio</td>
+            <td>Randy Sudbrock</td>
           </tr>
           <tr>
             <td>#17 - Sandbridge</td>
