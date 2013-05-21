@@ -44,7 +44,7 @@
           <tr>
             <td>#5 - Princess Anne Courthouse</td>
             <td>Gary Wilks Sr</td>
-            <td>Chris Dell</td>
+            <td>Chris Daly</td>
           </tr>
           <tr>
             <td>#6 - Creeds</td>
