@@ -13,21 +13,52 @@
   <body bgcolor="white">
     <form runat="server">
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
-      <p>The following EMS-oriented live audio stream covering Virginia Beach is sponsored by Rescue Council:</p>
+      <p>The following EMS-oriented live audio streams covering Virginia Beach are sponsored by Rescue Council:</p>
       <ul>
-        <li><a rel="nofollow" class="external text" href="http://www.broadcastify.com/listen/feed/14744/web" target="_blank"><strong>Virginia Beach EMS</strong></a> -- includes:
-          <ul>
-            <li>EMS Primary channel</li>
-            <li>Tactical channels</li>
-            <li>Disaster & major op channels</li>
-          </ul>
+        <li>
+          <p><a rel="nofollow" class="external text" href="http://www.broadcastify.com/listen/feed/14744/web" target="_blank"><strong>Virginia Beach EMS</strong></a></p>
+          <blockquote>
+            <table>
+              <tr>
+                <td>
+                  <p>This feed includes:</p>
+                  <ul>
+                    <li>EMS Primary channel</li>
+                    <li>Tactical channels</li>
+                    <li>Disaster & major op channels</li>
+                  </ul>
+                  <p>You can also monitor this feed in a number of other ways:</p>
+                  <ul>
+                    <li><p><a href="http://www.Broadcastify.com/listen/feed/14744" target="_blank">www.Broadcastify.com</a> lets you monitor the feed in Windows Media Player, Real Player, iTunes, Winamp, etc.</p></li>
+                    <li><p><a href="http://m.Broadcastify.com/?feedId=14744" target="_blank">m.Broadcastify.com</a> lets you monitor the feed in your mobile browser.</p></li>
+                    <li><p><a href="https://broadcastify.zendesk.com/forums/21425482-Mobile-Listening-Support" target="_blank">Mobile apps</a> provide full-featured monitoring.&nbsp; Just remember, the name of the feed is <strong>Virginia Beach EMS</strong>.</p></li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+          </blockquote>
         </li>
-      </ul>
-      <p>You can also monitor this feed in a number of other ways:</p>
-      <ul>
-        <li><p><a href="http://www.Broadcastify.com/listen/feed/14744" target="_blank">www.Broadcastify.com</a> lets you monitor the feed in Windows Media Player, Real Player, iTunes, Winamp, etc.</p></li>
-        <li><p><a href="http://m.Broadcastify.com/?feedId=14744" target="_blank">m.Broadcastify.com</a> lets you monitor the feed in your mobile browser.</p></li>
-        <li><p><a href="https://broadcastify.zendesk.com/forums/21425482-Mobile-Listening-Support" target="_blank">Mobile apps</a> provide full-featured monitoring.&nbsp; Just remember, the name of the feed is <strong>Virginia Beach EMS</strong>.</p></li>
+        <li>
+          <p><a rel="nofollow" class="external text" href="http://lipscomb-ka-rm.dyndns.org:10994/cor-reports.m3u" target="_blank"><strong>Virginia Beach EMS COR Reports</strong></a></p>
+          <blockquote>
+            <table>
+              <tr>
+                <td>
+                  <p>COR Reports, in Virginia Beach EMS jargon, are notifications and consults made from the field to or with a hospital.&nbsp; "COR" originally stood for Coronary Observation Radio, and was the model name of
+                    the first Motorola transceivers used for this purpose.&nbsp; The Motorola COR could also transmit ECGs.</p>
+                  <p>Channels on this feed are:</p>
+                  <ul>
+                    <li>ORION-VB VBGH</li>
+                    <li>ORION-VB INDEPENDENCE</li>
+                    <li>ORION-VB SPA</li>
+                    <li>National MED/COR UHF-Hi channels 1-8</li>
+                    <li>HEAR VHF-Hi channels</li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+          </blockquote>
+        </li>
       </ul>
       <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>
