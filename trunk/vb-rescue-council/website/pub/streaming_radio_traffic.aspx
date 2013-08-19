@@ -19,6 +19,7 @@
           <p><a rel="nofollow" class="external text" href="http://www.broadcastify.com/listen/feed/14744/web" target="_blank"><strong>Virginia Beach EMS</strong></a></p>
           <blockquote>
             <table>
+              <tr><td><iframe width="325px" height="245px" src="http://api.broadcastify.com/embed/player/?key=64652882&feedId=14744&as=1&stats=1">Your browser does not support iFrames.</iframe></td></tr>
               <tr>
                 <td>
                   <p>This feed includes:</p>
@@ -50,7 +51,7 @@
                   <ul>
                     <li>ORION-VB VBGH</li>
                     <li>ORION-VB INDEPENDENCE</li>
-                    <li>ORION-VB SPA</li>
+                    <li>ORION-VB PrincessAnne</li>
                     <li>National MED/COR UHF-Hi channels 1-8</li>
                     <li>HEAR VHF-Hi channels</li>
                   </ul>
