@@ -54,7 +54,7 @@
           <tr>
             <td>#9 - Kempsville</td>
             <td>Kevin Lipscomb</td>
-            <td>Jim Brewer</td>
+            <td>Tom Kiernan</td>
           </tr>
           <tr>
             <td>#13 - Blackwater</td>
