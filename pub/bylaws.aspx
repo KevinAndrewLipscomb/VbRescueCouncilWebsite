@@ -105,7 +105,7 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>Special meetings may be called by the President or upon written request of any five (5) voting members in good standing of Council.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>Six (6) voting members shall constitute a quorum to legally transact business.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>The presence of the representatives or alternates of 51% of the squads that account for at least 1% of the total Released Core Ops Membership shall constitute a quorum to legally transact business.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">D.&nbsp;</td><td>Meeting Agenda</td></tr></table>
 </tr>
