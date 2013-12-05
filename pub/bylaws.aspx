@@ -111,17 +111,25 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>The order of business for general Council meetings shall be as follows:</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>Call to Order Welcome Guest Speaker</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>Call to Order</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>Department of EMS report Reading & approval of the minutes Treasurer’s Report</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>Welcome Guest Speaker</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>President’s Report</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Department of EMS report</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">d.&nbsp;</td><td>Committee Reports (as needed) Old Business</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">d.&nbsp;</td><td>Reading & approval of the minutes</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">e.&nbsp;</td><td>New Business</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">e.&nbsp;</td><td>Treasurer’s Report</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">f.&nbsp;</td><td>Adjournment</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">f.&nbsp;</td><td>President’s Report</td></tr></table>
+</tr>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">g.&nbsp;</td><td>Committee Reports (as needed)</td></tr></table>
+</tr>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">h.&nbsp;</td><td>Old Business</td></tr></table>
+</tr>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">i.&nbsp;</td><td>New Business</td></tr></table>
+</tr>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">j.&nbsp;</td><td>Adjournment</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>The order of business may be adjusted as needed.</td></tr></table>
 </tr>
