@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<bonsai-outline version="4.1">
+	<head outline-id="5213324" category="Unfiled" item-count="63">
+		<categories>
+			<category name="Unfiled" id="0" modified="1"/>
+			<category name="Business" id="1" modified="1"/>
+			<category name="Personal" id="2" modified="1"/>
+		</categories>
+		<item-defaults type="simple" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
+		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="36" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="503268058" cursor="271">
+			<views current="Default">
+				<view name="Default">
+					<columns>
+						<column name="text" width="1086"/>
+					</columns>
+				</view>
+			</views>
+			<custom-labels>
+				<custom-label name="Cost" modified="1"/>
+			</custom-labels>
+			<item-text-color current-color-set="none" color-completed="0" completed="#8C8C8C">
+			</item-text-color>
+		</display>
+		<rollup dates="1" status="1">
+			<rollup-custom enable="1" operation="sum" include="all" modified="0"/>
+		</rollup>
+		<sync-info generation="1" modified="1" category-modified="1">
+			<deleted-items>
+				<deleted-item id="464382678"/>
+				<deleted-item id="464382679"/>
+				<deleted-item id="464382680"/>
+				<deleted-item id="464382682"/>
+				<deleted-item id="464382683"/>
+				<deleted-item id="464382684"/>
+				<deleted-item id="464382685"/>
+				<deleted-item id="464382686"/>
+				<deleted-item id="464382687"/>
+				<deleted-item id="464382688"/>
+				<deleted-item id="464382689"/>
+				<deleted-item id="464382690"/>
+				<deleted-item id="464382691"/>
+				<deleted-item id="464382692"/>
+				<deleted-item id="464382693"/>
+				<deleted-item id="464382694"/>
+				<deleted-item id="464382695"/>
+				<deleted-item id="464382696"/>
+				<deleted-item id="464382697"/>
+				<deleted-item id="464382698"/>
+				<deleted-item id="464382699"/>
+				<deleted-item id="464382700"/>
+				<deleted-item id="464382701"/>
+				<deleted-item id="464382702"/>
+				<deleted-item id="464382703"/>
+				<deleted-item id="464382704"/>
+				<deleted-item id="464382705"/>
+				<deleted-item id="464382706"/>
+				<deleted-item id="464382707"/>
+				<deleted-item id="464382709"/>
+				<deleted-item id="464382710"/>
+				<deleted-item id="464382711"/>
+				<deleted-item id="464382712"/>
+				<deleted-item id="464382713"/>
+				<deleted-item id="464382714"/>
+				<deleted-item id="464382715"/>
+				<deleted-item id="464382716"/>
+				<deleted-item id="464382717"/>
+				<deleted-item id="464382718"/>
+				<deleted-item id="464382719"/>
+				<deleted-item id="464382721"/>
+				<deleted-item id="464382722"/>
+				<deleted-item id="464382724"/>
+				<deleted-item id="464382725"/>
+				<deleted-item id="464382726"/>
+				<deleted-item id="464382727"/>
+				<deleted-item id="464382728"/>
+				<deleted-item id="464382729"/>
+				<deleted-item id="464382730"/>
+				<deleted-item id="464382731"/>
+				<deleted-item id="464382733"/>
+				<deleted-item id="464382735"/>
+				<deleted-item id="464382736"/>
+				<deleted-item id="464382737"/>
+				<deleted-item id="464382738"/>
+				<deleted-item id="464382739"/>
+				<deleted-item id="464382740"/>
+				<deleted-item id="464382741"/>
+				<deleted-item id="464382742"/>
+				<deleted-item id="464382743"/>
+				<deleted-item id="464382744"/>
+				<deleted-item id="464382745"/>
+				<deleted-item id="464382746"/>
+				<deleted-item id="464382748"/>
+				<deleted-item id="464382749"/>
+				<deleted-item id="464382750"/>
+				<deleted-item id="464382751"/>
+				<deleted-item id="464382752"/>
+				<deleted-item id="464382753"/>
+				<deleted-item id="464382755"/>
+				<deleted-item id="464382756"/>
+				<deleted-item id="464382758"/>
+				<deleted-item id="464382759"/>
+				<deleted-item id="464382760"/>
+				<deleted-item id="464382761"/>
+				<deleted-item id="464382762"/>
+				<deleted-item id="464382763"/>
+				<deleted-item id="464382764"/>
+				<deleted-item id="464382765"/>
+				<deleted-item id="464382767"/>
+				<deleted-item id="464382768"/>
+				<deleted-item id="464382813"/>
+				<deleted-item id="464382829"/>
+				<deleted-item id="464382903"/>
+				<deleted-item id="464382912"/>
+				<deleted-item id="464382928"/>
+				<deleted-item id="464382941"/>
+				<deleted-item id="464382962"/>
+				<deleted-item id="464382974"/>
+				<deleted-item id="464382983"/>
+				<deleted-item id="464383112"/>
+				<deleted-item id="464383121"/>
+				<deleted-item id="464383157"/>
+				<deleted-item id="464383176"/>
+				<deleted-item id="464383188"/>
+				<deleted-item id="464383195"/>
+				<deleted-item id="464383270"/>
+				<deleted-item id="464383281"/>
+				<deleted-item id="464383289"/>
+				<deleted-item id="464383579"/>
+				<deleted-item id="464383585"/>
+				<deleted-item id="464383593"/>
+				<deleted-item id="464383601"/>
+				<deleted-item id="464383618"/>
+				<deleted-item id="464383626"/>
+				<deleted-item id="464383632"/>
+				<deleted-item id="464383647"/>
+				<deleted-item id="464383692"/>
+				<deleted-item id="464383697"/>
+				<deleted-item id="464383708"/>
+				<deleted-item id="464383713"/>
+				<deleted-item id="464383739"/>
+				<deleted-item id="464383772"/>
+				<deleted-item id="464383778"/>
+				<deleted-item id="464383786"/>
+				<deleted-item id="464383798"/>
+				<deleted-item id="464383805"/>
+				<deleted-item id="464383811"/>
+				<deleted-item id="464383820"/>
+				<deleted-item id="464383826"/>
+				<deleted-item id="464383851"/>
+				<deleted-item id="464383861"/>
+				<deleted-item id="464383867"/>
+				<deleted-item id="464384117"/>
+				<deleted-item id="464384147"/>
+				<deleted-item id="464384232"/>
+				<deleted-item id="464384238"/>
+				<deleted-item id="464384245"/>
+				<deleted-item id="464384296"/>
+				<deleted-item id="464384302"/>
+				<deleted-item id="464384307"/>
+				<deleted-item id="464384323"/>
+				<deleted-item id="464384355"/>
+				<deleted-item id="464384361"/>
+				<deleted-item id="464384367"/>
+				<deleted-item id="464384372"/>
+				<deleted-item id="464384377"/>
+				<deleted-item id="464384385"/>
+				<deleted-item id="464384396"/>
+				<deleted-item id="464384411"/>
+				<deleted-item id="464384417"/>
+				<deleted-item id="464384422"/>
+				<deleted-item id="464384428"/>
+				<deleted-item id="464384433"/>
+				<deleted-item id="464384443"/>
+				<deleted-item id="464384453"/>
+				<deleted-item id="464384476"/>
+				<deleted-item id="464384482"/>
+				<deleted-item id="464384487"/>
+				<deleted-item id="464384493"/>
+				<deleted-item id="464384499"/>
+				<deleted-item id="464384510"/>
+				<deleted-item id="464384519"/>
+				<deleted-item id="464384522"/>
+				<deleted-item id="464384527"/>
+				<deleted-item id="464384544"/>
+				<deleted-item id="464384550"/>
+				<deleted-item id="464384555"/>
+				<deleted-item id="464384561"/>
+				<deleted-item id="464384573"/>
+				<deleted-item id="464384578"/>
+				<deleted-item id="464384583"/>
+				<deleted-item id="464384588"/>
+				<deleted-item id="464384602"/>
+				<deleted-item id="464384608"/>
+				<deleted-item id="464384614"/>
+				<deleted-item id="464384621"/>
+				<deleted-item id="464384627"/>
+				<deleted-item id="464384672"/>
+				<deleted-item id="464384680"/>
+				<deleted-item id="464384684"/>
+				<deleted-item id="464384690"/>
+				<deleted-item id="464384696"/>
+				<deleted-item id="464384701"/>
+				<deleted-item id="464384706"/>
+				<deleted-item id="464384716"/>
+				<deleted-item id="464384722"/>
+				<deleted-item id="464384728"/>
+				<deleted-item id="464384738"/>
+				<deleted-item id="464384808"/>
+				<deleted-item id="464384812"/>
+				<deleted-item id="464384817"/>
+				<deleted-item id="464385101"/>
+				<deleted-item id="464385109"/>
+				<deleted-item id="464385117"/>
+				<deleted-item id="464385122"/>
+				<deleted-item id="464385129"/>
+				<deleted-item id="464385136"/>
+				<deleted-item id="464385140"/>
+				<deleted-item id="464385214"/>
+				<deleted-item id="464385375"/>
+				<deleted-item id="464385520"/>
+				<deleted-item id="464385524"/>
+				<deleted-item id="464385532"/>
+				<deleted-item id="464385536"/>
+				<deleted-item id="464385540"/>
+				<deleted-item id="464385544"/>
+				<deleted-item id="464385553"/>
+				<deleted-item id="464385561"/>
+				<deleted-item id="464385567"/>
+				<deleted-item id="464385592"/>
+				<deleted-item id="464385600"/>
+				<deleted-item id="464385608"/>
+				<deleted-item id="464385665"/>
+				<deleted-item id="464385671"/>
+				<deleted-item id="464385676"/>
+				<deleted-item id="464385680"/>
+				<deleted-item id="464385687"/>
+				<deleted-item id="464385692"/>
+				<deleted-item id="464385698"/>
+				<deleted-item id="464385703"/>
+				<deleted-item id="464385729"/>
+				<deleted-item id="464385733"/>
+				<deleted-item id="464385736"/>
+				<deleted-item id="464385741"/>
+				<deleted-item id="464385756"/>
+				<deleted-item id="464385760"/>
+				<deleted-item id="464385765"/>
+				<deleted-item id="464385769"/>
+				<deleted-item id="464385772"/>
+				<deleted-item id="464385776"/>
+				<deleted-item id="464385780"/>
+				<deleted-item id="464385783"/>
+				<deleted-item id="464385787"/>
+				<deleted-item id="464385790"/>
+				<deleted-item id="464385795"/>
+				<deleted-item id="464385799"/>
+				<deleted-item id="464385803"/>
+				<deleted-item id="464385808"/>
+				<deleted-item id="464385814"/>
+				<deleted-item id="464385818"/>
+				<deleted-item id="464385822"/>
+				<deleted-item id="464385826"/>
+				<deleted-item id="464385829"/>
+				<deleted-item id="464385832"/>
+				<deleted-item id="464385838"/>
+				<deleted-item id="464385842"/>
+				<deleted-item id="464385845"/>
+				<deleted-item id="464385849"/>
+				<deleted-item id="464385854"/>
+				<deleted-item id="464385903"/>
+				<deleted-item id="464385918"/>
+				<deleted-item id="464386014"/>
+				<deleted-item id="464386020"/>
+				<deleted-item id="464386026"/>
+				<deleted-item id="464386056"/>
+				<deleted-item id="464386063"/>
+				<deleted-item id="464386705"/>
+				<deleted-item id="464386726"/>
+				<deleted-item id="464386757"/>
+				<deleted-item id="464386787"/>
+				<deleted-item id="464386805"/>
+				<deleted-item id="464387538"/>
+				<deleted-item id="464387554"/>
+				<deleted-item id="464387566"/>
+				<deleted-item id="464387598"/>
+				<deleted-item id="464387610"/>
+			</deleted-items>
+		</sync-info>
+	</head>
+	<items xml:space="preserve">
+		<item id="503267857" type="simple" priority="1" create-date="05 Dec 2013 15:37" last-modified="05 Dec 2013 15:38" pos-hint="2147483649" modified="#100342">
+			<text>NAME:  The name of the corporation is specified in the Articles Of Incorporation (charter). The corporation shall be hereafter referred to as the “Council” in these bylaws.</text>
+		</item>
+		<item id="503267943" type="simple" priority="1" create-date="05 Dec 2013 15:39" last-modified="05 Dec 2013 15:39" pos-hint="2147483649" modified="#1009C2">
+			<text>PURPOSE:  The purpose of this corporation is specified in the Articles Of Incorporation (charter).</text>
+		</item>
+		<item id="503267945" type="simple" priority="1" create-date="05 Dec 2013 15:39" last-modified="05 Dec 2013 15:39" pos-hint="2147483649" modified="#1009C2">
+			<text>MEMBERSHIP</text>
+			<items>
+				<item id="503267977" type="simple" priority="1" create-date="05 Dec 2013 15:39" last-modified="05 Dec 2013 15:39" pos-hint="2147483649" modified="#100342">
+					<text>For the purposes of this Article and of the Articles Of Incorporation (charter), each of the following companies shall also be considered to be a volunteer rescue squad:</text>
+					<items>
+						<item id="503267993" type="simple" priority="1" create-date="05 Dec 2013 15:39" last-modified="05 Dec 2013 15:40" pos-hint="2147483649" modified="#100BC2">
+							<text>Virginia Beach Volunteer Water Rescue Team, Inc.</text>
+						</item>
+					</items>
+				</item>
+				<item id="503268008" type="simple" priority="1" create-date="05 Dec 2013 15:40" last-modified="05 Dec 2013 15:40" pos-hint="2147483649" modified="#100BC2">
+					<text>Each volunteer rescue squad shall provide to the Council secretary, in writing, the name of its primary representative to Council. The name of one (1) alternate representative who can act in the absence of the primary representative shall also be provided, in writing, to the Council secretary. In the event of both the primary and the alternate representative being unable to act, the volunteer rescue squads can designate, in writing, a temporary alternate to act on their behalf at that meeting.</text>
+				</item>
+			</items>
+		</item>
+		<item id="503268042" type="simple" priority="1" create-date="05 Dec 2013 15:40" last-modified="05 Dec 2013 15:40" pos-hint="2147483649" modified="#100342">
+			<text>ELECTION OF OFFICERS</text>
+			<items>
+				<item id="503268045" type="simple" priority="1" create-date="05 Dec 2013 15:40" last-modified="05 Dec 2013 15:40" pos-hint="2147483649" modified="#100342">
+					<text>Election of officers shall be held annually at the December meeting. Voting shall be by ballot. A majority of voting members present shall be necessary to elect. The newly elected officers will take office on January 1st.</text>
+				</item>
+				<item id="503268058" type="simple" priority="1" create-date="05 Dec 2013 15:40" last-modified="05 Dec 2013 15:53" pos-hint="2147483649" modified="#100342">
+					<text>The Vice-President shall become President upon a vacancy in that office. A vacancy in any other office shall be filled in the original manner by special election as either the next regularly scheduled meeting or at a special meeting called in accordance with Article VIII, Section B. The newly elected officer will take office immediately.</text>
+				</item>
+			</items>
+		</item>
+		<item id="503268126" type="simple" priority="1" create-date="05 Dec 2013 15:42" last-modified="05 Dec 2013 15:42" pos-hint="2147483649" modified="#100342">
+			<text>OFFICERS AND DUTIES</text>
+			<items>
+				<item id="503268129" type="simple" priority="1" create-date="05 Dec 2013 15:42" last-modified="05 Dec 2013 15:42" pos-hint="2147483649" modified="#100342">
+					<text>The officers of the Council shall consist of an elected President, Vice President, Secretary, and Treasurer. Their duties are as follows:</text>
+					<items>
+						<item id="503268149" type="simple" priority="1" create-date="05 Dec 2013 15:42" last-modified="05 Dec 2013 15:42" pos-hint="2147483649" modified="#100342">
+							<text>The President shall serve as the corporate President of the Council. The President shall preside over Council meetings and shall serve as the Council Representative at all ERS meetings.</text>
+						</item>
+						<item id="503268164" type="simple" priority="1" create-date="05 Dec 2013 15:42" last-modified="05 Dec 2013 15:42" pos-hint="2147483649" modified="#100342">
+							<text>The Vice-President shall serve as the corporate Vice-President of the Council. The Vice-President shall assume the duties of the president in the absence of the president.</text>
+						</item>
+						<item id="503268173" type="simple" priority="1" create-date="05 Dec 2013 15:42" last-modified="05 Dec 2013 15:43" pos-hint="2147483649" modified="#100342">
+							<text>The Secretary shall serve as corporate Secretary of the Council, keeping records of all meetings of the Council. The Secretary shall maintain a current list of all members, a roster of attendance of each meeting, and a file of the minutes of each meeting.</text>
+						</item>
+						<item id="503268182" type="simple" priority="1" create-date="05 Dec 2013 15:43" last-modified="05 Dec 2013 15:43" pos-hint="2147483649" modified="#100342">
+							<text>The Treasurer shall serve as the corporate Treasurer of the Council. The Treasurer shall receive and be responsible for all funds of the Council making such disbursements for expenses as may be incurred by the Council. The Treasurer shall make a financial report at each Council meeting. The Treasurer shall make a complete written financial report to the Council annually as audited by a certified public accountant.</text>
+						</item>
+						<item id="503268192" type="simple" priority="1" create-date="05 Dec 2013 15:43" last-modified="05 Dec 2013 15:43" pos-hint="2147483649" modified="#100342">
+							<text>The Director of EMS may serve, at his discretion, as a non-voting member of Council. The Director shall provide due consideration of all recommendations of the Council when making policy decisions deemed in the best interest of the EMS System in accordance with City Code.</text>
+						</item>
+					</items>
+				</item>
+				<item id="503268211" type="simple" priority="1" create-date="05 Dec 2013 15:43" last-modified="05 Dec 2013 15:43" pos-hint="2147483649" modified="#80135FC2">
+					<text>A parliamentarian may be appointed by the President with the majority approval of the Council. The Parliamentarian will be chair of the Bylaws committee, if such a committee is appointed during the year.</text>
+				</item>
+			</items>
+		</item>
+		<item id="503268217" type="simple" priority="1" create-date="05 Dec 2013 15:43" last-modified="05 Dec 2013 15:43" pos-hint="2147483649" modified="#80135FC2">
+			<text>COMMITTEES</text>
+			<items>
+				<item id="503268230" type="simple" priority="1" create-date="05 Dec 2013 15:43" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#100342">
+					<text>The Executive Committee</text>
+					<items>
+						<item id="503268255" type="simple" priority="1" create-date="05 Dec 2013 15:44" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#100342">
+							<text>The Executive Committee shall consist of:</text>
+							<items>
+								<item id="503268275" type="simple" priority="1" create-date="05 Dec 2013 15:44" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#80135FC2">
+									<text>The President </text>
+								</item>
+								<item id="503268276" type="simple" priority="1" create-date="05 Dec 2013 15:44" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#100342">
+									<text>The Vice-President </text>
+								</item>
+								<item id="503268277" type="simple" priority="1" create-date="05 Dec 2013 15:44" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#100342">
+									<text>The Secretary </text>
+								</item>
+								<item id="503268278" type="simple" priority="1" create-date="05 Dec 2013 15:44" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#100342">
+									<text>The Treasurer </text>
+								</item>
+								<item id="503268279" type="simple" priority="1" create-date="05 Dec 2013 15:44" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#100342">
+									<text>One member-at-large (elected from primary/alternate representatives) </text>
+								</item>
+								<item id="503268280" type="simple" priority="1" create-date="05 Dec 2013 15:44" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#100342">
+									<text>The Department of EMS representative (non-voting) </text>
+								</item>
+								<item id="503268281" type="simple" priority="1" create-date="05 Dec 2013 15:44" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#100342">
+									<text>The immediate past president (non-voting)</text>
+								</item>
+							</items>
+						</item>
+						<item id="503268290" type="simple" priority="1" create-date="05 Dec 2013 15:44" last-modified="05 Dec 2013 15:44" pos-hint="2147483649" modified="#80135FC2">
+							<text>The Executive Committee shall operate under the following guidelines:</text>
+							<items>
+								<item id="503268316" type="simple" priority="1" create-date="05 Dec 2013 15:45" last-modified="05 Dec 2013 15:45" pos-hint="2147483649" modified="#100342">
+									<text>The President shall be the chair of this Committee.</text>
+								</item>
+								<item id="503268318" type="simple" priority="1" create-date="05 Dec 2013 15:45" last-modified="05 Dec 2013 15:45" pos-hint="2147483649" modified="#100342">
+									<text>The Executive Committee shall meet when necessary to conduct the regular corporate business of the Council and shall report to the members of Council. </text>
+								</item>
+								<item id="503268320" type="simple" priority="1" create-date="05 Dec 2013 15:45" last-modified="05 Dec 2013 15:45" pos-hint="2147483649" modified="#100342">
+									<text>Special meetings on other matters may be called upon the request of the President or any three (3) executive committee members with a five (5) day notice to members. Only business identified in the notice of special meeting may be transacted. </text>
+								</item>
+								<item id="503268322" type="simple" priority="1" create-date="05 Dec 2013 15:45" last-modified="05 Dec 2013 15:45" pos-hint="2147483649" modified="#100342">
+									<text>A quorum shall consist of three (3) voting members. </text>
+								</item>
+								<item id="503268324" type="simple" priority="1" create-date="05 Dec 2013 15:45" last-modified="05 Dec 2013 15:45" pos-hint="2147483649" modified="#100342">
+									<text>Shall have the authority to approve all normal operating expenses and conduct the day-to-day operations of the Council. </text>
+								</item>
+								<item id="503268326" type="simple" priority="1" create-date="05 Dec 2013 15:45" last-modified="05 Dec 2013 15:45" pos-hint="2147483649" modified="#100342">
+									<text>Shall assure there is an operating budget for the ensuing fiscal year and present such budget to the Council membership for approval. </text>
+								</item>
+								<item id="503268328" type="simple" priority="1" create-date="05 Dec 2013 15:45" last-modified="05 Dec 2013 15:45" pos-hint="2147483649" modified="#100342">
+									<text>Shall be responsible for all matters pertaining to Council policies as set forth in the bylaws. </text>
+								</item>
+							</items>
+						</item>
+					</items>
+				</item>
+				<item id="503268357" type="simple" priority="1" create-date="05 Dec 2013 15:45" last-modified="05 Dec 2013 15:46" pos-hint="2147483649" modified="#80135FC2">
+					<text>Other Committees:  The President of Council may establish committees to assist the Council in accomplishing its goal. These committees may be standing or temporary, as determined by the President or Council. The Chairs of such committees shall report to the Council as needed.</text>
+				</item>
+			</items>
+		</item>
+		<item id="503268398" type="simple" priority="1" create-date="05 Dec 2013 15:46" last-modified="05 Dec 2013 15:46" pos-hint="2147483649" modified="#80135FC2">
+			<text>FINANCES</text>
+			<items>
+				<item id="503268420" type="simple" priority="1" create-date="05 Dec 2013 15:46" last-modified="05 Dec 2013 15:47" pos-hint="2147483649" modified="#100342">
+					<text>The Council shall operate on a fiscal year from January 1st to December 31st.</text>
+				</item>
+				<item id="503268422" type="simple" priority="1" create-date="05 Dec 2013 15:46" last-modified="05 Dec 2013 15:47" pos-hint="2147483649" modified="#80135FC2">
+					<text>All disbursements of funds shall require two signatures.</text>
+				</item>
+			</items>
+		</item>
+		<item id="503268429" type="simple" priority="1" create-date="05 Dec 2013 15:47" last-modified="05 Dec 2013 15:47" pos-hint="2147483649" modified="#80135FC2">
+			<text>MEETINGS</text>
+			<items>
+				<item id="503268454" type="simple" priority="1" create-date="05 Dec 2013 15:47" last-modified="05 Dec 2013 15:47" pos-hint="2147483649" modified="#100342">
+					<text>Meetings shall be held on the 3rd Wednesday of each odd month with a special meeting to be held in December for the elections and budget approval.</text>
+				</item>
+				<item id="503268456" type="simple" priority="1" create-date="05 Dec 2013 15:47" last-modified="05 Dec 2013 15:47" pos-hint="2147483649" modified="#100342">
+					<text>Special meetings may be called by the President or upon written request of any five (5) voting members in good standing of Council.</text>
+				</item>
+				<item id="503268458" type="simple" priority="1" create-date="05 Dec 2013 15:47" last-modified="05 Dec 2013 15:47" pos-hint="2147483649" modified="#100342">
+					<text>Six (6) voting members shall constitute a quorum to legally transact business.</text>
+				</item>
+				<item id="503268460" type="simple" priority="1" create-date="05 Dec 2013 15:47" last-modified="05 Dec 2013 15:47" pos-hint="2147483649" modified="#100342">
+					<text>Meeting Agenda</text>
+					<items>
+						<item id="503268489" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#80135FC2">
+							<text>The order of business for general Council meetings shall be as follows:</text>
+							<items>
+								<item id="503268505" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+									<text>Call to Order Welcome Guest Speaker</text>
+								</item>
+								<item id="503268507" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+									<text>Department of EMS report Reading &amp; approval of the minutes Treasurer’s Report</text>
+								</item>
+								<item id="503268508" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+									<text>President’s Report</text>
+								</item>
+								<item id="503268510" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+									<text>Committee Reports (as needed) Old Business</text>
+								</item>
+								<item id="503268512" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+									<text>New Business</text>
+								</item>
+								<item id="503268513" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+									<text>Adjournment</text>
+								</item>
+							</items>
+						</item>
+						<item id="503268520" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+							<text>The order of business may be adjusted as needed.</text>
+						</item>
+					</items>
+				</item>
+			</items>
+		</item>
+		<item id="503268538" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#80135FC2">
+			<text>RULES OF ORDER</text>
+			<items>
+				<item id="503268563" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:49" pos-hint="2147483649" modified="#100342">
+					<text>The rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern the organization except where they are inconsistent with the bylaws of Council or with any special rules of order adopted.</text>
+				</item>
+				<item id="503268565" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:49" pos-hint="2147483649" modified="#100342">
+					<text>The order of business may be adjusted as needed.</text>
+				</item>
+			</items>
+		</item>
+		<item id="503268574" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:49" pos-hint="2147483649" modified="#80135FC2">
+			<text>CONDUCT OF MEMBERS</text>
+			<items>
+				<item id="503268597" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:49" pos-hint="2147483649" modified="#100342">
+					<text>Council members and their alternates shall conduct themselves, at all times, in a manner which will command the respect of Rescue Squad Officers, Rescue Squad Members, the Department of EMS and the general public.</text>
+				</item>
+				<item id="503268599" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:50" pos-hint="2147483649" modified="#100342">
+					<text>Council members and their alternates shall conduct themselves in accordance with and abide by the rules, regulations, policies and standard operating procedures of the Council, the Department of Emergency Medical Services and the City of Virginia Beach.</text>
+				</item>
+				<item id="503268601" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:50" pos-hint="2147483649" modified="#100342">
+					<text>The President shall notify the home station’s Executive Board of any Council member who does not follow the above requirements.</text>
+				</item>
+				<item id="503268603" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:50" pos-hint="2147483649" modified="#100342">
+					<text>Should a member be dismissed, a new representative from the affected rescue squad or the water rescue team shall be appointed to fill their position prior to the next Council meeting.</text>
+				</item>
+			</items>
+		</item>
+		<item id="503268643" type="simple" priority="1" create-date="05 Dec 2013 15:50" last-modified="05 Dec 2013 15:51" pos-hint="2147483649" modified="#80135FC2">
+			<text>AMENDMENT TO BYLAWS</text>
+			<items>
+				<item id="503268708" type="simple" priority="1" create-date="05 Dec 2013 15:51" last-modified="05 Dec 2013 15:51" pos-hint="2147483649" modified="#100342">
+					<text>These bylaws may be amended when necessary by a two-thirds (2/3) majority vote of the Council members present.</text>
+				</item>
+				<item id="503268710" type="simple" priority="1" create-date="05 Dec 2013 15:51" last-modified="05 Dec 2013 15:51" pos-hint="2147483649" modified="#80135FC2">
+					<text>The proposed amendment must be tabled for a minimum of twenty-seven (27) days before being voted upon.</text>
+				</item>
+			</items>
+		</item>
+	</items>
+</bonsai-outline>

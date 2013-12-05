@@ -17,7 +17,7 @@
         <li><p>Documents</p>
           <ul>
             <li><p><a href="../resource/Articles-of-incorporation.pdf">Articles Of Incorporation</a></p></li>
-            <li><p><a href="../resource/Bylaws.pdf">Bylaws</a></p></li>
+            <li><p><a href="bylaws.aspx">Bylaws</a></p></li>
             <li><p><b>Minutes</b> are published to the <a href="http://www.yahoogroups.com/group/BeachEMS">BeachEMS Egroup</a>.</p></li>
           </ul>
         </li>
