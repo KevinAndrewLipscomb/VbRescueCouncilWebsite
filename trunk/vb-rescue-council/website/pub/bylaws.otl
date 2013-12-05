@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <bonsai-outline version="4.1">
-	<head outline-id="5213324" category="Unfiled" item-count="63">
+	<head outline-id="5213324" category="Unfiled" item-count="67">
 		<categories>
 			<category name="Unfiled" id="0" modified="1"/>
 			<category name="Business" id="1" modified="1"/>
 			<category name="Personal" id="2" modified="1"/>
 		</categories>
 		<item-defaults type="simple" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
-		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="36" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="503268458" cursor="16">
+		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="36" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="503270646" cursor="0">
 			<views current="Default">
 				<view name="Default">
 					<columns>
@@ -442,68 +442,80 @@
 						<item id="503268489" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#80135FC2">
 							<text>The order of business for general Council meetings shall be as follows:</text>
 							<items>
-								<item id="503268505" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
-									<text>Call to Order Welcome Guest Speaker</text>
+								<item id="503268505" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 16:23" pos-hint="2147483649" modified="#100342">
+									<text>Call to Order</text>
 								</item>
-								<item id="503268507" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
-									<text>Department of EMS report Reading &amp; approval of the minutes Treasurer’s Report</text>
+								<item id="503270632" type="simple" priority="1" create-date="05 Dec 2013 16:23" last-modified="05 Dec 2013 16:23" pos-hint="2147483649" modified="#80135FC2">
+									<text>Welcome Guest Speaker</text>
 								</item>
-								<item id="503268508" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+								<item id="503268507" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 16:23" pos-hint="2147483649" modified="#100342">
+									<text>Department of EMS report</text>
+								</item>
+								<item id="503270638" type="simple" priority="1" create-date="05 Dec 2013 16:23" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100BC2">
+									<text>Reading &amp; approval of the minutes</text>
+								</item>
+								<item id="503270642" type="simple" priority="1" create-date="05 Dec 2013 16:24" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100BC2">
+									<text>Treasurer’s Report</text>
+								</item>
+								<item id="503268508" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 									<text>President’s Report</text>
 								</item>
-								<item id="503268510" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
-									<text>Committee Reports (as needed) Old Business</text>
+								<item id="503268510" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
+									<text>Committee Reports (as needed)</text>
 								</item>
-								<item id="503268512" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+								<item id="503270646" type="simple" priority="1" create-date="05 Dec 2013 16:24" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100BC2">
+									<text>Old Business</text>
+								</item>
+								<item id="503268512" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 									<text>New Business</text>
 								</item>
-								<item id="503268513" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+								<item id="503268513" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 									<text>Adjournment</text>
 								</item>
 							</items>
 						</item>
-						<item id="503268520" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#100342">
+						<item id="503268520" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 							<text>The order of business may be adjusted as needed.</text>
 						</item>
 					</items>
 				</item>
 			</items>
 		</item>
-		<item id="503268538" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 15:48" pos-hint="2147483649" modified="#80135FC2">
+		<item id="503268538" type="simple" priority="1" create-date="05 Dec 2013 15:48" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#80135FC2">
 			<text>RULES OF ORDER</text>
 			<items>
-				<item id="503268563" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:49" pos-hint="2147483649" modified="#100342">
+				<item id="503268563" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 					<text>The rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern the organization except where they are inconsistent with the bylaws of Council or with any special rules of order adopted.</text>
 				</item>
-				<item id="503268565" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:49" pos-hint="2147483649" modified="#100342">
+				<item id="503268565" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 					<text>The order of business may be adjusted as needed.</text>
 				</item>
 			</items>
 		</item>
-		<item id="503268574" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:49" pos-hint="2147483649" modified="#80135FC2">
+		<item id="503268574" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#80135FC2">
 			<text>CONDUCT OF MEMBERS</text>
 			<items>
-				<item id="503268597" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:49" pos-hint="2147483649" modified="#100342">
+				<item id="503268597" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 					<text>Council members and their alternates shall conduct themselves, at all times, in a manner which will command the respect of Rescue Squad Officers, Rescue Squad Members, the Department of EMS and the general public.</text>
 				</item>
-				<item id="503268599" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:50" pos-hint="2147483649" modified="#100342">
+				<item id="503268599" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 					<text>Council members and their alternates shall conduct themselves in accordance with and abide by the rules, regulations, policies and standard operating procedures of the Council, the Department of Emergency Medical Services and the City of Virginia Beach.</text>
 				</item>
-				<item id="503268601" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:50" pos-hint="2147483649" modified="#100342">
+				<item id="503268601" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 					<text>The President shall notify the home station’s Executive Board of any Council member who does not follow the above requirements.</text>
 				</item>
-				<item id="503268603" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 15:50" pos-hint="2147483649" modified="#100342">
+				<item id="503268603" type="simple" priority="1" create-date="05 Dec 2013 15:49" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 					<text>Should a member be dismissed, a new representative from the affected rescue squad or the water rescue team shall be appointed to fill their position prior to the next Council meeting.</text>
 				</item>
 			</items>
 		</item>
-		<item id="503268643" type="simple" priority="1" create-date="05 Dec 2013 15:50" last-modified="05 Dec 2013 15:51" pos-hint="2147483649" modified="#80135FC2">
+		<item id="503268643" type="simple" priority="1" create-date="05 Dec 2013 15:50" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#80135FC2">
 			<text>AMENDMENT TO BYLAWS</text>
 			<items>
-				<item id="503268708" type="simple" priority="1" create-date="05 Dec 2013 15:51" last-modified="05 Dec 2013 15:51" pos-hint="2147483649" modified="#100342">
+				<item id="503268708" type="simple" priority="1" create-date="05 Dec 2013 15:51" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#100342">
 					<text>These bylaws may be amended when necessary by a two-thirds (2/3) majority vote of the Council members present.</text>
 				</item>
-				<item id="503268710" type="simple" priority="1" create-date="05 Dec 2013 15:51" last-modified="05 Dec 2013 15:51" pos-hint="2147483649" modified="#80135FC2">
+				<item id="503268710" type="simple" priority="1" create-date="05 Dec 2013 15:51" last-modified="05 Dec 2013 16:24" pos-hint="2147483649" modified="#80135FC2">
 					<text>The proposed amendment must be tabled for a minimum of twenty-seven (27) days before being voted upon.</text>
 				</item>
 			</items>
