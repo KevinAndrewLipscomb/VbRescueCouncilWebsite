@@ -91,6 +91,7 @@
     <Content Include="js\sha1.js" />
     <Content Include="login.aspx" />
     <Content Include="new_user_registration.aspx" />
+    <Content Include="pub\bylaws.aspx" />
     <Content Include="pub\corporate_detail.aspx" />
     <Content Include="pub\members.aspx" />
     <Content Include="pub\mission_detail.aspx" />
@@ -210,6 +211,13 @@
     </Compile>
     <Compile Include="protected\overview.aspx.designer.cs">
       <DependentUpon>overview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pub\bylaws.aspx.cs">
+      <DependentUpon>bylaws.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\bylaws.aspx.designer.cs">
+      <DependentUpon>bylaws.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\corporate_detail.aspx.cs">
       <DependentUpon>corporate_detail.aspx</DependentUpon>
