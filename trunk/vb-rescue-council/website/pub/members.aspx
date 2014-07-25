@@ -28,8 +28,8 @@
           </tr>
           <tr>
             <td>#1 - Ocean Park</td>
-            <td>Tiffany Robbins</td>
-            <td>Dennis Popiela</td>
+            <td>Jay Kerr</td>
+            <td>Erica Waldron</td>
           </tr>
           <tr>
             <td>#2 - Davis Corner</td>
@@ -63,18 +63,18 @@
           </tr>
           <tr>
             <td>#14 - Virginia Beach</td>
-            <td>Susan Bauman</td>
+            <td>Ellen McBride</td>
             <td>Tom Harp</td>
           </tr>
           <tr>
             <td>#16 - Plaza</td>
             <td>Chris Florio</td>
-            <td>Randy Sudbrock</td>
+            <td>Bill Walker</td>
           </tr>
           <tr>
             <td>#17 - Sandbridge</td>
-            <td>Doris Lee</td>
             <td>Pam Pietrzak</td>
+            <td>Greg Meyer</td>
           </tr>
           <tr>
             <td>Marine Rescue Team</td>
