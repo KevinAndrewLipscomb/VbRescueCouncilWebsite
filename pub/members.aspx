@@ -48,8 +48,8 @@
           </tr>
           <tr>
             <td>#6 - Creeds</td>
-            <td>Nancy Gregory</td>
             <td>Chris Dozier</td>
+            <td>Nancy Gregory</td>
           </tr>
           <tr>
             <td>#9 - Kempsville</td>
