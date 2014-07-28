@@ -78,8 +78,8 @@
           </tr>
           <tr>
             <td>Marine Rescue Team</td>
-            <td>Meade Stone</td>
-            <td>&nbsp;</td>
+            <td>Mike Bradberry</td>
+            <td>Jim Rose</td>
           </tr>
         </table>
       </blockquote>
