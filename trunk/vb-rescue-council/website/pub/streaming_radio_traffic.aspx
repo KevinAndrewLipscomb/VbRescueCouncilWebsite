@@ -19,7 +19,31 @@
           <p><a rel="nofollow" class="external text" href="http://www.broadcastify.com/listen/feed/14744/web" target="_blank"><strong>Virginia Beach EMS</strong></a></p>
           <blockquote>
             <table>
-              <tr><td><iframe width="325px" height="245px" src="http://api.broadcastify.com/embed/player/?key=64652882&feedId=14744&as=1&stats=1">Your browser does not support iFrames.</iframe></td></tr>
+              <tr>
+                <td>
+                  <div id="Div_scanner_feed"><!-- iframe width="325px" height="245px" src="http://api.broadcastify.com/embed/player/?key=64652882&feedId=14744&as=1&stats=1">Your browser does not support iFrames.</iframe --></div>
+                  <script type="text/javascript">
+                    //doesn't block the load event
+                    function createIframe() {
+                      var i = document.createElement("iframe");
+                      i.src = "http://api.broadcastify.com/embed/player/?key=64652882&feedId=14744&as=1&stats=1";
+                      i.scrolling = "auto";
+                      i.frameborder = "0";
+                      i.width = "325px";
+                      i.height = "245px";
+                      document.getElementById("Div_scanner_feed").appendChild(i);
+                    };
+
+                    // Check for browser support of event handling capability
+                    if (window.addEventListener)
+                      window.addEventListener("load", createIframe, false);
+                    else if (window.attachEvent)
+                      window.attachEvent("onload", createIframe);
+                    else window.onload = createIframe;
+
+                  </script>
+                </td>
+              </tr>
               <tr>
                 <td>
                   <p>This feed includes:</p>
