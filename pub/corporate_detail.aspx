@@ -18,7 +18,7 @@
           <ul>
             <li><p><a href="../resource/Articles-of-incorporation.pdf">Articles Of Incorporation</a></p></li>
             <li><p><a href="bylaws.aspx">Bylaws</a></p></li>
-            <li><p><a href="http://mycommittee.com/tabid/271/dg/9173/Default.aspx"><b>Minutes</b> and other resources</a></p></li>
+            <li><p><a href="http://www.mycommittee.com/tabid/271/dg/9173/Default.aspx"><b>Minutes</b> and other resources</a></p></li>
             <li><p><a href="http://www.yahoogroups.com/group/vbems-council"><b>vbems-council</b> egroup</a> (internal forum)</p></li>
           </ul>
         </li>
