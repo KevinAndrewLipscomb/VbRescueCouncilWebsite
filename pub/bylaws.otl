@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <bonsai-outline version="4.1">
-	<head outline-id="5213324" category="Unfiled" item-count="67">
+	<head outline-id="5213325" category="Unfiled" item-count="67">
 		<categories>
 			<category name="Unfiled" id="0" modified="1"/>
 			<category name="Business" id="1" modified="1"/>
 			<category name="Personal" id="2" modified="1"/>
 		</categories>
 		<item-defaults type="simple" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
-		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="36" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="503270646" cursor="0">
+		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="36" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="503268182" cursor="429">
 			<views current="Default">
 				<view name="Default">
 					<columns>
@@ -335,8 +335,8 @@
 						<item id="503268173" type="simple" priority="1" create-date="05 Dec 2013 15:42" last-modified="05 Dec 2013 15:43" pos-hint="2147483649" modified="#100342">
 							<text>The Secretary shall serve as corporate Secretary of the Council, keeping records of all meetings of the Council. The Secretary shall maintain a current list of all members, a roster of attendance of each meeting, and a file of the minutes of each meeting.</text>
 						</item>
-						<item id="503268182" type="simple" priority="1" create-date="05 Dec 2013 15:43" last-modified="05 Dec 2013 15:43" pos-hint="2147483649" modified="#100342">
-							<text>The Treasurer shall serve as the corporate Treasurer of the Council. The Treasurer shall receive and be responsible for all funds of the Council making such disbursements for expenses as may be incurred by the Council. The Treasurer shall make a financial report at each Council meeting. The Treasurer shall make a complete written financial report to the Council annually as audited by a certified public accountant.</text>
+						<item id="503268182" type="simple" priority="1" create-date="05 Dec 2013 15:43" last-modified="19 Sep 2014 14:41" pos-hint="2147483649" modified="#100342">
+							<text>The Treasurer shall serve as the corporate Treasurer of the Council. The Treasurer shall receive and be responsible for all funds of the Council making such disbursements for expenses as may be incurred by the Council. The Treasurer shall make a financial report at each Council meeting. The Treasurer shall make a complete written financial report to the Council annually as reviewed according to rules adopted by Rescue Council.</text>
 						</item>
 						<item id="503268192" type="simple" priority="1" create-date="05 Dec 2013 15:43" last-modified="05 Dec 2013 15:43" pos-hint="2147483649" modified="#100342">
 							<text>The Director of EMS may serve, at his discretion, as a non-voting member of Council. The Director shall provide due consideration of all recommendations of the Council when making policy decisions deemed in the best interest of the EMS System in accordance with City Code.</text>
