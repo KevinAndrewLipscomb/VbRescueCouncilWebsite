@@ -31,7 +31,7 @@
         </tr>
         <tr>
           <td>Secretary</td>
-          <td>Susan Bauman</td>
+          <td>Kevin Lipscomb</td>
         </tr>
         <tr>
           <td>Treasurer</td>

@@ -39,12 +39,12 @@
           <tr>
             <td>#4 - Chesapeake Beach</td>
             <td>Deb Leonard</td>
-            <td>Ed Leonard</td>
+            <td>Kathleen Cope</td>
           </tr>
           <tr>
             <td>#5 - Princess Anne Courthouse</td>
             <td>Gary Wilks Sr</td>
-            <td>Chris Daly</td>
+            <td>David Coulling</td>
           </tr>
           <tr>
             <td>#6 - Creeds</td>
