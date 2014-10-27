@@ -74,7 +74,7 @@
           <tr>
             <td>#17 - Sandbridge</td>
             <td>Pam Pietrzak</td>
-            <td>Greg Meyer</td>
+            <td>Zach Smith</td>
           </tr>
           <tr>
             <td>Marine Rescue Team</td>
