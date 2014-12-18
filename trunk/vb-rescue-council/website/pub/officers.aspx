@@ -19,7 +19,7 @@
           <td style="text-decoration: underline"><b>Position</b></td>
           <td style="text-decoration: underline"><b>Incumbent</b></td>
           <td style="text-decoration: underline"><b>Term runs through...</b></td>
-          <td style="text-decoration: underline"><b>Officer-elect</b></td>"
+          <td style="text-decoration: underline"><b>Officer-elect</b></td>
         </tr>
         <tr>
           <td>President</td>
