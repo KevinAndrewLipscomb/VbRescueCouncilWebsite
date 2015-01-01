@@ -19,33 +19,33 @@
           <td style="text-decoration: underline"><b>Position</b></td>
           <td style="text-decoration: underline"><b>Incumbent</b></td>
           <td style="text-decoration: underline"><b>Term runs through...</b></td>
-          <td style="text-decoration: underline"><b>Officer-elect</b></td>
+          <!-- <td style="text-decoration: underline"><b>Officer-elect</b></td> -->
         </tr>
         <tr>
           <td>President</td>
           <td>Tom Harp</td>
-          <td bgcolor="Gainsboro" rowspan="5" style="text-align: center">31 December 2013</td>
-          <td>Tom Harp</td>
+          <td bgcolor="Gainsboro" rowspan="5" style="text-align: center">31 December 2015</td>
+          <!-- <td>Tom Harp</td> -->
         </tr>
         <tr>
           <td>Vice President</td>
-          <td>Kevin Lipscomb</td>
           <td>Chris Florio</td>
+          <!-- <td>Chris Florio</td> -->
         </tr>
         <tr>
           <td>Secretary</td>
           <td>Kevin Lipscomb</td>
-          <td>Kevin Lipscomb</td>
+          <!-- <td>Kevin Lipscomb</td> -->
         </tr>
         <tr>
           <td>Treasurer</td>
           <td>Bill Walker</td>
-          <td>Bill Walker</td>
+          <!-- <td>Bill Walker</td> -->
         </tr>
         <tr>
           <td>Executive Committee Member-At-Large</td>
-          <td>Nancy Gregory</td>
           <td>April Achesinski</td>
+          <!-- <td>April Achesinski</td> -->
         </tr>
       </table>
       <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>

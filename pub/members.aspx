@@ -34,7 +34,7 @@
           <tr>
             <td>#2 - Davis Corner</td>
             <td>David Luca</td>
-            <td>Eric Hoyt</td>
+            <td>Antonio Bland</td>
           </tr>
           <tr>
             <td>#4 - Chesapeake Beach</td>
