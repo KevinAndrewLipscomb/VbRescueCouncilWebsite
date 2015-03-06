@@ -64,7 +64,7 @@
           <tr>
             <td>#14 - Virginia Beach</td>
             <td>Ellen McBride</td>
-            <td>Tom Harp</td>
+            <td>Richard Maguire</td>
           </tr>
           <tr>
             <td>#16 - Plaza</td>
@@ -73,7 +73,7 @@
           </tr>
           <tr>
             <td>#17 - Sandbridge</td>
-            <td>Pam Pietrzak</td>
+            <td>Joan Davis</td>
             <td>Zach Smith</td>
           </tr>
           <tr>
