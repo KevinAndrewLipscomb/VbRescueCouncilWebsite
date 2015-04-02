@@ -83,6 +83,7 @@
     <Content Include="Default.aspx" />
     <Content Include="exception.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="image\active-case-board.png" />
     <Content Include="image\attention-stop.gif" />
     <Content Include="image\Chat.jpg" />
     <Content Include="image\Creation.jpg" />
