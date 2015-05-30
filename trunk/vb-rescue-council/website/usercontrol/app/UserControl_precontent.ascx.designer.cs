@@ -19,7 +19,7 @@ namespace UserControl_precontent {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::AjaxControlToolkit.ToolkitScriptManager ScriptManager_control;
+        protected global::System.Web.UI.ScriptManager ScriptManager_control;
         
         /// <summary>
         /// TableRow_account_control control.
