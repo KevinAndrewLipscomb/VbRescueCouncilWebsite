@@ -33,7 +33,7 @@
           </tr>
           <tr>
             <td>#2 - Davis Corner</td>
-            <td>David Luca</td>
+            <td>Debbie Coley-Mills</td>
             <td>Antonio Bland</td>
           </tr>
           <tr>
@@ -58,7 +58,7 @@
           </tr>
           <tr>
             <td>#13 - Blackwater</td>
-            <td>Tracy Hegglund</td>
+            <td>Bob Jasinowski</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
