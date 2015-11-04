@@ -91,6 +91,7 @@
     <Content Include="new_user_registration.aspx" />
     <Content Include="pub\bylaws.aspx" />
     <Content Include="pub\corporate_detail.aspx" />
+    <Content Include="pub\corporate_event_matrix.aspx" />
     <Content Include="pub\members.aspx" />
     <Content Include="pub\mission_detail.aspx" />
     <Content Include="pub\officers.aspx" />
@@ -224,6 +225,13 @@
     </Compile>
     <Compile Include="pub\corporate_detail.aspx.designer.cs">
       <DependentUpon>corporate_detail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pub\corporate_event_matrix.aspx.cs">
+      <DependentUpon>corporate_event_matrix.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\corporate_event_matrix.aspx.designer.cs">
+      <DependentUpon>corporate_event_matrix.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\members.aspx.cs">
       <DependentUpon>members.aspx</DependentUpon>
