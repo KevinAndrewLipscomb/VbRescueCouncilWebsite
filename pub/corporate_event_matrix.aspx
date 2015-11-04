@@ -207,9 +207,9 @@
             </tr>
           </table>
         </td>
-        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td valign="top">
-          <iframe src="https://calendar.google.com/calendar/embed?src=81gqsg9uevknsam2c8a1rl78jc%40group.calendar.google.com&ctz=America/New_York" style="border: 0" frameborder="0" scrolling="no"></iframe>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td align="center" valign="top">
+          <a href="https://calendar.google.com/calendar/embed?src=81gqsg9uevknsam2c8a1rl78jc%40group.calendar.google.com&ctz=America/New_York"><big><b><i>Google<br />Calendar<br />Link</i></b></big></a>
         </td>
       </tr>
     </table>
