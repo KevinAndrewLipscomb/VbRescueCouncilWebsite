@@ -77,11 +77,16 @@
         </table>
       </center>
       <p>&nbsp;</p>
-      <table style="text-align: center; width: 100%" border="1" cellspacing="0" cellpadding="5">
+      <table style="text-align: center; width: 100%" cellspacing="5" cellpadding="5">
         <tr>
-          <td style="text-align: center; width: 33%"><a href="pub/mission_detail.aspx">Mission details</a></td>
-          <td style="text-align: center; width: 34%"><a href="pub/squad_pages.aspx">Squad pages</a></td>
-          <td style="text-align: center; width: 33%"><a href="pub/corporate_detail.aspx">Corporate details</a></td>
+          <td style="text-align: center; width: 33%; border: 1px solid gray;"><a href="pub/mission_detail.aspx">Mission details</a></td>
+          <td style="text-align: center; width: 33%; border: 1px solid gray;"><a href="pub/corporate_detail.aspx">Corporate details</a></td>
+          <td style="text-align: center; width: 34%; border: 1px solid gray;"><a href="pub/squad_pages.aspx">Squad pages</a></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td style="text-align: center; width: 34%; border: 1px solid gray;"><a href="pub/corporate_event_matrix.aspx">Corporate event matrix</a></td>
+          <td></td>
         </tr>
       </table>
       <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
