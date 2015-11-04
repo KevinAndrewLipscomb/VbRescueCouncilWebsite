@@ -153,7 +153,7 @@
     <p>&nbsp;</p>
     <table>
       <tr>
-        <td>
+        <td valign="top">
           <table border="1" bordercolor="silver" cellspacing="0" cellpadding="10">
             <tr>
               <td align="center" valign="bottom"><b><i>SPECIAL CORPORATE EVENTS</i></b></td>
@@ -207,8 +207,10 @@
             </tr>
           </table>
         </td>
-        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td valign="top"><big><b><i><a href="https://calendar.google.com/calendar/embed?src=81gqsg9uevknsam2c8a1rl78jc%40group.calendar.google.com&ctz=America/New_York">Google Calendar Link</a></i></b></big></td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td valign="top">
+          <iframe src="https://calendar.google.com/calendar/embed?src=81gqsg9uevknsam2c8a1rl78jc%40group.calendar.google.com&ctz=America/New_York" style="border: 0" frameborder="0" scrolling="no"></iframe>
+        </td>
       </tr>
     </table>
     <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
