@@ -74,7 +74,7 @@
           <tr>
             <td>#17 - Sandbridge</td>
             <td>Joan Davis</td>
-            <td>Zach Smith</td>
+            <td>Chelsea Crisp</td>
           </tr>
           <tr>
             <td>Marine Rescue Team</td>
