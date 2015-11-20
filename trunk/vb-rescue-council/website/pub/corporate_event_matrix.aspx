@@ -52,8 +52,8 @@
       </tr>
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R02</strong></td>
-        <td align="center"><small>2nd FRI</small></td>
-        <td align="center"><small>2nd MON</small></td>
+        <td align="center"><small>2nd FRI 19:00</small></td>
+        <td align="center"><small>2nd MON 19:00</small></td>
         <td align="center"><small>DEC, 2nd FRI</small></td>
         <td align="center"><small>JAN 1</small></td>
         <td align="center"><small>JAN</small></td>
@@ -88,8 +88,8 @@
       </tr>
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R09</strong></td>
-        <td align="center"><small>NOV only, 1st MON</small></td>
-        <td align="center"><small>1st THU</small></td>
+        <td align="center"><small>NOV only, 1st MON 19:00</small></td>
+        <td align="center"><small>1st THU 19:00</small></td>
         <td align="center"><small>NOV, 1st MON</small></td>
         <td align="center"><small>NOV at banquet</small></td>
         <td align="center"><small>NOV after elections</small></td>
