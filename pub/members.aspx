@@ -74,7 +74,7 @@
           <tr>
             <td>#17 - Sandbridge</td>
             <td>Joan Davis</td>
-            <td>Chelsea Crisp</td>
+            <td>Dee Haberdash</td>
           </tr>
           <tr>
             <td>Marine Rescue Team</td>
