@@ -61,14 +61,14 @@
             </td>
             <td style="width: 20%; vertical-align: top">
               <table style="width: 100%" border="1" cellspacing="0" cellpadding="5">
-                <tr><td style="text-align: center"><big><a class="external text" href="http://www.yahoogroups.com/group/BeachEMS" rel="nofollow">Egroup</a></big></td></tr>
+                <tr><td style="text-align: center"><big><a class="external text" href="http://www.yahoogroups.com/group/BeachEMS" rel="nofollow">Collaborate</a></big></td></tr>
                 <tr>
                   <td style="text-align: center">
                     <a class="plainlinks" title="http://www.yahoogroups.com/group/BeachEMS" href="http://www.yahoogroups.com/group/BeachEMS" rel="nofollow">
                       <img alt="Egroup" src="image/Forum.jpg" width="100" height="100"/>
                     </a>
                     <br/>
-                    <a class="external text" href="http://www.yahoogroups.com/group/BeachEMS" rel="nofollow"><i>Collaborate!</i></a>
+                    <a class="external text" href="http://www.yahoogroups.com/group/BeachEMS" rel="nofollow"><i>via YahooGroup</i></a>
                   </td>
                 </tr>
               </table>

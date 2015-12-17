@@ -23,28 +23,28 @@
         </tr>
         <tr>
           <td>President</td>
-          <td>Tom Harp</td>
-          <td bgcolor="Gainsboro" rowspan="5" style="text-align: center">31 December 2015</td>
+          <td>Tom Harp (R14 EMT-B)</td>
+          <td bgcolor="Gainsboro" rowspan="5" style="text-align: center">31 December 2016</td>
           <!-- <td>Tom Harp</td> -->
         </tr>
         <tr>
           <td>Vice President</td>
-          <td>Chris Florio</td>
+          <td>Chris Florio (R16 EMT-B)</td>
           <!-- <td>Chris Florio</td> -->
         </tr>
         <tr>
           <td>Secretary</td>
-          <td>Kevin Lipscomb</td>
+          <td>Kevin Lipscomb (R9 EMT-P-RSI)</td>
           <!-- <td>Kevin Lipscomb</td> -->
         </tr>
         <tr>
           <td>Treasurer</td>
-          <td>Bill Walker</td>
+          <td>Bill Walker (R16 EMT-E)</td>
           <!-- <td>Bill Walker</td> -->
         </tr>
         <tr>
           <td>Executive Committee Member-At-Large</td>
-          <td>April Achesinski</td>
+          <td>Jay Kerr (R1 EMT-B)</td>
           <!-- <td>April Achesinski</td> -->
         </tr>
       </table>

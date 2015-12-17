@@ -72,7 +72,7 @@
         <td align="right" bgcolor="gainsboro"><strong>R05</strong></td>
         <td align="center"><small>3rd TUE except DEC</small></td>
         <td align="center"><small>ad hoc</small></td>
-        <td align="center"><small>DEC</small></td>
+        <td align="center"><small>NOV</small></td>
         <td align="center"><small>DEC, 1st SAT</small></td>
         <td align="center"><small>DEC, 1st SAT</small></td>
         <td align="center"><small>JUL 1</small></td>
