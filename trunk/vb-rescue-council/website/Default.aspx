@@ -68,7 +68,7 @@
                       <img alt="Egroup" src="image/Forum.jpg" width="100" height="100"/>
                     </a>
                     <br/>
-                    <a class="external text" href="http://www.yahoogroups.com/group/BeachEMS" rel="nofollow"><i>via YahooGroup</i></a>
+                    <a class="external text" href="http://www.yahoogroups.com/group/BeachEMS" rel="nofollow"><i>via YahooGroup!</i></a>
                   </td>
                 </tr>
               </table>
