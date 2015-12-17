@@ -133,14 +133,12 @@
     <Compile Include="component\fs\Class_fs.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="exception.aspx.cs">
       <DependentUpon>exception.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="exception.aspx.designer.cs">
       <DependentUpon>exception.aspx</DependentUpon>
@@ -150,14 +148,12 @@
     </Compile>
     <Compile Include="login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
     </Compile>
     <Compile Include="new_user_registration.aspx.cs">
       <DependentUpon>new_user_registration.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="new_user_registration.aspx.designer.cs">
       <DependentUpon>new_user_registration.aspx</DependentUpon>
@@ -186,130 +182,111 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="protected\change_email_address.aspx.cs">
       <DependentUpon>change_email_address.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\change_email_address.aspx.designer.cs">
       <DependentUpon>change_email_address.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\change_password.aspx.cs">
       <DependentUpon>change_password.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\change_password.aspx.designer.cs">
       <DependentUpon>change_password.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\establish_membership_trouble.aspx.cs">
       <DependentUpon>establish_membership_trouble.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\establish_membership_trouble.aspx.designer.cs">
       <DependentUpon>establish_membership_trouble.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\overview.aspx.cs">
       <DependentUpon>overview.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\overview.aspx.designer.cs">
       <DependentUpon>overview.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\bylaws.aspx.cs">
       <DependentUpon>bylaws.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pub\bylaws.aspx.designer.cs">
       <DependentUpon>bylaws.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\corporate_detail.aspx.cs">
       <DependentUpon>corporate_detail.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pub\corporate_detail.aspx.designer.cs">
       <DependentUpon>corporate_detail.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\corporate_event_matrix.aspx.cs">
       <DependentUpon>corporate_event_matrix.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pub\corporate_event_matrix.aspx.designer.cs">
       <DependentUpon>corporate_event_matrix.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\members.aspx.cs">
       <DependentUpon>members.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pub\members.aspx.designer.cs">
       <DependentUpon>members.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\mission_detail.aspx.cs">
       <DependentUpon>mission_detail.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pub\mission_detail.aspx.designer.cs">
       <DependentUpon>mission_detail.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\officers.aspx.cs">
       <DependentUpon>officers.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pub\officers.aspx.designer.cs">
       <DependentUpon>officers.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\squad_pages.aspx.cs">
       <DependentUpon>squad_pages.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pub\squad_pages.aspx.designer.cs">
       <DependentUpon>squad_pages.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\streaming_radio_traffic.aspx.cs">
       <DependentUpon>streaming_radio_traffic.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pub\streaming_radio_traffic.aspx.designer.cs">
       <DependentUpon>streaming_radio_traffic.aspx</DependentUpon>
     </Compile>
     <Compile Include="remind_username.aspx.cs">
       <DependentUpon>remind_username.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="remind_username.aspx.designer.cs">
       <DependentUpon>remind_username.aspx</DependentUpon>
     </Compile>
     <Compile Include="salogin.aspx.cs">
       <DependentUpon>salogin.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="salogin.aspx.designer.cs">
       <DependentUpon>salogin.aspx</DependentUpon>
     </Compile>
     <Compile Include="timeout.aspx.cs">
       <DependentUpon>timeout.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="timeout.aspx.designer.cs">
       <DependentUpon>timeout.aspx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_about.ascx.cs">
       <DependentUpon>UserControl_about.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_about.ascx.designer.cs">
       <DependentUpon>UserControl_about.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_common_header_bar.ascx.cs">
       <DependentUpon>UserControl_common_header_bar.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_common_header_bar.ascx.designer.cs">
       <DependentUpon>UserControl_common_header_bar.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_config_binder.ascx.cs">
       <DependentUpon>UserControl_config_binder.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_establish_membership.ascx.cs">
       <DependentUpon>UserControl_establish_membership.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_establish_membership.ascx.designer.cs">
       <DependentUpon>UserControl_establish_membership.ascx</DependentUpon>
@@ -322,119 +299,102 @@
     </Compile>
     <Compile Include="usercontrol\app\UserControl_my_roles_and_mappings.ascx.cs">
       <DependentUpon>UserControl_my_roles_and_mappings.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_my_roles_and_mappings.ascx.designer.cs">
       <DependentUpon>UserControl_my_roles_and_mappings.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_postcontent.ascx.cs">
       <DependentUpon>UserControl_postcontent.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_postcontent.ascx.designer.cs">
       <DependentUpon>UserControl_postcontent.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_precontent.ascx.cs">
       <DependentUpon>UserControl_precontent.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_precontent.ascx.designer.cs">
       <DependentUpon>UserControl_precontent.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role.ascx.cs">
       <DependentUpon>UserControl_role.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role.ascx.designer.cs">
       <DependentUpon>UserControl_role.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_roles_and_matrices_binder.ascx.cs">
       <DependentUpon>UserControl_roles_and_matrices_binder.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_roles_and_matrices_binder.ascx.designer.cs">
       <DependentUpon>UserControl_roles_and_matrices_binder.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_member_mapping.ascx.cs">
       <DependentUpon>UserControl_role_member_mapping.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_member_mapping.ascx.designer.cs">
       <DependentUpon>UserControl_role_member_mapping.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_member_matrix.ascx.cs">
       <DependentUpon>UserControl_role_member_matrix.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_member_matrix.ascx.designer.cs">
       <DependentUpon>UserControl_role_member_matrix.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_notification_mapping.ascx.cs">
       <DependentUpon>UserControl_role_notification_mapping.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_notification_mapping.ascx.designer.cs">
       <DependentUpon>UserControl_role_notification_mapping.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_notification_matrix.ascx.cs">
       <DependentUpon>UserControl_role_notification_matrix.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_notification_matrix.ascx.designer.cs">
       <DependentUpon>UserControl_role_notification_matrix.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_privilege_mapping.ascx.cs">
       <DependentUpon>UserControl_role_privilege_mapping.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_privilege_mapping.ascx.designer.cs">
       <DependentUpon>UserControl_role_privilege_mapping.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_privilege_matrix.ascx.cs">
       <DependentUpon>UserControl_role_privilege_matrix.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_role_privilege_matrix.ascx.designer.cs">
       <DependentUpon>UserControl_role_privilege_matrix.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_update_progress_blocker.ascx.cs">
       <DependentUpon>UserControl_update_progress_blocker.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_update_progress_blocker.ascx.designer.cs">
       <DependentUpon>UserControl_update_progress_blocker.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_user.ascx.cs">
       <DependentUpon>UserControl_user.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_user.ascx.designer.cs">
       <DependentUpon>UserControl_user.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_users_and_mapping_binder.ascx.cs">
       <DependentUpon>UserControl_users_and_mapping_binder.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_users_and_mapping_binder.ascx.designer.cs">
       <DependentUpon>UserControl_users_and_mapping_binder.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_user_member_mapping.ascx.cs">
       <DependentUpon>UserControl_user_member_mapping.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_user_member_mapping.ascx.designer.cs">
       <DependentUpon>UserControl_user_member_mapping.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_about_by.ascx.cs">
       <DependentUpon>UserControl_about_by.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_about_by.ascx.designer.cs">
       <DependentUpon>UserControl_about_by.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_about_tools.ascx.cs">
       <DependentUpon>UserControl_about_tools.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_about_tools.ascx.designer.cs">
       <DependentUpon>UserControl_about_tools.ascx</DependentUpon>
@@ -447,14 +407,12 @@
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_bread_crumb_trail.ascx.cs">
       <DependentUpon>UserControl_bread_crumb_trail.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_bread_crumb_trail.ascx.designer.cs">
       <DependentUpon>UserControl_bread_crumb_trail.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_config_welcome.ascx.cs">
       <DependentUpon>UserControl_config_welcome.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_config_welcome.ascx.designer.cs">
       <DependentUpon>UserControl_config_welcome.ascx</DependentUpon>
@@ -467,14 +425,12 @@
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_print_div.ascx.cs">
       <DependentUpon>UserControl_print_div.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_print_div.ascx.designer.cs">
       <DependentUpon>UserControl_print_div.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_session_interrupted.ascx.cs">
       <DependentUpon>UserControl_session_interrupted.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_session_interrupted.ascx.designer.cs">
       <DependentUpon>UserControl_session_interrupted.ascx</DependentUpon>
