@@ -14,15 +14,15 @@
     <form runat="server">
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
       <ul>
-        <li style="color: #808080"><p>Blackwater</p></li>
-        <li style="color: #808080"><p>Chesapeake Beach</p></li>
-        <li style="color: #808080"><p>Creeds</p></li>
+        <li><p><a href="http://www.facebook.com/Blackwater-Volunteer-Rescue-Squad-302585569816186/">Blackwater</a></p></li>
+        <li><p><a href="http://www.res4cue.com">Chesapeake Beach</a></p></li>
+        <li><p><a href="http://www.facebook.com/pages/City-of-Virginia-Beach-Creeds-Volunteer-Rescue-Squad/115613111802046">Creeds</a></p></li>
         <li><p><a href="http://dcvrs.org">Davis Corner</a></p></li>
         <li><p><a href="http://kvrs.org">Kempsville</a></p></li>
         <li><p><a href="http://opvrs.com">Ocean Park</a></p></li>
         <li><p><a href="http://plazarescue.com">Plaza</a></p></li>
         <li><p><a href="http://pachvrs.org">Princess Anne Courthouse</a></p></li>
-        <li style="color: #808080"><p>Sandbridge</p></li>
+        <li><p><a href="http://sandbridgerescuesquad.com/">Sandbridge</a></p></li>
         <li><p><a href="http://vbvrs.com">Virginia Beach</a></p></li>
         <li><p><a href="http://vbdiveteam.org">Water Rescue Team</a></p></li>
       </ul>
