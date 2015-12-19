@@ -54,7 +54,7 @@
           <tr>
             <td>#9 - Kempsville</td>
             <td>Kevin Lipscomb</td>
-            <td>April Achesinski</td>
+            <td>John Ormond</td>
           </tr>
           <tr>
             <td>#13 - Blackwater</td>
