@@ -508,9 +508,6 @@
     <Content Include="template\notification\username_reminder.txt" />
     <Content Include="unpublished.config" />
     <None Include="noninteractive\.crontab" />
-    <None Include="protected\template-protected-datagrid-sortable.aspx-template" />
-    <None Include="protected\template-protected-landing.aspx-template" />
-    <None Include="protected\template-protected-nonlanding.aspx-template" />
     <Content Include="protected\Web.config" />
     <Content Include="usercontrol\app\UserControl_about.ascx" />
     <Content Include="usercontrol\app\UserControl_common_header_bar.ascx" />
