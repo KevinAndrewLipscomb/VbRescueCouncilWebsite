@@ -34,16 +34,16 @@
           <tr>
             <td>#2 - Davis Corner</td>
             <td>Debbie Coley-Mills</td>
-            <td>Antonio Bland</td>
+            <td>Megan Richardson</td>
           </tr>
           <tr>
             <td>#4 - Chesapeake Beach</td>
             <td>Deb Leonard</td>
-            <td>Kathleen Cope</td>
+            <td>Mike Rahuba</td>
           </tr>
           <tr>
             <td>#5 - Princess Anne Courthouse</td>
-            <td>Gary Wilks Sr</td>
+            <td>Chris Daly</td>
             <td>David Coulling</td>
           </tr>
           <tr>
@@ -59,22 +59,22 @@
           <tr>
             <td>#13 - Blackwater</td>
             <td>Bob Jasinowski</td>
-            <td>&nbsp;</td>
+            <td>Eric Hoyt</td>
           </tr>
           <tr>
             <td>#14 - Virginia Beach</td>
-            <td>Ellen McBride</td>
-            <td>Richard Maguire</td>
+            <td>John Doub</td>
+            <td>Richard Doub</td>
           </tr>
           <tr>
             <td>#16 - Plaza</td>
             <td>Chris Florio</td>
-            <td>Bill Walker</td>
+            <td>Kevin Gutermuth</td>
           </tr>
           <tr>
             <td>#17 - Sandbridge</td>
             <td>Joan Davis</td>
-            <td>Josh Sloan</td>
+            <td>Julie Barnes</td>
           </tr>
           <tr>
             <td>Marine Rescue Team</td>
@@ -93,7 +93,7 @@
           </tr>
           <tr>
             <td>City of Virginia Beach EMS Chief</td>
-            <td>Bruce Edwards</td>
+            <td>Ed Brazle</td>
           </tr>
           <tr>
             <td>City of Virginia Beach EMS Medical Director</td>

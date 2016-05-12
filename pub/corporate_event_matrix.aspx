@@ -89,7 +89,7 @@
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R09</strong></td>
         <td align="center"><small>NOV only, 1st MON 19:00</small></td>
-        <td align="center"><small>1st WED 19:00</small></td>
+        <td align="center"><small>1st MON 19:00</small></td>
         <td align="center"><small>NOV, 1st MON</small></td>
         <td align="center"><small>NOV at banquet</small></td>
         <td align="center"><small>NOV after elections</small></td>
