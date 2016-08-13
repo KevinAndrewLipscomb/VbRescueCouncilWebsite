@@ -60,7 +60,8 @@
                     <ul>
                       <li>EMS Primary channel</li>
                       <li>Tactical channels</li>
-                      <li>Disaster & major op channels</li>
+                      <li>Regional coordination &amp; major op channels</li>
+                      <li>Disaster channels (to be actived during a disaster)</li>
                     </ul>
                     <p>You can also monitor this feed in a number of other ways:</p>
                     <ul>
