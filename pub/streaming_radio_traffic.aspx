@@ -74,25 +74,8 @@
             </blockquote>
           </td>
           <td width="50%">
-            <p><a rel="nofollow" class="external text" href="http://lipscomb-ka-rm.dyndns.org:10994/cor-reports.m3u" target="_blank"><strong>Virginia Beach EMS COR Reports</strong></a></p>
-            <blockquote>
-              <table>
-                <tr>
-                  <td>
-                    <p>COR Reports, in Virginia Beach EMS jargon, are notifications and consults made from the field to or with a hospital.&nbsp; "COR" originally stood for Coronary Observation Radio, and was the model name of
-                      the first Motorola transceivers used for this purpose.&nbsp; The Motorola COR could also transmit ECGs.</p>
-                    <p>Channels on this feed are:</p>
-                    <ul>
-                      <li>ORION-VB VBGH</li>
-                      <li>ORION-VB INDEPENDENCE</li>
-                      <li>ORION-VB PrincessAnne</li>
-                      <li>National MED/COR UHF-Hi channels 1-8</li>
-                      <li>HEAR VHF-Hi channels</li>
-                    </ul>
-                  </td>
-                </tr>
-              </table>
-            </blockquote>
+            <p><strong>Virginia Beach EMS COR Reports</strong></p>
+            <blockquote><i>This feed has been discontinued.&nbsp; Transmissions from the field to the hospital are now encrypted.</i></blockquote>
           </td>
         </tr>
       </table>
