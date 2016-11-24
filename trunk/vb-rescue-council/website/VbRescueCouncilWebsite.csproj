@@ -96,6 +96,7 @@
     <Content Include="pub\mission_detail.aspx" />
     <Content Include="pub\officers.aspx" />
     <Content Include="pub\squad_pages.aspx" />
+    <Content Include="pub\squad_resources.aspx" />
     <Content Include="pub\streaming_radio_traffic.aspx" />
     <Content Include="remind_username.aspx" />
     <Content Include="salogin.aspx" />
@@ -264,6 +265,13 @@
     </Compile>
     <Compile Include="pub\squad_pages.aspx.designer.cs">
       <DependentUpon>squad_pages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pub\squad_resources.aspx.cs">
+      <DependentUpon>squad_resources.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\squad_resources.aspx.designer.cs">
+      <DependentUpon>squad_resources.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\streaming_radio_traffic.aspx.cs">
       <DependentUpon>streaming_radio_traffic.aspx</DependentUpon>
@@ -540,7 +548,7 @@
     <Content Include="usercontrol\ki\UserControl_print_div.ascx" />
     <Content Include="usercontrol\ki\UserControl_session_interrupted.ascx" />
     <None Include="resource\Articles-of-incorporation.pdf" />
-    <None Include="resource\Bylaws.pdf" />
+    <Content Include="resource\pharmacy-exchange-form.pdf" />
     <None Include="work.bat" />
   </ItemGroup>
   <ItemGroup>
