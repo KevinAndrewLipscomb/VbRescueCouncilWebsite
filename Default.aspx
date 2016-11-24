@@ -88,6 +88,11 @@
           <td style="text-align: center; width: 34%; border: 1px solid gray;"><a href="pub/corporate_event_matrix.aspx">Corporate event matrix</a></td>
           <td></td>
         </tr>
+        <tr>
+          <td></td>
+          <td style="text-align: center; width: 34%; border: 1px solid gray;"><a href="pub/squad_resources.aspx">Squad resources</a></td>
+          <td></td>
+        </tr>
       </table>
       <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>

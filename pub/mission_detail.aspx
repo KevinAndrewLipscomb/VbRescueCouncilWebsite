@@ -33,7 +33,7 @@
         <p>These programs include:</p>
         <ul>
           <li>Managing direct mail Collaborative Fund Drives</li>
-          <li>Developing camaraderie between squad leaders and students of city-run BLS Academies (Halfway There luncheons)</li>
+          <li>Supporting lateral communication between specialized squad officers and coordinators</li>
           <li>Sponsoring the local EMS Explorer Post</li>
           <li>Providing a <a href="streaming_radio_traffic.aspx" title="Radio Traffic Internet Streams">VBEMS-oriented scanner feed via the Internet</a></li>
           <li>Providing Jump Kit CO Detectors to better assess patients and to protect providers</li>

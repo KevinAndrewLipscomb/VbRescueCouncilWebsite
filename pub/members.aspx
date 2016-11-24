@@ -53,7 +53,7 @@
           </tr>
           <tr>
             <td>#9 - Kempsville</td>
-            <td>Kevin Lipscomb</td>
+            <td>Tom Kiernan</td>
             <td>John Ormond</td>
           </tr>
           <tr>
