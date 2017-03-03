@@ -61,7 +61,7 @@
       </tr>
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R04</strong></td>
-        <td align="center"><small>MAR/JUN/SEP/DEC</small></td>
+        <td align="center"><small>1st WED 19:00</small></td>
         <td align="center"><small>3rd TUE</small></td>
         <td align="center"><small>DEC</small></td>
         <td align="center"><small>JAN 1</small></td>
@@ -70,7 +70,7 @@
       </tr>
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R05</strong></td>
-        <td align="center"><small>3rd TUE except DEC</small></td>
+        <td align="center"><small>3rd TUE except DEC 19:00</small></td>
         <td align="center"><small>ad hoc</small></td>
         <td align="center"><small>NOV</small></td>
         <td align="center"><small>DEC, 1st SAT</small></td>
@@ -79,7 +79,7 @@
       </tr>
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R06</strong></td>
-        <td align="center"><small>1st MON</small></td>
+        <td align="center"><small>1st MON 19:30</small></td>
         <td align="center"><small>1st MON just before members mtg</small></td>
         <td align="center"><small>DEC</small></td>
         <td align="center"><small>JAN 1</small></td>
@@ -106,7 +106,7 @@
       </tr>
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R14</strong></td>
-        <td align="center"><small>2nd MON</small></td>
+        <td align="center"><small>2nd MON 19:00</small></td>
         <td align="center"><small>1st MON</small></td>
         <td align="center"><small>OCT, 2nd MON</small></td>
         <td align="center"><small>JAN 1</small></td>
@@ -115,7 +115,7 @@
       </tr>
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R16</strong></td>
-        <td align="center"><small>3rd MON except JAN</small></td>
+        <td align="center"><small>3rd MON except JAN 19:30</small></td>
         <td align="center"><small>1st MON</small></td>
         <td align="center"><small>NOV, 3rd MON</small></td>
         <td align="center"><small>JAN 1</small></td>
@@ -124,7 +124,7 @@
       </tr>
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R17</strong></td>
-        <td align="center"><small>3rd THU</small></td>
+        <td align="center"><small>3rd THU 19:00</small></td>
         <td align="center"><small>2nd TUE</small></td>
         <td align="center"><small>OCT, 3rd THU</small></td>
         <td align="center"><small>NOV at banquet</small></td>
