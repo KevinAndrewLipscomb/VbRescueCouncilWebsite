@@ -24,7 +24,7 @@
         <tr>
           <td>President</td>
           <td>Tom Harp (R14 EMT-B)</td>
-          <td bgcolor="Gainsboro" rowspan="5" style="text-align: center">31 December 2016</td>
+          <td bgcolor="Gainsboro" rowspan="5" style="text-align: center">31 December 2017</td>
           <!-- <td>Tom Harp</td> -->
         </tr>
         <tr>
@@ -34,17 +34,17 @@
         </tr>
         <tr>
           <td>Secretary</td>
-          <td>Kevin Lipscomb (R9 EMT-P-RSI)</td>
+          <td>Jay Kerr (R1 EMT-B)</td>
           <!-- <td>Kevin Lipscomb</td> -->
         </tr>
         <tr>
           <td>Treasurer</td>
-          <td>Bill Walker (R16 EMT-E)</td>
+          <td>Dave Coulling (R5 EMT-I)</td>
           <!-- <td>Bill Walker</td> -->
         </tr>
         <tr>
           <td>Executive Committee Member-At-Large</td>
-          <td>Jay Kerr (R1 EMT-B)</td>
+          <td>Tom Kiernan (R9)</td>
           <!-- <td>April Achesinski</td> -->
         </tr>
       </table>
