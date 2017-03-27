@@ -34,12 +34,12 @@
           <tr>
             <td>#2 - Davis Corner</td>
             <td>Debbie Coley-Mills</td>
-            <td>Megan Richardson</td>
+            <td>Demetrius Devore</td>
           </tr>
           <tr>
             <td>#4 - Chesapeake Beach</td>
             <td>Deb Leonard</td>
-            <td>Mike Rahuba</td>
+            <td>Michael McCracken</td>
           </tr>
           <tr>
             <td>#5 - Princess Anne Courthouse</td>
@@ -48,8 +48,8 @@
           </tr>
           <tr>
             <td>#6 - Creeds</td>
-            <td>Chris Dozier</td>
             <td>Nancy Gregory</td>
+            <td>Deborah Volzke</td>
           </tr>
           <tr>
             <td>#9 - Kempsville</td>
@@ -58,12 +58,12 @@
           </tr>
           <tr>
             <td>#13 - Blackwater</td>
+            <td>David Clement Jr</td>
             <td>Bob Jasinowski</td>
-            <td>Eric Hoyt</td>
           </tr>
           <tr>
             <td>#14 - Virginia Beach</td>
-            <td>John Doub</td>
+            <td>Tom Harp</td>
             <td>Richard Doub</td>
           </tr>
           <tr>
