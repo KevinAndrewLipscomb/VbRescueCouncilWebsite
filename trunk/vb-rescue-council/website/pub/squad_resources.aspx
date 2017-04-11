@@ -8,15 +8,13 @@
     <title></title>
     <script type="text/javascript" src="../js/gradient.js"></script>
     <link rel="StyleSheet" href="../css/standard.css" type="text/css" />
-    <!--[if lt IE 7]> <style type="text/css">@import "css/standard-overrides-for-ie6.css";</style><![endif]-->
+    <!--[if lt IE 7]> <style type="text/css">@import "../css/standard-overrides-for-ie6.css";</style><![endif]-->
   </head>
   <body bgcolor="white">
     <form runat="server">
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
       <ul>
-        <li><p>
-          <asp:HyperLink ID="HyperLink_pharmacy_exchange_slips" runat="server" NavigateUrl="~/resource/pharmacy-exchange-form.pdf">Pharmacy exchange slips</asp:HyperLink>
-          </p></li>
+        <li><p><asp:HyperLink ID="HyperLink_pharmacy_exchange_slips" runat="server" NavigateUrl="~/resource/pharmacy-exchange-form.pdf">Pharmacy exchange slips</asp:HyperLink></p></li>
       </ul>
     <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>
