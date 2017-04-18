@@ -17,6 +17,17 @@
       <ul>
         <li><p><asp:HyperLink ID="HyperLink_approved_restocking_rules" runat="server" NavigateUrl="approved-restocking-rules.pdf">Approved restocking rules</asp:HyperLink></p></li>
         <li>
+          <p>Tips / tricks / pitfalls to avoid</p>
+          <ul>
+            <li>
+              <p>
+                King Airways:&nbsp; Always buy the LT<big><big><b>S</b></big></big>-D variant (The <big><big><b>S</b></big></big> stands for <big><big><b>S</b></big></big>uctionable.)&nbsp; Buy only from
+                <a href="http://www.boundtree.com">BoundTree</a>.&nbsp; They have the exclusive agreement to sell the kits that are built by King itself, which has the most stringent (and supported) quality control in place.
+              </p>
+            </li>
+          </ul>
+        </li>
+        <li>
           <p>Contract price lists</p>
           <ul>
             <li><p><asp:HyperLink ID="HyperLink_city_contract_w_boundtree_cy1617" runat="server" NavigateUrl="city_contract_w_bountree_cy1617.pdf">City of Virginia Beach contract with BoundTree</asp:HyperLink> (Also see the last page of the prior year contract <asp:HyperLink ID="HyperLink_city_contract_w_bountree_cy1516" runat="server" NavigateUrl="city_contract_w_bountree_cy1516.pdf">here</asp:HyperLink> offering 30% off some catalog items.)</p></li>
