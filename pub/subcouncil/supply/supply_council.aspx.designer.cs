@@ -31,6 +31,15 @@ namespace supply_council {
         protected global::System.Web.UI.WebControls.HyperLink HyperLink_approved_restocking_rules;
         
         /// <summary>
+        /// HyperLink_vendor_omd_authorization_request control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink HyperLink_vendor_omd_authorization_request;
+        
+        /// <summary>
         /// HyperLink_city_contract_w_boundtree_cy1617 control.
         /// </summary>
         /// <remarks>

@@ -15,7 +15,17 @@
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
       <h1>Supply Council</h1>
       <ul>
-        <li><p><asp:HyperLink ID="HyperLink_approved_restocking_rules" runat="server" NavigateUrl="approved-restocking-rules.pdf">Approved restocking rules</asp:HyperLink></p></li>
+        <li>
+          <p>Forms & letters</p>
+          <blockquote>
+            <table border="1" bordercolor="gray" cellpadding="10" cellspacing="0" width="100%">
+              <tr>
+                <td align="center" valign="middle"><asp:HyperLink ID="HyperLink_approved_restocking_rules" runat="server" NavigateUrl="approved-restocking-rules.pdf">Approved restocking rules</asp:HyperLink></td>
+                <td align="center" valign="middle"><asp:HyperLink ID="HyperLink_vendor_omd_authorization_request" runat="server" NavigateUrl="20170414-EMS-RSS-LTR-to-Supply-vendors-re-Authorizations-to-buy.pdf">Vendor OMD authorization request</asp:HyperLink></td>
+              </tr>
+            </table>
+          </blockquote>
+        </li>
         <li>
           <p>Tips / tricks / pitfalls to avoid</p>
           <ul>
