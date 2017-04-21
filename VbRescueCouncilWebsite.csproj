@@ -571,6 +571,7 @@
     <Content Include="usercontrol\ki\UserControl_drop_down_date.ascx" />
     <Content Include="usercontrol\ki\UserControl_print_div.ascx" />
     <Content Include="usercontrol\ki\UserControl_session_interrupted.ascx" />
+    <Content Include="pub\subcouncil\fund_drive\vbgov-gis-property-map.pdf" />
     <None Include="resource\Articles-of-incorporation.pdf" />
     <Content Include="resource\pharmacy-exchange-form.pdf" />
     <None Include="work.bat" />
