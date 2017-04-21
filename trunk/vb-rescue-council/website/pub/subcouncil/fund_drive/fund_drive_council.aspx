@@ -14,8 +14,10 @@
     <form runat="server">
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
       <h1>Fund Drive Council</h1>
-      <p><i>Coming soon...</i></p>
-    <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
+      <ul>
+        <li><p><a href="vbgov-gis-property-map.pdf">Using the VBGOV GIS Property Map system to get an address list</a></p></li>
+      </ul>
+      <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>
   </body>
 </html>
