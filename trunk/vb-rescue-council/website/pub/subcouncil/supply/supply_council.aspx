@@ -34,6 +34,7 @@
                 King Airways:&nbsp; Always buy the LT<big><big><b>S</b></big></big>-D variant (The <big><big><b>S</b></big></big> stands for <big><big><b>S</b></big></big>uctionable.)&nbsp; Buy only from
                 <a href="http://www.boundtree.com">BoundTree</a>.&nbsp; They have the exclusive agreement to sell the kits that are built by King itself, which has the most stringent (and supported) quality control in place.
               </p>
+              <p>Medical supply vendors will probably give a volunteer rescue squad free shipping if you ask for it -- but to keep this benefit, don't place a lot of small orders.</p>
             </li>
           </ul>
         </li>
