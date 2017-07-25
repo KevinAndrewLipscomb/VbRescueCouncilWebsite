@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="generator" content="http://www.nongnu.org/elyxer/"/>
+<meta name="create-date" content="2017-06-16"/>
+<link rel="stylesheet" href="http://elyxer.nongnu.org/lyx.css" type="text/css" media="all"/>
+<title>VIRGINIA BEACH EMS DEPARTMENTTECHNICAL ASSET SYSTEM INTEGRATION REQUIREMENTS(TASIR)</title>
+</head>
+<body>
+<div id="globalWrapper">
+<h1 class="title">
+VIRGINIA BEACH EMS DEPARTMENT<br/>
+ <br/>
+TECHNICAL ASSET SYSTEM INTEGRATION REQUIREMENTS<br/>
+ <br/>
+(TASIR)
+</h1>
+<h2 class="Date">
+$Revision: 3802 $
+</h2>
+<div class="Standard">
+
+</div>
+<div class="Standard">
+<div class="fulltoc">
+<div class="tocheader">
+Table of Contents
+</div>
+<div class="tocindent">
+<div class="toc">
+<a class="Link" href="#toc-Section-1">Section 1: Introduction</a>
+</div>
+<div class="tocindent">
+<div class="toc">
+<a class="Link" href="#toc-Subsection-1.1">Subsection 1.1: Desired state</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsection-1.2">Subsection 1.2: Continuous process</a>
+</div>
+<div class="tocindent">
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-1.2.1">Subsubsection 1.2.1: Identification of control points in the procurement process</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-1.2.2">Subsubsection 1.2.2: Identification of Subject Matter Experts (SMEs)</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-1.2.3">Subsubsection 1.2.3: Interviews with SMEs</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-1.2.4">Subsubsection 1.2.4: Endorsements from SMEs</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-1.2.5">Subsubsection 1.2.5: Advocacy for SMEs at appropriate control points</a>
+</div>
+</div>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Section-2">Section 2: Business cycles and processes</a>
+</div>
+<div class="tocindent">
+<div class="toc">
+<a class="Link" href="#toc-Subsection-2.1">Subsection 2.1: Squad procurement cycle</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsection-2.2">Subsection 2.2: City budget process</a>
+</div>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Section-3">Section 3: SPECIFICATIONS</a>
+</div>
+<div class="tocindent">
+<div class="toc">
+<a class="Link" href="#toc-Subsection-3.1">Subsection 3.1: VB911-related radios and mobile data terminals</a>
+</div>
+<div class="tocindent">
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-3.1.1">Subsubsection 3.1.1: Mobile (vehicle-mounted) radios</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-3.1.2">Subsubsection 3.1.2: Portable (handheld) radios</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-3.1.3">Subsubsection 3.1.3: Mobile data terminals</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-3.1.4">Subsubsection 3.1.4: Vehicle antenna placement</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-3.1.5">Subsubsection 3.1.5: Antenna cable termination points</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-3.1.6">Subsubsection 3.1.6: Component mounting and power source chart</a>
+</div>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsection-3.2">Subsection 3.2: Chassis, engine, and drivetrain selection</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsection-3.3">Subsection 3.3: Fuel</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsection-3.4">Subsection 3.4: Traffic preemption systems</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsection-3.5">Subsection 3.5: Garage space, vehicle aprons, structural additions and modifications</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsection-3.6">Subsection 3.6: Roadway dimensions and load limits</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsection-3.7">Subsection 3.7: Regional Drug and IV Box System</a>
+</div>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Section-4">Section 4: Endorsements</a>
+</div>
+</div>
+
+</div>
+<p><br/>
+</p>
+
+</div>
+<h1 class="Section">
+<a class="toc" name="toc-Section-1">1</a> Introduction
+</h1>
+<div class="Standard">
+In so far as each of the Department’s volunteer rescue squads desires to operate its own technical assets (ambulances, duty radios, etc) in the Virginia Beach EMS system, there exists a need to integrate those assets with municipal and regional infrastructure and processes. This document, along with any documents it references, specifies requirements for such integration.
+</div>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-1.1">1.1</a> <a class="Label" name="subsec:Desired-state"> </a>Desired state
+</h2>
+<div class="Standard">
+This document is written with the following high-level goals in mind:
+</div>
+<ul>
+<li>
+System integration concerns are defined before a procurement begins, and are raised at initiation of the procurement process.
+</li>
+<li>
+Such definitions are composed of:<ul>
+<li>
+Written words
+</li>
+<li>
+Charts
+</li>
+<li>
+Drawings
+</li>
+<li>
+Pictures
+</li>
+
+</ul>
+
+</li>
+<li>
+Compliance with these requirements is verified prior to an asset being ordered.
+</li>
+
+</ul>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-1.2">1.2</a> Continuous process
+</h2>
+<div class="Standard">
+This document is a work product intended to serve as the &ldquo;hub&rdquo; of a dynamic &ldquo;hub-and-spoke&rdquo; process driven by progress. The &ldquo;spokes&rdquo; of the process include:
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-1.2.1">1.2.1</a> Identification of control points in the procurement process
+</h3>
+<div class="Standard">
+Control points are opportunities to assess compliance with requirements and to address any discrepancies. Currently-identified control points include when:
+</div>
+<ul>
+<li>
+A squad becomes interested in procuring a technical asset
+</li>
+<li>
+A squad submits a grant application for DEMS or state approval
+</li>
+<li>
+A squad submits a loan application for DEMS or city approval
+</li>
+<li>
+A squad finishes a purchase or build order, and is ready to sign a contract
+</li>
+<li>
+A squad performs an end-of-assembly inspection, or takes delivery of a technical asset
+</li>
+<li>
+A squad submits an asset for integration into the Virginia Beach EMS system
+</li>
+<li>
+An asset gets refurbished, rechassied, recapitalized, etc
+</li>
+<li>
+The city budget planning process begins
+</li>
+
+</ul>
+<div class="Standard">
+The Department and the squad should review this document together at each control point to assess ongoing compliance with requirements.
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-1.2.2">1.2.2</a> Identification of Subject Matter Experts (SMEs)
+</h3>
+<div class="Standard">
+This document is only as legitimate as the endorsements it receives from the appropriate authoritative personnel. As personnel move in, out, and across the workforce and the market, it is important that the Department review this document to assure that its references to, and endorsements from, SMEs are current, correct, and complete.
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-1.2.3">1.2.3</a> Interviews with SMEs
+</h3>
+<div class="Standard">
+The Department should conduct periodic interviews with identified SMEs to review the contents of this document, and to gather:
+</div>
+<ul>
+<li>
+New, changed, or obsolete requirements
+</li>
+<li>
+Supporting artifacts to include explicitly or by reference
+</li>
+
+</ul>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-1.2.4">1.2.4</a> Endorsements from SMEs
+</h3>
+<div class="Standard">
+The Department should make sure that it gets an explicit endorsement from the appropriate SME for every set of integration requirements for a given system or subsystem. Such endorsements should be in writing and should be attached or otherwise made available with this document.
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-1.2.5">1.2.5</a> Advocacy for SMEs at appropriate control points
+</h3>
+<div class="Standard">
+The Department should take at least each control point as an opportunity to raise stakeholder awareness of SME concerns. The Department acknowledges that the SMEs are not responsible for directly communicating new, changed, or obsoleted requirements directly to the squads, nor are the squads responsible for making direct inquiries to the SMEs. Rather, the SMEs are responsible for communicating changes to the Department, and the Department is responsible for communicating that information to the squads via this document (see <a class="Reference" href="#subsec:Desired-state">1.1↑</a>).<p><br/>
+</p>
+
+</div>
+<h1 class="Section">
+<a class="toc" name="toc-Section-2">2</a> Business cycles and processes
+</h1>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-2.1">2.1</a> Squad procurement cycle
+</h2>
+<div class="Standard">
+Squad coordinators who are responsible for technical asset procurement should perform most or all of the following &ldquo;cradle to grave&rdquo; tasks:
+</div>
+<ul>
+<li>
+Recognize the need to procure an asset.
+</li>
+<li>
+Ensure adequate squad funds are budgeted (also see section <a class="Reference" href="#sec:City-budget-process">2.2↓</a>).
+</li>
+<li>
+Develop full specifications using this document as a guide.
+</li>
+<li>
+Solicit quotes, bids, or proposals.
+</li>
+<li>
+Issue a purchase order or sign a contract according to squad business rules.
+</li>
+<li>
+Make sure payments are processed in a timely manner.
+</li>
+<li>
+Ensure contract performance (inspect asset thoroughly using specifications and build order as guides).
+</li>
+<li>
+For ops assets, turn asset over to ops staff for full commissioning.
+</li>
+<li>
+Determine <u>well ahead of time</u> when an asset will no longer be of use or value.
+</li>
+<li>
+For ops assets, receive decommissioned asset from ops staff.
+</li>
+<li>
+Remove and reallocate useful sub-components (ie, EMS gear, radios, computers, dashcams, power load systems, etc, for a vehicle).
+</li>
+<li>
+Remove highly conspicuous squad markings as necessary.
+</li>
+<li>
+Initiate final sale or disposal process.
+</li>
+
+</ul>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-2.2">2.2</a> <a class="Label" name="sec:City-budget-process"> </a>City budget process
+</h2>
+<div class="Standard">
+This document is primarily intended to define requirements for integrating <u>squad-owned</u> technical assets into city infrastructure, but in some cases a squad must consider <u>city</u> budgetary issues. For example, in the traditional arrangement for adding an ambulance to the VB EMS fleet, the EMS Department must seek and receive approval to pay for additional fuel, maintenance, city-supplied medical gear, etc. The timeline for this process is enforced by the Budget &amp; Management Services Department, the City Manager, and City Council – not by the EMS Department.
+</div>
+<div class="Standard">
+Each budget cycle begins more than <u>nine months</u> before the budget becomes effective and generally proceeds as follows:
+</div>
+<div class="Description">
+<span class="Description-entry">September</span>  <br/>
+Headquarters chiefs solicit input from staff on budget needs.
+</div>
+<div class="Description">
+<span class="Description-entry">October</span>  <br/>
+Management Services provides the Department with “target” budget figure based on projected revenues, known obligations and other factors as determined by city leaders.
+</div>
+<div class="Description">
+<span class="Description-entry">November</span>  <br/>
+Department prepares a two-level request: One that does not exceed the &ldquo;target&rdquo; amount, and one that identifies other needs that would exceed the &ldquo;target&rdquo;.
+</div>
+<div class="Description">
+<span class="Description-entry">December</span>  <br/>
+Department submits its two-level request to Management Services.
+</div>
+<div class="Description">
+<span class="Description-entry">January</span>  <br/>
+Department negotiates its request with City Manager and his deputies.
+</div>
+<div class="Description">
+<span class="Description-entry">February</span>  <br/>
+Management Services reconciles outstanding issues with the Department.
+</div>
+<div class="Description">
+<span class="Description-entry">March</span>  <br/>
+Department presents its request to City Council.
+</div>
+<div class="Description">
+<span class="Description-entry">April</span>  <br/>
+EMS Chief negotiates its request with City Council and public hearings area held.
+</div>
+<div class="Description">
+<span class="Description-entry">May</span>  <br/>
+City Council finalizes the budget for the coming fiscal year.
+</div>
+<div class="Description">
+<span class="Description-entry">July</span>  <br/>
+Department begins spending from approved budget.<p><br/>
+</p>
+
+</div>
+<h1 class="Section">
+<a class="toc" name="toc-Section-3">3</a> SPECIFICATIONS
+</h1>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.1">3.1</a> VB911-related radios and mobile data terminals
+</h2>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-3.1.1">3.1.1</a> Mobile (vehicle-mounted) radios
+</h3>
+<div class="Standard">
+To integrate into the VB911 system, a mobile radio must have the following attributes:
+</div>
+<div class="Standard">
+<img class="embedded" src="radio-basic.png" alt="figure radio-basic.png" style="width: 100%; height: auto;"/>
+<p><br/>
+</p>
+
+</div>
+<div class="Standard">
+Mobile radios <u>in ambulances</u> (or other vehicles with a secondary communications area) must also have the following attributes:
+</div>
+<div class="Standard">
+<img class="embedded" src="radio-ambulance.png" alt="figure radio-ambulance.png" style="width: 100%; height: auto;"/>
+
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-3.1.2">3.1.2</a> Portable (handheld) radios
+</h3>
+<div class="Standard">
+To integrate into the VB911 system, a portable radio must be a <b>Motorola APX Series P25 700/800 MHz band</b> model with the following attributes:
+</div>
+<div class="Standard">
+<img class="embedded" src="portable-basic.png" alt="figure portable-basic.png" style="width: 100%; height: auto;"/>
+
+</div>
+<div class="Standard">
+A portable radio <u>may</u> include the following attributes:
+</div>
+<div class="Standard">
+<img class="embedded" src="portable-options.png" alt="figure portable-options.png" style="width: 100%; height: auto;"/>
+
+</div>
+<div class="Standard">
+Other options may be allowable upon approval of the SME for VB911-related radio and mobile data terminal purchase specifications.<p><br/>
+</p>
+
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-3.1.3">3.1.3</a> Mobile data terminals
+</h3>
+<div class="Standard">
+To integrate into the VB911 system, a mobile data terminal (MDT) must have the following attributes:
+</div>
+<div class="Standard">
+<img class="embedded" src="mdt.png" alt="figure mdt.png" style="width: 100%; height: auto;"/>
+
+</div>
+<div class="Standard">
+Because an MDT in a vehicle must be able to receive messages when the vehicle is off (unless voltage drop would risk preventing the vehicle from being started), all MDTs installed in vehicles must draw primary power from the following component, which must draw its power from the OEM unswitched battery circuit:
+</div>
+<ul>
+<li>
+<b>ACDC Industries MZL-180 voltage-sensing delay timer</b>
+</li>
+
+</ul>
+<div class="Standard">
+<p><br/>
+</p>
+
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-3.1.4">3.1.4</a> Vehicle antenna placement
+</h3>
+<div class="Standard">
+To integrate into the VB911 system, a vehicle must have antennas mounted according to sound radio engineering principles. For instance, a vehicle equipped with an approved mobile radio and an approved MDT will have exterior antennas mounted something like this:
+</div>
+<div class="Standard">
+<div class="center">
+<img class="embedded" src="antenna-location-chart.png" alt="figure antenna-location-chart.png"/>
+
+</div>
+
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-3.1.5">3.1.5</a> Antenna cable termination points
+</h3>
+<div class="Standard">
+To integrate into the VB911 system, an ambulance must be equipped with antenna cables that terminate as follows:
+</div>
+<div class="Standard">
+<img class="embedded" src="cable-runs-bulkhead-interior.png" alt="figure cable-runs-bulkhead-interior.png" style="width: 100%; height: auto;"/>
+
+</div>
+<div class="Standard">
+<img class="embedded" src="cable-runs-left-interior.png" alt="figure cable-runs-left-interior.png" style="width: 94%; height: auto;"/>
+<p><br/>
+</p>
+
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-3.1.6">3.1.6</a> Component mounting and power source chart
+</h3>
+<div class="Standard">
+To integrate into the VB EMS system, VB911-related radio and MDT equipment must be mounted and supplied with power according to the following chart:
+</div>
+<div class="Standard">
+<div class="center">
+<img class="embedded" src="tasir-it.png" alt="figure tasir-it.png" style="width: auto; height: 89%;"/>
+
+</div>
+
+</div>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.2">3.2</a> Chassis, engine, and drivetrain selection
+</h2>
+<div class="Standard">
+To integrate into the VB EMS system, a new or rechassied ambulance must use one of the following combinations:
+</div>
+<ul>
+<li>
+Ford E-450 with V-10 gasoline engine
+</li>
+<li>
+Dodge 5500 with 6.7L Cummins diesel engine and AISIN heavy-duty 6-speed transmission (new orders will only be approved after city garage confirmation that adequate local repair facilities exist)
+</li>
+<li>
+Freightliner M2 with 6.7L Cummins diesel engine and Allison transmission
+</li>
+
+</ul>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.3">3.3</a> Fuel
+</h2>
+<div class="Standard">
+To qualify for using fuel supplied by the Public Works Department, a vehicle must run on one of the following fuels:
+</div>
+<ul>
+<li>
+ULTRA-LOW-SULFUR DIESEL
+</li>
+<li>
+REGULAR UNLEADED GASOLINE
+</li>
+
+</ul>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.4">3.4</a> Traffic preemption systems
+</h2>
+<div class="Standard">
+To integrate into the city’s traffic preemption system, the following requirements must be met:
+</div>
+<ul>
+<li>
+The vehicle must be equipped with an OPTICOM INFRARED emitter, although for compatibility reasons the visible light blocking filter is discouraged.
+</li>
+<li>
+The emitter must only be active when the vehicle’s transmission is in DRIVE and the emergency lights are on.
+</li>
+
+</ul>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.5">3.5</a> Garage space, vehicle aprons, structural additions and modifications
+</h2>
+<ol>
+<li>
+To fit inside all VB EMS stations, a vehicle (including protruding items such as mirrors and antennas) must be less than:<ul>
+<li>
+118&rdquo;, which is 9’10&rdquo;, in HEIGHT (a limitation of the Thalia station)
+</li>
+<li>
+142&rdquo;, which is 11’10&rdquo;, in WIDTH (a limitation of the Plaza station)
+</li>
+<li>
+180&rdquo;, which is 15’, in LENGTH (an approximate limitation of the Thalia station)
+</li>
+
+</ul>
+
+</li>
+<li>
+The Department may impose weight restrictions on heavy vehicles to avoid damage to station aprons, etc.
+</li>
+<li>
+A squad must receive approval from both the EMS Department and the Public Works Department Buildings Division before making any substantial additions or modifications to city-owned buildings.
+</li>
+<li>
+The sole authorities for negotiating the use of city-owned building space between the EMS and Fire Departments are the EMS Chief and the Fire Chief. Personnel at lower levels of authority are not authorized to alter existing arrangements. Similar rules shall apply if space is shared between EMS and any other city departments.
+</li>
+
+</ol>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.6">3.6</a> Roadway dimensions and load limits
+</h2>
+<ol>
+<li>
+The most limiting bridge that a VB EMS unit may reasonably be expected to cross is the North Landing Bridge on Route 165 (North Landing Road) at the Virginia Beach / Chesapeake city line, which has a weight limit of 13 tons, which is 26,000 pounds. Although emergency vehicles may be exempt from weight restrictions according to state law, a squad must receive approval from both the EMS Department and the Public Works Transportation Division before procuring a vehicle that would exceed the weight limit of the North Landing Bridge.
+</li>
+<li>
+Squads procuring heavy or oversize vehicles should be familiar with Part A Section 5 of the Planning Department Permits &amp; Inspections Division <a class="URL" href="https://www.vbgov.com/government/departments/planning/permits-inspections/Documents/form-pdf/MovingandHaulingManual.pdf">Moving and Hauling Manual</a><span class="FootOuter"><span class="SupFootMarker"> [A] </span><span class="HoverFoot"><span class="SupFootMarker"> [A] </span>https://www.vbgov.com/government/departments/planning/permits-inspections/Documents/form-pdf/MovingandHaulingManual.pdf</span></span>, and the Public Works Department Operations Division’s <a class="URL" href="http://www.dmv.state.va.us/webdoc/pdf/vbc1.pdf">Blanket Permit Requirements Memo</a><span class="FootOuter"><span class="SupFootMarker"> [B] </span><span class="HoverFoot"><span class="SupFootMarker"> [B] </span>http://www.dmv.state.va.us/webdoc/pdf/vbc1.pdf</span></span> and <a class="URL" href="www.dmv.state.va.us/webdoc/pdf/vbc2.pdf">Blanket Permit Hauling Map</a><span class="FootOuter"><span class="SupFootMarker"> [C] </span><span class="HoverFoot"><span class="SupFootMarker"> [C] </span>www.dmv.state.va.us/webdoc/pdf/vbc2.pdf</span></span>.
+</li>
+
+</ol>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.7">3.7</a> Regional Drug and IV Box System
+</h2>
+<div class="Standard">
+If a vehicle is, according to the EMS Department, an <u>addition</u> to the fleet (as opposed to a replacement), and it should carry a regional IV box and a regional drug box, the vehicle owner must arrange to buy <u>double</u> the quantity of IV and drug boxes that will be kept on the vehicle. Half of the procured boxes will be kept on the vehicle. The other half will be kept in standby inventory in the hospital pharmacy system.
+</div>
+<div class="Standard">
+Regional IV and drug boxes shall be bought through the regional EMS council.<p><br/>
+</p>
+
+</div>
+<h1 class="Section">
+<a class="toc" name="toc-Section-4">4</a> Endorsements
+</h1>
+<div class="Standard">
+Endorsed as to correctness and completeness:
+</div>
+<ul>
+<li>
+<div class="Frameless" style="width: 100%;">
+SME for VB911-related radio and mobile data terminal purchase specifications:<blockquote class="Quote">
+<b><div class="vspace" style="height: 0.25in;">
+
+</div>
+</b>
+</blockquote>
+<blockquote class="Quote">
+<b>X<hr class="line" /> Date:<hr class="line" /><br/>
+Neil Kunzler, Senior Account Manager</b><br/>
+Government &amp; Public Safety Mobility <br/>
+Motorola Solutions Inc.<br/>
+1289 Holly Point Rd<br/>
+Virginia Beach VA 23454<br/>
+tel:757-481-6096<br/>
+tel:757-377-5374 (cell)<br/>
+fax:757-412-0776<br/>
+<a class="URL" href="mailto:Neil.Kunzler@motorolasolutions.com">Neil.Kunzler@motorolasolutions.com</a>
+</blockquote>
+
+</div>
+<div class="vspace" style="height: 1in;">
+
+</div>
+
+</li>
+<li>
+<div class="Frameless" style="width: 100%;">
+SME for VB911-related radio and mobile data terminal installation and maintenance:<blockquote class="Quote">
+<b><div class="vspace" style="height: 0.25in;">
+
+</div>
+</b>
+</blockquote>
+<blockquote class="Quote">
+<b>X<hr class="line" /> Date:<hr class="line" /><br/>
+Marc St Clair, Systems Engineer</b><br/>
+ECCS Network Support<br/>
+Telecommunications Area<br/>
+ComIT Department<br/>
+<a class="URL" href="mailto:mstclair@vbgov.com">mstclair@vbgov.com</a>
+</blockquote>
+
+</div>
+<div class="vspace" style="height: 1in;">
+
+</div>
+
+</li>
+<li>
+<div class="Frameless" style="width: 100%;">
+SME for selection, maintenance, and repair of vehicle chassis, drivetrain, suspension, engine accessories, and roadworthiness features:<blockquote class="Quote">
+<b><div class="vspace" style="height: 0.25in;">
+
+</div>
+</b>
+</blockquote>
+<blockquote class="Quote">
+<b>X<hr class="line" /> Date:<hr class="line" /><br/>
+Reggie Padgett, Fleet Manager</b><br/>
+Automotive Services Division<br/>
+Public Works Department<br/>
+tel:757-385-1925<br/>
+<a class="URL" href="mailto:rpadgett@vbgov.com">rpadgett@vbgov.com</a>
+</blockquote>
+
+</div>
+<div class="vspace" style="height: 1in;">
+
+</div>
+
+</li>
+<li>
+<div class="Frameless" style="width: 100%;">
+SME for fuel:<blockquote class="Quote">
+<b><div class="vspace" style="height: 0.25in;">
+
+</div>
+</b>
+</blockquote>
+<blockquote class="Quote">
+<b>X<hr class="line" /> Date:<hr class="line" /><br/>
+Reggie Padgett, Fleet Manager</b><br/>
+Automotive Services Division<br/>
+Public Works Department<br/>
+tel:757-385-1925<br/>
+<a class="URL" href="mailto:rpadgett@vbgov.com">rpadgett@vbgov.com</a>
+</blockquote>
+
+</div>
+<div class="vspace" style="height: 1in;">
+
+</div>
+
+</li>
+<li>
+<div class="Frameless" style="width: 100%;">
+SME for garage space, vehicle aprons, and structural additions and modifications:<blockquote class="Quote">
+<b><div class="vspace" style="height: 0.25in;">
+
+</div>
+</b>
+</blockquote>
+<blockquote class="Quote">
+<b>X<hr class="line" /> Date:<hr class="line" /><br/>
+Barry Shockley, Facilities Manager</b><br/>
+Buildings Division<br/>
+Public Works<br/>
+tel:757-385-8558<br/>
+<a class="URL" href="mailto:bshockle@vbgov.com">bshockle@vbgov.com</a>
+</blockquote>
+
+</div>
+<div class="vspace" style="height: 1in;">
+
+</div>
+
+</li>
+<li>
+<div class="Frameless" style="width: 100%;">
+SME for traffic signal preemption:<blockquote class="Quote">
+<b><div class="vspace" style="height: 0.25in;">
+
+</div>
+</b>
+</blockquote>
+<blockquote class="Quote">
+<b>X<hr class="line" /> Date:<hr class="line" /><br/>
+Brian Proctor, Civil Engineer</b><br/>
+Traffic Engineering Division<br/>
+Public Works<br/>
+tel:757-385-4387<br/>
+<a class="URL" href="mailto:bproctor@vbgov.com">bproctor@vbgov.com</a>
+</blockquote>
+
+</div>
+<div class="vspace" style="height: 1in;">
+
+</div>
+
+</li>
+<li>
+<div class="Frameless" style="width: 100%;">
+SME for roadway dimensions and load limits:<blockquote class="Quote">
+<b><div class="vspace" style="height: 0.25in;">
+
+</div>
+</b>
+</blockquote>
+<blockquote class="Quote">
+<b>X<hr class="line" /> Date:<hr class="line" /><br/>
+</b>?<br/>
+Transportation Division<br/>
+Public Works
+</blockquote>
+
+</div>
+<div class="vspace" style="height: 1in;">
+
+</div>
+
+</li>
+<li>
+<div class="Frameless" style="width: 100%;">
+SME for regional IV and drug box program:<blockquote class="Quote">
+<b><div class="vspace" style="height: 0.25in;">
+
+</div>
+</b>
+</blockquote>
+<blockquote class="Quote">
+<b>X<hr class="line" /> Date:<hr class="line" /><br/>
+</b>David Coulling, Regional Field Coordinator<br/>
+Tidewater EMS Council<br/>
+tel:757-963-2325<br/>
+<a class="URL" href="mailto:coulling@vaems.org">coulling@vaems.org</a>
+</blockquote>
+
+</div>
+
+</li>
+
+</ul>
+
+</div>
+</body>
+</html>

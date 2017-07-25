@@ -98,6 +98,8 @@
     <Content Include="pub\squad_pages.aspx" />
     <Content Include="pub\squad_resources.aspx" />
     <Content Include="pub\streaming_radio_traffic.aspx" />
+    <Content Include="pub\subcouncil\apparatus\apparatus_council.aspx" />
+    <Content Include="pub\subcouncil\apparatus\TASIR\html\TASIR.html" />
     <Content Include="pub\subcouncil\fund_drive\fund_drive_council.aspx" />
     <Content Include="pub\subcouncil\subcouncils.aspx" />
     <Content Include="pub\subcouncil\supply\supply_council.aspx" />
@@ -282,6 +284,13 @@
     </Compile>
     <Compile Include="pub\streaming_radio_traffic.aspx.designer.cs">
       <DependentUpon>streaming_radio_traffic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pub\subcouncil\apparatus\apparatus_council.aspx.cs">
+      <DependentUpon>apparatus_council.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pub\subcouncil\apparatus\apparatus_council.aspx.designer.cs">
+      <DependentUpon>apparatus_council.aspx</DependentUpon>
     </Compile>
     <Compile Include="pub\subcouncil\fund_drive\fund_drive_council.aspx.cs">
       <DependentUpon>fund_drive_council.aspx</DependentUpon>
@@ -572,6 +581,10 @@
     <Content Include="usercontrol\ki\UserControl_print_div.ascx" />
     <Content Include="usercontrol\ki\UserControl_session_interrupted.ascx" />
     <Content Include="pub\subcouncil\fund_drive\vbgov-gis-property-map.pdf" />
+    <Content Include="pub\subcouncil\apparatus\TASIR\TASIR.pdf" />
+    <Content Include="pub\subcouncil\apparatus\checklist\new-vehicle-contract-checklist.pdf" />
+    <Content Include="pub\subcouncil\apparatus\checklist\new-vehicle-intake-process-checklist.pdf" />
+    <Content Include="pub\subcouncil\apparatus\ApplicationForEMSVehiclePermit-1--vbems--fillable.pdf" />
     <None Include="resource\Articles-of-incorporation.pdf" />
     <Content Include="resource\pharmacy-exchange-form.pdf" />
     <None Include="work.bat" />
