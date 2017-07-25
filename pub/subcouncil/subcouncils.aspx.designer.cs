@@ -22,6 +22,15 @@ namespace subcouncils {
         protected global::UserControl_precontent.TWebUserControl_precontent UserControl_precontent;
         
         /// <summary>
+        /// HyperLink_apparatus_council control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink HyperLink_apparatus_council;
+        
+        /// <summary>
         /// HyperLink_fund_drive_council control.
         /// </summary>
         /// <remarks>

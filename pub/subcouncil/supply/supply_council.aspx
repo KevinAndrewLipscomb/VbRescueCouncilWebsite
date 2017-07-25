@@ -16,6 +16,18 @@
       <h1>Supply Council</h1>
       <ul>
         <li>
+          <p>Position statements</p>
+          <ul>
+            <li>
+              <p>
+                <b>Currently:</b>&nbsp; We are eleven different organizations (ten squads plus the Department [404]) making independent decisions and purchases, as guided by protocol, hospital purchasing decisions, and some
+                Department-level mandates; and we are trying to develop ways to standardize.
+              </p>
+            </li>
+            <li><p><b>By about 2037:</b>&nbsp; (TBD)</p></li>
+          </ul>
+        </li>
+        <li>
           <p>Forms & letters</p>
           <blockquote>
             <table border="1" bordercolor="gray" cellpadding="10" cellspacing="0" width="100%">

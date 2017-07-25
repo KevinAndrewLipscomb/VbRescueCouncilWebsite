@@ -1,0 +1,1848 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "Tahoma"
+\font_sans "default" "Tahoma"
+\font_typewriter "default" "Andale Mono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\headheight 0in
+\headsep 0.25in
+\footskip 0.5in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle plain
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+VIRGINIA BEACH EMS DEPARTMENT
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+TECHNICAL ASSET SYSTEM INTEGRATION REQUIREMENTS
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+(TASIR)
+\end_layout
+
+\begin_layout Date
+$Revision$
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+To suppress the page number on the first page, the 
+\backslash
+thispagestyle{empty} ERT must appear in a Standard environment after the
+ Title and Date environments but before the end of the first page.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+In so far as each of the Department's volunteer rescue squads desires to
+ operate its own technical assets (ambulances, duty radios, etc) in the
+ Virginia Beach EMS system, there exists a need to integrate those assets
+ with municipal and regional infrastructure and processes.
+ This document, along with any documents it references, specifies requirements
+ for such integration.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Desired-state"
+
+\end_inset
+
+Desired state
+\end_layout
+
+\begin_layout Standard
+This document is written with the following high-level goals in mind:
+\end_layout
+
+\begin_layout Itemize
+System integration concerns are defined before a procurement begins, and
+ are raised at initiation of the procurement process.
+\end_layout
+
+\begin_layout Itemize
+Such definitions are composed of:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Written words
+\end_layout
+
+\begin_layout Itemize
+Charts
+\end_layout
+
+\begin_layout Itemize
+Drawings
+\end_layout
+
+\begin_layout Itemize
+Pictures
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Compliance with these requirements is verified prior to an asset being ordered.
+\end_layout
+
+\begin_layout Subsection
+Continuous process
+\end_layout
+
+\begin_layout Standard
+This document is a work product intended to serve as the 
+\begin_inset Quotes eld
+\end_inset
+
+hub
+\begin_inset Quotes erd
+\end_inset
+
+ of a dynamic 
+\begin_inset Quotes eld
+\end_inset
+
+hub-and-spoke
+\begin_inset Quotes erd
+\end_inset
+
+ process driven by progress.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+spokes
+\begin_inset Quotes erd
+\end_inset
+
+ of the process include:
+\end_layout
+
+\begin_layout Subsubsection
+Identification of control points in the procurement process
+\end_layout
+
+\begin_layout Standard
+Control points are opportunities to assess compliance with requirements
+ and to address any discrepancies.
+ Currently-identified control points include when:
+\end_layout
+
+\begin_layout Itemize
+A squad becomes interested in procuring a technical asset
+\end_layout
+
+\begin_layout Itemize
+A squad submits a grant application for DEMS or state approval
+\end_layout
+
+\begin_layout Itemize
+A squad submits a loan application for DEMS or city approval
+\end_layout
+
+\begin_layout Itemize
+A squad finishes a purchase or build order, and is ready to sign a contract
+\end_layout
+
+\begin_layout Itemize
+A squad performs an end-of-assembly inspection, or takes delivery of a technical
+ asset
+\end_layout
+
+\begin_layout Itemize
+A squad submits an asset for integration into the Virginia Beach EMS system
+\end_layout
+
+\begin_layout Itemize
+An asset gets refurbished, rechassied, recapitalized, etc
+\end_layout
+
+\begin_layout Itemize
+The city budget planning process begins
+\end_layout
+
+\begin_layout Standard
+The Department and the squad should review this document together at each
+ control point to assess ongoing compliance with requirements.
+\end_layout
+
+\begin_layout Subsubsection
+Identification of Subject Matter Experts (SMEs)
+\end_layout
+
+\begin_layout Standard
+This document is only as legitimate as the endorsements it receives from
+ the appropriate authoritative personnel.
+ As personnel move in, out, and across the workforce and the market, it
+ is important that the Department review this document to assure that its
+ references to, and endorsements from, SMEs are current, correct, and complete.
+\end_layout
+
+\begin_layout Subsubsection
+Interviews with SMEs
+\end_layout
+
+\begin_layout Standard
+The Department should conduct periodic interviews with identified SMEs to
+ review the contents of this document, and to gather:
+\end_layout
+
+\begin_layout Itemize
+New, changed, or obsolete requirements
+\end_layout
+
+\begin_layout Itemize
+Supporting artifacts to include explicitly or by reference
+\end_layout
+
+\begin_layout Subsubsection
+Endorsements from SMEs
+\end_layout
+
+\begin_layout Standard
+The Department should make sure that it gets an explicit endorsement from
+ the appropriate SME for every set of integration requirements for a given
+ system or subsystem.
+ Such endorsements should be in writing and should be attached or otherwise
+ made available with this document.
+\end_layout
+
+\begin_layout Subsubsection
+Advocacy for SMEs at appropriate control points
+\end_layout
+
+\begin_layout Standard
+The Department should take at least each control point as an opportunity
+ to raise stakeholder awareness of SME concerns.
+ The Department acknowledges that the SMEs are not responsible for directly
+ communicating new, changed, or obsoleted requirements directly to the squads,
+ nor are the squads responsible for making direct inquiries to the SMEs.
+ Rather, the SMEs are responsible for communicating changes to the Department,
+ and the Department is responsible for communicating that information to
+ the squads via this document (see 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Desired-state"
+
+\end_inset
+
+).
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Business cycles and processes
+\end_layout
+
+\begin_layout Subsection
+Squad procurement cycle
+\end_layout
+
+\begin_layout Standard
+Squad coordinators who are responsible for technical asset procurement should
+ perform most or all of the following 
+\begin_inset Quotes eld
+\end_inset
+
+cradle to grave
+\begin_inset Quotes erd
+\end_inset
+
+ tasks:
+\end_layout
+
+\begin_layout Itemize
+Recognize the need to procure an asset.
+\end_layout
+
+\begin_layout Itemize
+Ensure adequate squad funds are budgeted (also see section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:City-budget-process"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Itemize
+Develop full specifications using this document as a guide.
+\end_layout
+
+\begin_layout Itemize
+Solicit quotes, bids, or proposals.
+\end_layout
+
+\begin_layout Itemize
+Issue a purchase order or sign a contract according to squad business rules.
+\end_layout
+
+\begin_layout Itemize
+Make sure payments are processed in a timely manner.
+\end_layout
+
+\begin_layout Itemize
+Ensure contract performance (inspect asset thoroughly using specifications
+ and build order as guides).
+\end_layout
+
+\begin_layout Itemize
+For ops assets, turn asset over to ops staff for full commissioning.
+\end_layout
+
+\begin_layout Itemize
+Determine 
+\bar under
+well ahead of time
+\bar default
+ when an asset will no longer be of use or value.
+\end_layout
+
+\begin_layout Itemize
+For ops assets, receive decommissioned asset from ops staff.
+\end_layout
+
+\begin_layout Itemize
+Remove and reallocate useful sub-components (ie, EMS gear, radios, computers,
+ dashcams, power load systems, etc, for a vehicle).
+\end_layout
+
+\begin_layout Itemize
+Remove highly conspicuous squad markings as necessary.
+\end_layout
+
+\begin_layout Itemize
+Initiate final sale or disposal process.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:City-budget-process"
+
+\end_inset
+
+City budget process
+\end_layout
+
+\begin_layout Standard
+This document is primarily intended to define requirements for integrating
+ 
+\bar under
+squad-owned
+\bar default
+ technical assets into city infrastructure, but in some cases a squad must
+ consider 
+\bar under
+city
+\bar default
+ budgetary issues.
+ For example, in the traditional arrangement for adding an ambulance to
+ the VB EMS fleet, the EMS Department must seek and receive approval to
+ pay for additional fuel, maintenance, city-supplied medical gear, etc.
+ The timeline for this process is enforced by the Budget & Management Services
+ Department, the City Manager, and City Council – not by the EMS Department.
+\end_layout
+
+\begin_layout Standard
+Each budget cycle begins more than 
+\bar under
+nine months
+\bar default
+ before the budget becomes effective and generally proceeds as follows:
+\end_layout
+
+\begin_layout Description
+September 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Headquarters chiefs solicit input from staff on budget needs.
+\end_layout
+
+\begin_layout Description
+October 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Management Services provides the Department with “target” budget figure
+ based on projected revenues, known obligations and other factors as determined
+ by city leaders.
+\end_layout
+
+\begin_layout Description
+November 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Department prepares a two-level request: One that does not exceed the 
+\begin_inset Quotes eld
+\end_inset
+
+target
+\begin_inset Quotes erd
+\end_inset
+
+ amount, and one that identifies other needs that would exceed the 
+\begin_inset Quotes eld
+\end_inset
+
+target
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+December 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Department submits its two-level request to Management Services.
+\end_layout
+
+\begin_layout Description
+January 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Department negotiates its request with City Manager and his deputies.
+\end_layout
+
+\begin_layout Description
+February 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Management Services reconciles outstanding issues with the Department.
+\end_layout
+
+\begin_layout Description
+March 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Department presents its request to City Council.
+\end_layout
+
+\begin_layout Description
+April 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+EMS Chief negotiates its request with City Council and public hearings area
+ held.
+\end_layout
+
+\begin_layout Description
+May 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+City Council finalizes the budget for the coming fiscal year.
+\end_layout
+
+\begin_layout Description
+July 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Department begins spending from approved budget.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+SPECIFICATIONS
+\end_layout
+
+\begin_layout Subsection
+VB911-related radios and mobile data terminals
+\end_layout
+
+\begin_layout Subsubsection
+Mobile (vehicle-mounted) radios
+\end_layout
+
+\begin_layout Standard
+To integrate into the VB911 system, a mobile radio must have the following
+ attributes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename radio-basic.png
+	width 100text%
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mobile radios 
+\bar under
+in ambulances
+\bar default
+ (or other vehicles with a secondary communications area) must also have
+ the following attributes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename radio-ambulance.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Portable (handheld) radios
+\end_layout
+
+\begin_layout Standard
+To integrate into the VB911 system, a portable radio must be a 
+\series bold
+Motorola APX Series P25 700/800 MHz band
+\series default
+ model with the following attributes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename portable-basic.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A portable radio 
+\bar under
+may
+\bar default
+ include the following attributes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename portable-options.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Other options may be allowable upon approval of the SME for VB911-related
+ radio and mobile data terminal purchase specifications.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Mobile data terminals
+\end_layout
+
+\begin_layout Standard
+To integrate into the VB911 system, a mobile data terminal (MDT) must have
+ the following attributes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename mdt.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Because an MDT in a vehicle must be able to receive messages when the vehicle
+ is off (unless voltage drop would risk preventing the vehicle from being
+ started), all MDTs installed in vehicles must draw primary power from the
+ following component, which must draw its power from the OEM unswitched
+ battery circuit:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+ACDC Industries MZL-180 voltage-sensing delay timer
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Vehicle antenna placement
+\end_layout
+
+\begin_layout Standard
+To integrate into the VB911 system, a vehicle must have antennas mounted
+ according to sound radio engineering principles.
+ For instance, a vehicle equipped with an approved mobile radio and an approved
+ MDT will have exterior antennas mounted something like this:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename antenna-location-chart.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Antenna cable termination points
+\end_layout
+
+\begin_layout Standard
+To integrate into the VB911 system, an ambulance must be equipped with antenna
+ cables that terminate as follows:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename cable-runs-bulkhead-interior.bmp
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename cable-runs-left-interior.bmp
+	width 94text%
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Component mounting and power source chart
+\end_layout
+
+\begin_layout Standard
+To integrate into the VB EMS system, VB911-related radio and MDT equipment
+ must be mounted and supplied with power according to the following chart:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename tasir-it.png
+	height 89theight%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Chassis, engine, and drivetrain selection
+\end_layout
+
+\begin_layout Standard
+To integrate into the VB EMS system, a new or rechassied ambulance must
+ use one of the following combinations:
+\end_layout
+
+\begin_layout Itemize
+Ford E-450 with V-10 gasoline engine
+\end_layout
+
+\begin_layout Itemize
+Dodge 5500 with 6.7L Cummins diesel engine and AISIN heavy-duty 6-speed transmiss
+ion (new orders will only be approved after city garage confirmation that
+ adequate local repair facilities exist)
+\end_layout
+
+\begin_layout Itemize
+Freightliner M2 with 6.7L Cummins diesel engine and Allison transmission
+\end_layout
+
+\begin_layout Subsection
+Fuel
+\end_layout
+
+\begin_layout Standard
+To qualify for using fuel supplied by the Public Works Department, a vehicle
+ must run on one of the following fuels:
+\end_layout
+
+\begin_layout Itemize
+ULTRA-LOW-SULFUR DIESEL
+\end_layout
+
+\begin_layout Itemize
+REGULAR UNLEADED GASOLINE
+\end_layout
+
+\begin_layout Subsection
+Traffic preemption systems
+\end_layout
+
+\begin_layout Standard
+To integrate into the city's traffic preemption system, the following requiremen
+ts must be met:
+\end_layout
+
+\begin_layout Itemize
+The vehicle must be equipped with an OPTICOM INFRARED emitter, although
+ for compatibility reasons the visible light blocking filter is discouraged.
+\end_layout
+
+\begin_layout Itemize
+The emitter must only be active when the vehicle's transmission is in DRIVE
+ and the emergency lights are on.
+\end_layout
+
+\begin_layout Subsection
+Garage space, vehicle aprons, structural additions and modifications
+\end_layout
+
+\begin_layout Enumerate
+To fit inside all VB EMS stations, a vehicle (including protruding items
+ such as mirrors and antennas) must be less than:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+118
+\begin_inset Quotes erd
+\end_inset
+
+, which is 9'10
+\begin_inset Quotes erd
+\end_inset
+
+, in HEIGHT (a limitation of the Thalia station)
+\end_layout
+
+\begin_layout Itemize
+142
+\begin_inset Quotes erd
+\end_inset
+
+, which is 11'10
+\begin_inset Quotes erd
+\end_inset
+
+, in WIDTH (a limitation of the Plaza station)
+\end_layout
+
+\begin_layout Itemize
+180
+\begin_inset Quotes erd
+\end_inset
+
+, which is 15', in LENGTH (an approximate limitation of the Thalia station)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The Department may impose weight restrictions on heavy vehicles to avoid
+ damage to station aprons, etc.
+\end_layout
+
+\begin_layout Enumerate
+A squad must receive approval from both the EMS Department and the Public
+ Works Department Buildings Division before making any substantial additions
+ or modifications to city-owned buildings.
+\end_layout
+
+\begin_layout Enumerate
+The sole authorities for negotiating the use of city-owned building space
+ between the EMS and Fire Departments are the EMS Chief and the Fire Chief.
+ Personnel at lower levels of authority are not authorized to alter existing
+ arrangements.
+ Similar rules shall apply if space is shared between EMS and any other
+ city departments.
+\end_layout
+
+\begin_layout Subsection
+Roadway dimensions and load limits
+\end_layout
+
+\begin_layout Enumerate
+The most limiting bridge that a VB EMS unit may reasonably be expected to
+ cross is the North Landing Bridge on Route 165 (North Landing Road) at
+ the Virginia Beach / Chesapeake city line, which has a weight limit of
+ 13 tons, which is 26,000 pounds.
+ Although emergency vehicles may be exempt from weight restrictions according
+ to state law, a squad must receive approval from both the EMS Department
+ and the Public Works Transportation Division before procuring a vehicle
+ that would exceed the weight limit of the North Landing Bridge.
+\end_layout
+
+\begin_layout Enumerate
+Squads procuring heavy or oversize vehicles should be familiar with Part
+ A Section 5 of the Planning Department Permits & Inspections Division 
+\begin_inset CommandInset href
+LatexCommand href
+name "Moving and Hauling Manual"
+target "https://www.vbgov.com/government/departments/planning/permits-inspections/Documents/form-pdf/MovingandHaulingManual.pdf"
+
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+https://www.vbgov.com/government/departments/planning/permits-inspections/Document
+s/form-pdf/MovingandHaulingManual.pdf
+\end_layout
+
+\end_inset
+
+, and the Public Works Department Operations Division's 
+\begin_inset CommandInset href
+LatexCommand href
+name "Blanket Permit Requirements Memo"
+target "http://www.dmv.state.va.us/webdoc/pdf/vbc1.pdf"
+
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://www.dmv.state.va.us/webdoc/pdf/vbc1.pdf
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset CommandInset href
+LatexCommand href
+name "Blanket Permit Hauling Map"
+target "www.dmv.state.va.us/webdoc/pdf/vbc2.pdf"
+
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+www.dmv.state.va.us/webdoc/pdf/vbc2.pdf
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Regional Drug and IV Box System
+\end_layout
+
+\begin_layout Standard
+If a vehicle is, according to the EMS Department, an 
+\bar under
+addition
+\bar default
+ to the fleet (as opposed to a replacement), and it should carry a regional
+ IV box and a regional drug box, the vehicle owner must arrange to buy 
+\bar under
+double
+\bar default
+ the quantity of IV and drug boxes that will be kept on the vehicle.
+ Half of the procured boxes will be kept on the vehicle.
+ The other half will be kept in standby inventory in the hospital pharmacy
+ system.
+\end_layout
+
+\begin_layout Standard
+Regional IV and drug boxes shall be bought through the regional EMS council.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Endorsements
+\end_layout
+
+\begin_layout Standard
+Endorsed as to correctness and completeness:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+SME for VB911-related radio and mobile data terminal purchase specifications:
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+\begin_inset VSpace 0.25in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+X
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "3in"
+height "1pt"
+
+\end_inset
+
+ Date:
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "1in"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Neil Kunzler, Senior Account Manager
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Government & Public Safety Mobility 
+\begin_inset Newline newline
+\end_inset
+
+Motorola Solutions Inc.
+\begin_inset Newline newline
+\end_inset
+
+1289 Holly Point Rd
+\begin_inset Newline newline
+\end_inset
+
+Virginia Beach VA 23454
+\begin_inset Newline newline
+\end_inset
+
+tel:757-481-6096
+\begin_inset Newline newline
+\end_inset
+
+tel:757-377-5374 (cell)
+\begin_inset Newline newline
+\end_inset
+
+fax:757-412-0776
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Neil.Kunzler@motorolasolutions.com"
+target "Neil.Kunzler@motorolasolutions.com"
+type "mailto:"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+SME for VB911-related radio and mobile data terminal installation and maintenanc
+e:
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+\begin_inset VSpace 0.25in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+X
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "3in"
+height "1pt"
+
+\end_inset
+
+ Date:
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "1in"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Marc St Clair, Systems Engineer
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ECCS Network Support
+\begin_inset Newline newline
+\end_inset
+
+Telecommunications Area
+\begin_inset Newline newline
+\end_inset
+
+ComIT Department
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "mstclair@vbgov.com"
+target "mstclair@vbgov.com"
+type "mailto:"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+SME for selection, maintenance, and repair of vehicle chassis, drivetrain,
+ suspension, engine accessories, and roadworthiness features:
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+\begin_inset VSpace 0.25in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+X
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "3in"
+height "1pt"
+
+\end_inset
+
+ Date:
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "1in"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Reggie Padgett, Fleet Manager
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Automotive Services Division
+\begin_inset Newline newline
+\end_inset
+
+Public Works Department
+\begin_inset Newline newline
+\end_inset
+
+tel:757-385-1925
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "rpadgett@vbgov.com"
+target "rpadgett@vbgov.com"
+type "mailto:"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+SME for fuel:
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+\begin_inset VSpace 0.25in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+X
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "3in"
+height "1pt"
+
+\end_inset
+
+ Date:
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "1in"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Reggie Padgett, Fleet Manager
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Automotive Services Division
+\begin_inset Newline newline
+\end_inset
+
+Public Works Department
+\begin_inset Newline newline
+\end_inset
+
+tel:757-385-1925
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "rpadgett@vbgov.com"
+target "rpadgett@vbgov.com"
+type "mailto:"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+SME for garage space, vehicle aprons, and structural additions and modifications
+:
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+\begin_inset VSpace 0.25in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+X
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "3in"
+height "1pt"
+
+\end_inset
+
+ Date:
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "1in"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Barry Shockley, Facilities Manager
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Buildings Division
+\begin_inset Newline newline
+\end_inset
+
+Public Works
+\begin_inset Newline newline
+\end_inset
+
+tel:757-385-8558
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "bshockle@vbgov.com"
+target "bshockle@vbgov.com"
+type "mailto:"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+SME for traffic signal preemption:
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+\begin_inset VSpace 0.25in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+X
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "3in"
+height "1pt"
+
+\end_inset
+
+ Date:
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "1in"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Brian Proctor, Civil Engineer
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Traffic Engineering Division
+\begin_inset Newline newline
+\end_inset
+
+Public Works
+\begin_inset Newline newline
+\end_inset
+
+tel:757-385-4387
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "bproctor@vbgov.com"
+target "bproctor@vbgov.com"
+type "mailto:"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+SME for roadway dimensions and load limits:
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+\begin_inset VSpace 0.25in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+X
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "3in"
+height "1pt"
+
+\end_inset
+
+ Date:
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "1in"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+?
+\begin_inset Newline newline
+\end_inset
+
+Transportation Division
+\begin_inset Newline newline
+\end_inset
+
+Public Works
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+SME for regional IV and drug box program:
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+\begin_inset VSpace 0.25in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+X
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "3in"
+height "1pt"
+
+\end_inset
+
+ Date:
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "1in"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+David Coulling, Regional Field Coordinator
+\begin_inset Newline newline
+\end_inset
+
+Tidewater EMS Council
+\begin_inset Newline newline
+\end_inset
+
+tel:757-963-2325
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "coulling@vaems.org"
+target "coulling@vaems.org"
+type "mailto:"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
