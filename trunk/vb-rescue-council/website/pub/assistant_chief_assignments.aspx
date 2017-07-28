@@ -14,69 +14,31 @@
     <form runat="server">
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
       <h1>Assistant Chief assignments</h1>
-      <h3>By chief:</h3>
       <blockquote>
-        <table cellpadding="5" cellspacing="0">
+        <table cellpadding="10" cellspacing="0">
           <tr>
-            <td>Trevor Kirk:</td>
-            <td>Rescues 1, 2, 4</td>
-          </tr>
-          <tr>
-            <td>Jay Leach:</td>
-            <td>Rescues 5, 16</td>
-          </tr>
-          <tr>
-            <td>Steve Long:</td>
-            <td>Rescues 14, 16</td>
-          </tr>
-          <tr>
-            <td>Bill Walker:</td>
-            <td>Rescues 6, 9, 13</td>
-          </tr>
-        </table>
-      </blockquote>
-      <h3>By squad:</h3>
-      <blockquote>
-        <table cellpadding="5" cellspacing="0">
-          <tr>
-            <td>Rescue 1:</td>
-            <td>Trevor Kirk</td>
-          </tr>
-          <tr>
-            <td>Rescue 2:</td>
-            <td>Trevor Kirk</td>
-          </tr>
-          <tr>
-            <td>Rescue 4:</td>
-            <td>Trevor Kirk</td>
-          </tr>
-          <tr>
-            <td>Rescue 5:</td>
+            <td>ECH21</td>
             <td>Jay Leach</td>
+            <td>Rescues 5, 17</td>
+            <td><i><a href="mailto:jleach@vbgov.com">jleach@vbgov.com</a></i></td>
           </tr>
           <tr>
-            <td>Rescue 6:</td>
+            <td>ECH22</td>
             <td>Bill Walker</td>
+            <td>Rescues 6, 9, 13</td>
+            <td><i><a href="mailto:wwalker@vbgov.com">wwalker@vbgov.com</a></i></td>
           </tr>
           <tr>
-            <td>Rescue 9:</td>
-            <td>Bill Walker</td>
+            <td>ECH31</td>
+            <td>Trevor Kirk</td>
+            <td>Rescues 1, 2, 4</td>
+            <td><i><a href="mailto:tkirk@vbgov.com">tkirk@vbgov.com</a></i></td>
           </tr>
           <tr>
-            <td>Rescue 13:</td>
-            <td>Bill Walker</td>
-          </tr>
-          <tr>
-            <td>Rescue 14:</td>
+            <td>ECH32</td>
             <td>Steve Long</td>
-          </tr>
-          <tr>
-            <td>Rescue 16:</td>
-            <td>Jay Leach, Steve Long</td>
-          </tr>
-          <tr>
-            <td>Rescue 17:</td>
-            <td></td>
+            <td>Rescues 14, 16</td>
+            <td><i><a href="mailto:slong@vbgov.com">slong@vbgov.com</a></i></td>
           </tr>
         </table>
       </blockquote>
