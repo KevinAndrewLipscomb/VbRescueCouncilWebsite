@@ -98,6 +98,11 @@
           <td style="text-align: center; width: 34%; border: 1px solid gray;"><a href="pub/subcouncil/subcouncils.aspx">Sub-councils</a></td>
           <td></td>
         </tr>
+        <tr>
+          <td></td>
+          <td style="text-align: center; width: 34%; border: 1px solid gray;"><a href="pub/assistant_chief_assignments.aspx">Assistant Chief assignments</a></td>
+          <td></td>
+        </tr>
       </table>
       <uc1:UserControl_postcontent ID="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>
