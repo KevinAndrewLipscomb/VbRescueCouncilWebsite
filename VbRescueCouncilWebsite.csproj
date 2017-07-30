@@ -593,6 +593,7 @@
     <Content Include="pub\subcouncil\apparatus\checklist\new-vehicle-contract-checklist.pdf" />
     <Content Include="pub\subcouncil\apparatus\checklist\new-vehicle-intake-process-checklist.pdf" />
     <Content Include="pub\subcouncil\apparatus\ApplicationForEMSVehiclePermit-1--vbems--fillable.pdf" />
+    <Content Include="pub\subcouncil\apparatus\20170414-EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags.pdf" />
     <None Include="resource\Articles-of-incorporation.pdf" />
     <Content Include="resource\pharmacy-exchange-form.pdf" />
     <None Include="work.bat" />
