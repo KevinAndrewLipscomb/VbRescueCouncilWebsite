@@ -21,6 +21,9 @@
             <asp:HyperLink ID="HyperLink_tasir_html" runat="server" NavigateUrl="TASIR/html/TASIR.html">HTML</asp:HyperLink>&nbsp;|&nbsp;<asp:HyperLink ID="HyperLink_tasir_pdf" runat="server" NavigateUrl="TASIR/TASIR.pdf">PDF</asp:HyperLink>
           </p>
         </li>
+        <li><p>
+          <asp:HyperLink ID="HyperLink_ltr_to_dmv" runat="server" NavigateUrl="~/pub/subcouncil/apparatus/20170414-EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags.pdf">EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags</asp:HyperLink>
+          </p></li>
         <li>
           <p>Checklists</p>
           <ul>
