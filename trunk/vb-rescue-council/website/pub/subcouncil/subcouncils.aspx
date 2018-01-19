@@ -15,7 +15,7 @@
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
       <h1>Sub-councils</h1>
       <ul>
-        <li><p><asp:HyperLink ID="HyperLink_apparatus_council" runat="server" NavigateUrl="apparatus/apparatus_council.aspx">Apparatus Task Force</asp:HyperLink></p></li>
+        <li><p><asp:HyperLink ID="HyperLink_apparatus_council" runat="server" NavigateUrl="apparatus/apparatus_council.aspx">Apparatus Council</asp:HyperLink></p></li>
         <li><p><asp:HyperLink ID="HyperLink_fund_drive_council" runat="server" NavigateUrl="fund_drive/fund_drive_council.aspx">Fund Drive Council</asp:HyperLink></p></li>
         <li><p><asp:HyperLink ID="HyperLink_supply_council" runat="server" NavigateUrl="supply/supply_council.aspx">Supply Council</asp:HyperLink></p></li>
       </ul>
