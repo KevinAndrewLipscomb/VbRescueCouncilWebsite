@@ -16,23 +16,23 @@
       <h1>Apparatus Task Force</h1>
       <ul>
         <li>
+          <p>Departmental documents</p>
+          <ul>
+            <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.pdf">EQUIP-Equipment Standardization Policy</a></li>
+            <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.TASIR_.pdf">EQUIP-Equipment Standardization Policy TASIR</a></li>
+            <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.new-vehicle-contract-checklist.pdf">EQUIP-Equipment Standardization Policy New-vehicle-contract-checklist</a></li>
+            <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.new-vehicle-intake-process-checklist.pdf">EQUIP-Equipment Standardization Policy New-vehicle-intake-process-checklist</a></li>
+            <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags.pdf">EQUIP-Equipment Standardization Policy EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags</a></li>
+          </ul>
+          <br/>
+        </li>
+        <li>
           <p>
-            Va Beach EMS Department <em>Technical Asset System Integration Requirements</em> (TASIR) document<br />
-            <asp:HyperLink ID="HyperLink_tasir_html" runat="server" NavigateUrl="TASIR/html/TASIR.html">HTML</asp:HyperLink>&nbsp;|&nbsp;<asp:HyperLink ID="HyperLink_tasir_pdf" runat="server" NavigateUrl="TASIR/TASIR.pdf">PDF</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink_application_for_vehicle_permit" runat="server" NavigateUrl="ApplicationForEMSVehiclePermit-1--vbems--fillable.pdf">
+              Virginia OEMS Application for EMS Vehicle Permit, VBEMS, fillable PDF
+            </asp:HyperLink>
           </p>
         </li>
-        <li><p>
-          <asp:HyperLink ID="HyperLink_ltr_to_dmv" runat="server" NavigateUrl="~/pub/subcouncil/apparatus/20170414-EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags.pdf">EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags</asp:HyperLink>
-          </p></li>
-        <li>
-          <p>Checklists</p>
-          <ul>
-            <li><p><asp:HyperLink ID="HyperLink_new_vehicle_contract_checklist" runat="server" NavigateUrl="checklist/new-vehicle-contract-checklist.pdf">New vehicle contract checklist</asp:HyperLink></p></li>
-            <li><p><asp:HyperLink ID="HyperLink_new_vehicle_intake_process_checklist" runat="server" NavigateUrl="checklist/new-vehicle-intake-process-checklist.pdf">New vehicle intake process checklist</asp:HyperLink></p></li>
-          </ul>
-        </li>
-        <li><p>
-          <asp:HyperLink ID="HyperLink_application_for_vehicle_permit" runat="server" NavigateUrl="ApplicationForEMSVehiclePermit-1--vbems--fillable.pdf">Virginia OEMS Application for EMS Vehicle Permit, VBEMS, fillable PDF</asp:HyperLink></p></li>
         <li>
           <p>Sample squad requirements documents</p>
           <ul>

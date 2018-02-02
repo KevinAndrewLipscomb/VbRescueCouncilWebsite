@@ -22,51 +22,6 @@ namespace apparatus_council {
         protected global::UserControl_precontent.TWebUserControl_precontent UserControl_precontent;
         
         /// <summary>
-        /// HyperLink_tasir_html control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_tasir_html;
-        
-        /// <summary>
-        /// HyperLink_tasir_pdf control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_tasir_pdf;
-        
-        /// <summary>
-        /// HyperLink_ltr_to_dmv control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_ltr_to_dmv;
-        
-        /// <summary>
-        /// HyperLink_new_vehicle_contract_checklist control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_new_vehicle_contract_checklist;
-        
-        /// <summary>
-        /// HyperLink_new_vehicle_intake_process_checklist control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_new_vehicle_intake_process_checklist;
-        
-        /// <summary>
         /// HyperLink_application_for_vehicle_permit control.
         /// </summary>
         /// <remarks>
