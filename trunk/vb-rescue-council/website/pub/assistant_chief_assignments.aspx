@@ -18,27 +18,27 @@
         <table cellpadding="10" cellspacing="0">
           <tr>
             <td>ECH21</td>
-            <td>Jay Leach</td>
-            <td>Rescues 5, 17</td>
-            <td><i><a href="mailto:jleach@vbgov.com">jleach@vbgov.com</a></i></td>
+            <td>Steve Long</td>
+            <td>Rescues 9, 16</td>
+            <td><i><a href="mailto:slong@vbgov.com">slong@vbgov.com</a></i></td>
           </tr>
           <tr>
             <td>ECH22</td>
             <td>Bill Walker</td>
-            <td>Rescues 6, 9, 13</td>
+            <td>Rescues 14, 17</td>
             <td><i><a href="mailto:wwalker@vbgov.com">wwalker@vbgov.com</a></i></td>
           </tr>
           <tr>
-            <td>ECH31</td>
-            <td>Trevor Kirk</td>
+            <td>ECH23</td>
+            <td>Ellen McBride</td>
             <td>Rescues 1, 2, 4</td>
-            <td><i><a href="mailto:tkirk@vbgov.com">tkirk@vbgov.com</a></i></td>
+            <td><i><a href="mailto:emcbride@vbgov.com">emcbride@vbgov.com</a></i></td>
           </tr>
           <tr>
-            <td>ECH32</td>
-            <td>Steve Long</td>
-            <td>Rescues 14, 16</td>
-            <td><i><a href="mailto:slong@vbgov.com">slong@vbgov.com</a></i></td>
+            <td>ECH24</td>
+            <td>Nick Askew</td>
+            <td>Rescues 5, 6, 13</td>
+            <td><i><a href="mailto:naskew@vbgov.com">naskew@vbgov.com</a></i></td>
           </tr>
         </table>
       </blockquote>
