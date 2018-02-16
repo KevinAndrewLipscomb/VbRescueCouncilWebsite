@@ -19,10 +19,10 @@
           <p>Departmental documents</p>
           <ul>
             <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.pdf">EQUIP-Equipment Standardization Policy</a></li>
-            <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.TASIR_.pdf">EQUIP-Equipment Standardization Policy TASIR</a></li>
-            <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.new-vehicle-contract-checklist.pdf">EQUIP-Equipment Standardization Policy New-vehicle-contract-checklist</a></li>
-            <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.new-vehicle-intake-process-checklist.pdf">EQUIP-Equipment Standardization Policy New-vehicle-intake-process-checklist</a></li>
-            <li><a href="http://www.vbems.com/download/policies/equipment/EQUIP-Equipment-Standardization-Policy.EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags.pdf">EQUIP-Equipment Standardization Policy EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags</a></li>
+            <li><a href="http://www.vbems.com/download/policies/reference_documents/REF-Equipment-Standardization-Policy.TASIR_.pdf">REF-Equipment Standardization Policy TASIR</a></li>
+            <li><a href="http://www.vbems.com/download/policies/reference_documents/REF-Equipment-Standardization-Policy.new-vehicle-contract-checklist.pdf">REF-Equipment Standardization Policy New-vehicle-contract-checklist</a></li>
+            <li><a href="http://www.vbems.com/download/policies/reference_documents/REF-Equipment-Standardization-Policy.new-vehicle-intake-process-checklist.pdf">REF-Equipment Standardization Policy New-vehicle-intake-process-checklist</a></li>
+            <li><a href="http://www.vbems.com/download/policies/reference_documents/REF-Equipment-Standardization-Policy.EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags.pdf">REF-Equipment Standardization Policy EMS-RSS-LTR-to-DMV-Commissioner-re-Eligibility-for-EV-tags</a></li>
           </ul>
           <br/>
         </li>
