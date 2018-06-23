@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <%@ Page Language="c#" Debug="true" CodeBehind="corporate_event_matrix.aspx.cs" AutoEventWireup="True" Inherits="corporate_event_matrix.TWebForm_corporate_event_matrix" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_precontent" Src="~/usercontrol/app/UserControl_precontent.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_postcontent" Src="~/usercontrol/app/UserControl_postcontent.ascx" %>
