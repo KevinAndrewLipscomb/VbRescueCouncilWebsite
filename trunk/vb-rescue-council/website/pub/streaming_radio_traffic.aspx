@@ -26,32 +26,15 @@
         </tr>
         <tr valign="top">
           <td width="50%">
-            <p><a rel="nofollow" class="external text" href="http://www.broadcastify.com/listen/feed/14744/web" target="_blank"><strong>Virginia Beach EMS</strong></a></p>
+            <p><strong>Virginia Beach EMS</strong></p>
             <blockquote>
               <table>
                 <tr>
                   <td>
-                    <div id="Div_scanner_feed"><!-- iframe width="325px" height="245px" src="http://api.broadcastify.com/embed/player/?key=64652882&feedId=14744&as=1&stats=1">Your browser does not support iFrames.</iframe --></div>
-                    <script type="text/javascript">
-                      //doesn't block the load event
-                      function createIframe() {
-                        var i = document.createElement("iframe");
-                        i.src = "http://api.broadcastify.com/embed/player/?key=64652882&feedId=14744&as=1&stats=1";
-                        i.scrolling = "auto";
-                        i.frameborder = "0";
-                        i.width = "325px";
-                        i.height = "245px";
-                        document.getElementById("Div_scanner_feed").appendChild(i);
-                      };
-
-                      // Check for browser support of event handling capability
-                      if (window.addEventListener)
-                        window.addEventListener("load", createIframe, false);
-                      else if (window.attachEvent)
-                        window.attachEvent("onload", createIframe);
-                      else window.onload = createIframe;
-
-                    </script>
+                    <audio controls>
+                      <source src="http://listen.broadcastify.com:80?t=C1C708FBF8C5F642B76F2592363EA516FEDA91B9936297A26670794224E6DDF2D63776A52E56926901C8176B8655B5FF9531F97174B7D4BDD6EE4BDE9B96393C" type="audio/mp3">
+                      Sorry, your bowser does not support the audio control.
+                    </audio>
                   </td>
                 </tr>
                 <tr>
@@ -66,7 +49,6 @@
                     <p>You can also monitor this feed in a number of other ways:</p>
                     <ul>
                       <li><p><a href="http://www.Broadcastify.com/listen/feed/14744" target="_blank">www.Broadcastify.com</a> lets you monitor the feed in Windows Media Player, Real Player, iTunes, Winamp, etc.</p></li>
-                      <li><p><a href="http://m.Broadcastify.com/?feedId=14744" target="_blank">m.Broadcastify.com</a> lets you monitor the feed in your mobile browser.</p></li>
                       <li><p><a href="https://broadcastify.zendesk.com/forums/21425482-Mobile-Listening-Support" target="_blank">Mobile apps</a> provide full-featured monitoring.&nbsp; Just remember, the name of the feed is <strong>Virginia Beach EMS</strong>.</p></li>
                     </ul>
                   </td>
