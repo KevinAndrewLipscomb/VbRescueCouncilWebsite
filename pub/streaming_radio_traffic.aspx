@@ -30,11 +30,7 @@
             <blockquote>
               <table>
                 <tr>
-                  <td>
-                    <audio controls src="http://audio10.broadcastify.com/m9hygrp4cfnvb6z.mp3?nc=72789141" preload="none">
-                      Sorry, your bowser does not support the audio control.
-                    </audio>
-                  </td>
+                  <td><audio id="Audio_control" runat="server" controls preload="none">Sorry, your bowser does not support the audio control.</audio></td>
                 </tr>
                 <tr>
                   <td>
