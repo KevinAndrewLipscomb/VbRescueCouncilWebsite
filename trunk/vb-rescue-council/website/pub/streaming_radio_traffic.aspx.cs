@@ -1,3 +1,4 @@
+using Class_ss_broadcastify;
 using System;
 using System.Configuration;
 
@@ -5,6 +6,14 @@ namespace streaming_radio_traffic
 {
     public partial class TWebForm_streaming_radio_traffic: ki_web_ui.page_class
     {
+
+    private struct p_type
+      {
+      public TClass_ss_broadcastify ss_broadcastify;
+      }
+
+    private p_type p;
+
         // / <summary>
         // / Required method for Designer support -- do not modify
         // / the contents of this method with the code editor.
@@ -20,6 +29,11 @@ namespace streaming_radio_traffic
             {
                 Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - streaming_radio_traffic";
                 //Response.Redirect("~/protected/overview.aspx");
+                Audio_control.Src = p.ss_broadcastify.AudioSrcUrl
+                  (
+                  feed_id:ConfigurationManager.AppSettings["broadcastify_feed_id"],
+                  domain_key:ConfigurationManager.AppSettings["broadcastify_domain_key"]
+                  );
             }
         }
 
@@ -28,6 +42,8 @@ namespace streaming_radio_traffic
             // Required for Designer support
             InitializeComponent();
             base.OnInit(e);
+        //
+        p.ss_broadcastify = new TClass_ss_broadcastify();
         }
 
     } // end TWebForm_streaming_radio_traffic
