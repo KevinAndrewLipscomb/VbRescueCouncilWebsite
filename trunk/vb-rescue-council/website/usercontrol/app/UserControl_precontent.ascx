@@ -2,6 +2,8 @@
 <%@ Register TagPrefix="uc1" TagName="UserControl_common_header_bar" Src="~/usercontrol/app/UserControl_common_header_bar.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_bread_crumb_trail" Src="~/usercontrol/ki/UserControl_bread_crumb_trail.ascx" %>
 <%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="asp" %>
+<%@ Register Src="~/usercontrol/app/UserControl_app_level_announcement.ascx" TagPrefix="uc1" TagName="UserControl_app_level_announcement" %>
+
 <asp:ScriptManager ID="ScriptManager_control" runat="server"><Scripts><asp:ScriptReference Path="~/js/ErrorHandler.js" /></Scripts></asp:ScriptManager>
 <table width="100%" class="gradient FFFFFF FF0000 horizontal" cellspacing="0" cellpadding="0">
   <tr>
@@ -38,3 +40,5 @@
         </ContentTemplate>
       </asp:UpdatePanel>
       <p>&nbsp;</p>
+      <uc1:UserControl_app_level_announcement runat="server" id="UserControl_app_level_announcement" />
+      
