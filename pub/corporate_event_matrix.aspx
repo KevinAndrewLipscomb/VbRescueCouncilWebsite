@@ -52,9 +52,9 @@
       </tr>
       <tr>
         <td align="right" bgcolor="gainsboro"><strong>R02</strong></td>
-        <td align="center"><small>2nd FRI 19:00</small></td>
+        <td align="center"><small>2nd WED 19:00</small></td>
         <td align="center"><small>2nd MON 19:00</small></td>
-        <td align="center"><small>DEC, 2nd FRI</small></td>
+        <td align="center"><small>DEC, 2nd WED</small></td>
         <td align="center"><small>JAN 1</small></td>
         <td align="center"><small>JAN</small></td>
         <td align="center"><small>JAN 1</small></td>
