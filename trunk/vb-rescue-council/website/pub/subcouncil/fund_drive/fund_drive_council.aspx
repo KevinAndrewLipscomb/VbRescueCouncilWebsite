@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<%@ Page language="c#" Debug="true" Codebehind="fund_drive_council.aspx.cs" AutoEventWireup="True" Inherits="fund_drive_council.TWebForm_fund_drive_council" %>
+<%@ Page language="c#" codebehind="fund_drive_council.aspx.cs" AutoEventWireup="True" Inherits="fund_drive_council.TWebForm_fund_drive_council" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_precontent" Src="~/usercontrol/app/UserControl_precontent.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_postcontent" Src="~/usercontrol/app/UserControl_postcontent.ascx" %>
 <html>
