@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<%@ Page language="c#" Debug="true" Codebehind="squad_pages.aspx.cs" AutoEventWireup="True" Inherits="squad_pages.TWebForm_squad_pages" %>
+<%@ Page language="c#" codebehind="squad_pages.aspx.cs" AutoEventWireup="True" Inherits="squad_pages.TWebForm_squad_pages" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_precontent" Src="~/usercontrol/app/UserControl_precontent.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_postcontent" Src="~/usercontrol/app/UserControl_postcontent.ascx" %>
 <html>

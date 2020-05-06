@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<%@ Page language="c#" Debug="true" Codebehind="bylaws.aspx.cs" AutoEventWireup="True" Inherits="bylaws.TWebForm_bylaws" %>
+<%@ Page language="c#" codebehind="bylaws.aspx.cs" AutoEventWireup="True" Inherits="bylaws.TWebForm_bylaws" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_precontent" Src="~/usercontrol/app/UserControl_precontent.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_postcontent" Src="~/usercontrol/app/UserControl_postcontent.ascx" %>
 <html>
