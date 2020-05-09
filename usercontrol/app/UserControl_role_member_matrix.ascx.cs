@@ -9,6 +9,7 @@ using System.Web.UI.WebControls;
 using Class_biz_role_member_map;
 using Class_db_roles;
 using Class_db_role_member_map;
+
 namespace UserControl_role_member_matrix
 {
     // Class_biz_agencies,
@@ -191,10 +192,9 @@ namespace UserControl_role_member_matrix
         // / </summary>
         private void InitializeComponent()
         {
-            this.GridView_control.Sorting += new System.Web.UI.WebControls.GridViewSortEventHandler(this.GridView_control_Sorting);
-            this.GridView_control.RowDataBound += new System.Web.UI.WebControls.GridViewRowEventHandler(this.GridView_control_RowDataBound);
-            this.PreRender += this.TWebUserControl_role_member_matrix_PreRender;
-            //this.Load += this.Page_Load;
+            GridView_control.Sorting += new System.Web.UI.WebControls.GridViewSortEventHandler(GridView_control_Sorting);
+            GridView_control.RowDataBound += new System.Web.UI.WebControls.GridViewRowEventHandler(GridView_control_RowDataBound);
+            PreRender += TWebUserControl_role_member_matrix_PreRender;
         }
 
         private void TWebUserControl_role_member_matrix_PreRender(object sender, System.EventArgs e)

@@ -22,7 +22,7 @@ namespace Class_db_members
     // TCCI_EMAIL_ADDRESS = 12;
     public class TClass_db_members: TClass_db
     {
-        private TClass_db_trail db_trail = null;
+        private readonly TClass_db_trail db_trail = null;
         //Constructor  Create()
         public TClass_db_members() : base()
         {
@@ -54,7 +54,7 @@ namespace Class_db_members
           claimed_member_id = k.EMPTY;
           claimed_member_email_address = k.EMPTY;
           Open();
-          var dr = new MySqlCommand
+          using var my_sql_command = new MySqlCommand
             (
             "select role.name as role_name"
             + " , concat(member.first_name,' ',member.last_name) as member_name"
@@ -67,8 +67,8 @@ namespace Class_db_members
             + " order by role.pecking_order"
             + " limit 1",
             connection
-            )
-            .ExecuteReader();
+            );
+          var dr = my_sql_command.ExecuteReader();
           if (dr.Read())
             {
             claimed_role_name = dr["role_name"].ToString();
@@ -85,9 +85,10 @@ namespace Class_db_members
         public bool BeValidProfile(string id)
         {
             bool result;
-            this.Open();
-            result = ("1" == new MySqlCommand("select be_valid_profile from member where id = " + id, this.connection).ExecuteScalar().ToString());
-            this.Close();
+            Open();
+            using var my_sql_command = new MySqlCommand("select be_valid_profile from member where id = " + id, connection);
+            result = ("1" == my_sql_command.ExecuteScalar().ToString());
+            Close();
             return result;
         }
 
@@ -99,14 +100,15 @@ namespace Class_db_members
             {
                 ((target) as ListControl).Items.Add(new ListItem(unselected_literal, k.EMPTY));
             }
-            this.Open();
-            dr = new MySqlCommand("select member.id as member_id" + " , concat(last_name,\", \",first_name) as member_designator" + " from member" + " order by member_designator", this.connection).ExecuteReader();
+            Open();
+            using var my_sql_command = new MySqlCommand("select member.id as member_id" + " , concat(last_name,\", \",first_name) as member_designator" + " from member" + " order by member_designator", connection);
+            dr = my_sql_command.ExecuteReader();
             while (dr.Read())
             {
                 ((target) as ListControl).Items.Add(new ListItem(dr["member_designator"].ToString(), dr["member_id"].ToString()));
             }
             dr.Close();
-            this.Close();
+            Close();
             if (selected_value != k.EMPTY)
             {
                 ((target) as ListControl).SelectedValue = selected_value;
@@ -128,8 +130,9 @@ namespace Class_db_members
         {
             string result;
             object email_address_obj;
-            this.Open();
-            email_address_obj = new MySqlCommand("select email_address from member where id = " + member_id, this.connection).ExecuteScalar().ToString();
+            Open();
+            using var my_sql_command = new MySqlCommand("select email_address from member where id = " + member_id, connection);
+            email_address_obj = my_sql_command.ExecuteScalar().ToString();
             if (email_address_obj != null)
             {
                 result = email_address_obj.ToString();
@@ -138,16 +141,17 @@ namespace Class_db_members
             {
                 result = k.EMPTY;
             }
-            this.Close();
+            Close();
             return result;
         }
 
         public string FirstNameOfMemberId(string member_id)
         {
             string result;
-            this.Open();
-            result = new MySqlCommand("select first_name from member where id = \"" + member_id + "\"", this.connection).ExecuteScalar().ToString();
-            this.Close();
+            Open();
+            using var my_sql_command = new MySqlCommand("select first_name from member where id = \"" + member_id + "\"", connection);
+            result = my_sql_command.ExecuteScalar().ToString();
+            Close();
             return result;
         }
 
@@ -155,8 +159,9 @@ namespace Class_db_members
         {
             string result;
             object member_id_obj;
-            this.Open();
-            member_id_obj = new MySqlCommand("select member_id from user_member_map where user_id = " + user_id, this.connection).ExecuteScalar();
+            Open();
+            using var my_sql_command = new MySqlCommand("select member_id from user_member_map where user_id = " + user_id, connection);
+            member_id_obj = my_sql_command.ExecuteScalar();
             if (member_id_obj != null)
             {
                 result = member_id_obj.ToString();
@@ -165,32 +170,35 @@ namespace Class_db_members
             {
                 result = k.EMPTY;
             }
-            this.Close();
+            Close();
             return result;
         }
 
         public string LastNameOfMemberId(string member_id)
         {
             string result;
-            this.Open();
-            result = new MySqlCommand("select last_name from member where id = \"" + member_id + "\"", this.connection).ExecuteScalar().ToString();
-            this.Close();
+            Open();
+            using var my_sql_command = new MySqlCommand("select last_name from member where id = \"" + member_id + "\"", connection);
+            result = my_sql_command.ExecuteScalar().ToString();
+            Close();
             return result;
         }
 
         public void SetEmailAddress(string id, string email_address)
         {
-            this.Open();
-            new MySqlCommand(db_trail.Saved("UPDATE member" + " SET email_address = \"" + email_address + "\"" + " WHERE id = " + id), this.connection).ExecuteNonQuery();
-            this.Close();
+            Open();
+            using var my_sql_command = new MySqlCommand(db_trail.Saved("UPDATE member" + " SET email_address = \"" + email_address + "\"" + " WHERE id = " + id), connection);
+            my_sql_command.ExecuteNonQuery();
+            Close();
         }
 
         public string UserIdOf(string member_id)
         {
             string result;
             object user_id_obj;
-            this.Open();
-            user_id_obj = new MySqlCommand("select user_id from user_member_map where member_id = " + member_id, this.connection).ExecuteScalar();
+            Open();
+            using var my_sql_command = new MySqlCommand("select user_id from user_member_map where member_id = " + member_id, connection);
+            user_id_obj = my_sql_command.ExecuteScalar();
             if (user_id_obj != null)
             {
                 result = user_id_obj.ToString();
@@ -199,7 +207,7 @@ namespace Class_db_members
             {
                 result = k.EMPTY;
             }
-            this.Close();
+            Close();
             return result;
         }
 

@@ -66,6 +66,7 @@ using UserControl_users_and_mapping_binder;
 using UserControl_session_interrupted;
 using UserControl_about_by;
 using UserControl_about_tools;
+
 namespace VbRescueCouncilWebsite.Units
 {
     public class VbRescueCouncilWebsite
@@ -151,7 +152,7 @@ namespace VbRescueCouncilWebsite.Units
         // located in the project directory, you would specify the AssemblyKeyFile
         // attribute as [assembly: AssemblyKeyFile('..\\..\\mykey.snk')]
         // (*) Delay Signing is an advanced option - see the Microsoft .NET Framework
-        // documentation for more information on this.
+        // documentation for more information on 
         // [assembly: AssemblyDelaySign(false)]
         // [assembly: AssemblyKeyFile('')]
         // [assembly: AssemblyKeyName('')]
