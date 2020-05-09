@@ -9,6 +9,7 @@ using System.Web.UI.WebControls;
 using Class_biz_members;
 using Class_biz_user_member_map;
 using Class_biz_users;
+
 namespace UserControl_user_member_mapping
 {
     public struct p_type
@@ -159,10 +160,9 @@ namespace UserControl_user_member_mapping
         // / </summary>
         private void InitializeComponent()
         {
-            this.GridView_control.Sorting += new System.Web.UI.WebControls.GridViewSortEventHandler(this.GridView_control_Sorting);
-            this.GridView_control.RowDataBound += new System.Web.UI.WebControls.GridViewRowEventHandler(this.GridView_control_RowDataBound);
-            this.PreRender += this.TWebUserControl_user_member_mapping_PreRender;
-            //this.Load += this.Page_Load;
+            GridView_control.Sorting += new System.Web.UI.WebControls.GridViewSortEventHandler(GridView_control_Sorting);
+            GridView_control.RowDataBound += new System.Web.UI.WebControls.GridViewRowEventHandler(GridView_control_RowDataBound);
+            PreRender += TWebUserControl_user_member_mapping_PreRender;
         }
 
         private void TWebUserControl_user_member_mapping_PreRender(object sender, System.EventArgs e)

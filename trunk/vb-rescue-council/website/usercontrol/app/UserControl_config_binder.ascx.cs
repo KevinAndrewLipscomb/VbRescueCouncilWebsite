@@ -8,6 +8,7 @@ using System.Collections;
 
 using UserControl_roles_and_matrices_binder;
 using UserControl_users_and_mapping_binder;
+
 namespace UserControl_config_binder
 {
     public struct p_type
@@ -71,9 +72,8 @@ namespace UserControl_config_binder
         // / </summary>
         private void InitializeComponent()
         {
-            this.TabContainer_control.ActiveTabChanged += this.TabContainer_control_ActiveTabChanged;
-            this.PreRender += this.TWebUserControl_config_binder_PreRender;
-            //this.Load += this.Page_Load;
+            TabContainer_control.ActiveTabChanged += TabContainer_control_ActiveTabChanged;
+            PreRender += TWebUserControl_config_binder_PreRender;
         }
 
         private void TWebUserControl_config_binder_PreRender(object sender, System.EventArgs e)

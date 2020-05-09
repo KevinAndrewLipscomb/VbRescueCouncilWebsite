@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 using System.Collections;
 
 using Class_biz_users;
+
 namespace UserControl_user
 {
     public partial class TWebUserControl_user: ki_web_ui.usercontrol_class
@@ -120,8 +121,7 @@ namespace UserControl_user
         // / </summary>
         private void InitializeComponent()
         {
-            this.PreRender += this.TWebUserControl_user_PreRender;
-            //this.Load += this.Page_Load;
+            PreRender += TWebUserControl_user_PreRender;
         }
 
         private void TWebUserControl_user_PreRender(object sender, System.EventArgs e)
