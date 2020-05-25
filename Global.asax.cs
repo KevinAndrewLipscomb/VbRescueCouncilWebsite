@@ -8,6 +8,7 @@ using System.Web.SessionState;
 using System.Security.Principal;
 using Class_biz_user;
 
+#pragma warning disable CA1716
 namespace Global
 {
     public class TGlobal: System.Web.HttpApplication
