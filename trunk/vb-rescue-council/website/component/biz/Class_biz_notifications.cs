@@ -13,6 +13,20 @@ namespace Class_biz_notifications
 {
     public class TClass_biz_notifications
     {
+
+    private static class Static
+    {
+        public static char[] BreakChars = new char[3 + 1];
+
+        //Constructor  Class_biz_notifications()
+        static Static() // CONSTRUCTOR
+        {
+            BreakChars[1] = Convert.ToChar(k.SPACE);
+            BreakChars[2] = Convert.ToChar(k.TAB);
+            BreakChars[3] = Convert.ToChar(k.HYPHEN);
+        }
+    } // end Class_biz_notifications
+
         private readonly string application_name = k.EMPTY;
         private readonly TClass_db_notifications db_notifications = null;
         private readonly string host_domain_name = k.EMPTY;
@@ -126,7 +140,7 @@ namespace Class_biz_notifications
                 .Replace("<full_name/>", full_name.ToUpper())
                 .Replace("<user_email_address/>", user_email_address)
                 .Replace("<application_name/>", application_name)
-                .Replace("<explanation/>", k.WrapText(explanation, (k.NEW_LINE + "   "), Units.Class_biz_notifications.BreakChars, short.Parse(ConfigurationManager.AppSettings["email_blockquote_maxcol"])))
+                .Replace("<explanation/>", k.WrapText(explanation, (k.NEW_LINE + "   "), Static.BreakChars, short.Parse(ConfigurationManager.AppSettings["email_blockquote_maxcol"])))
                 .Replace("<host_domain_name/>", host_domain_name);
               };
 
@@ -236,20 +250,3 @@ namespace Class_biz_notifications
     } // end TClass_biz_notifications
 
 }
-
-namespace Class_biz_notifications.Units
-{
-    public class Class_biz_notifications
-    {
-        public static char[] BreakChars = new char[3 + 1];
-        //Constructor  Class_biz_notifications()
-        static Class_biz_notifications()
-        {
-            BreakChars[1] = Convert.ToChar(k.SPACE);
-            BreakChars[2] = Convert.ToChar(k.TAB);
-            BreakChars[3] = Convert.ToChar(k.HYPHEN);
-        }
-    } // end Class_biz_notifications
-
-}
-

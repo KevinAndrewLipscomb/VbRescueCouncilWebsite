@@ -23,6 +23,7 @@ namespace Class_db_members
     public class TClass_db_members: TClass_db
     {
         private readonly TClass_db_trail db_trail = null;
+
         //Constructor  Create()
         public TClass_db_members() : base()
         {
@@ -96,7 +97,7 @@ namespace Class_db_members
         {
             MySqlDataReader dr;
             ((target) as ListControl).Items.Clear();
-            if (unselected_literal != k.EMPTY)
+            if (unselected_literal.Length > 0)
             {
                 ((target) as ListControl).Items.Add(new ListItem(unselected_literal, k.EMPTY));
             }
@@ -109,7 +110,7 @@ namespace Class_db_members
             }
             dr.Close();
             Close();
-            if (selected_value != k.EMPTY)
+            if (selected_value.Length > 0)
             {
                 ((target) as ListControl).SelectedValue = selected_value;
             }

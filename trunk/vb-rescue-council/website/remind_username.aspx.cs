@@ -15,14 +15,16 @@ using Class_biz_users;
 
 namespace remind_username
 {
-    public struct p_type
+  public partial class TWebForm_remind_username: ki_web_ui.page_class
     {
-        public TClass_biz_users biz_users;
-    } // end p_type
 
-    public partial class TWebForm_remind_username: ki_web_ui.page_class
-    {
-        private p_type p;
+    private struct p_type
+      {
+      public TClass_biz_users biz_users;
+      }
+
+    private p_type p; // Private Parcel of Page-Pertinent Process-Persistent Parameters
+
         // / <summary>
         // / Required method for Designer support -- do not modify
         // / the contents of this method with the code editor.

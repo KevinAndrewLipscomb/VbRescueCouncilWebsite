@@ -12,7 +12,7 @@ namespace streaming_radio_traffic
       public TClass_ss_broadcastify ss_broadcastify;
       }
 
-    private p_type p;
+    private p_type p; // Private Parcel of Page-Pertinent Process-Persistent Parameters
 
         // / <summary>
         // / Required method for Designer support -- do not modify

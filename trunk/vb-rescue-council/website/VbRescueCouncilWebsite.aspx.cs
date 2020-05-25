@@ -78,8 +78,8 @@ namespace VbRescueCouncilWebsite.Units
         // change_password.TWebForm_change_password: ki_web_ui.page_class
         // login.TWebForm_login: ki_web_ui.page_class
         // exception.TWebForm_exception: ki_web_ui.page_class
-        // milestone_sweep.TWebForm_milestone_sweep: system.web.ui.page
-        // daily_tasks.TWebForm1: system.web.ui.page
+        // milestone_sweep.TWebForm_milestone_sweep: ki_web_ui.page_class
+        // daily_tasks.TWebForm1: ki_web_ui.page_class
         // new_user_registration.TWebForm_new_user_registration: ki_web_ui.page_class
         // remind_username.TWebForm_remind_username: ki_web_ui.page_class
         // overview.TWebForm_overview: ki_web_ui.page_class
@@ -87,7 +87,7 @@ namespace VbRescueCouncilWebsite.Units
         // establish_membership_trouble.TWebForm_establish_membership_trouble: ki_web_ui.page_class
         // UserControl_precontent.TWebUserControl_precontent: ki_web_ui.usercontrol_class
         // UserControl_postcontent.TWebUserControl_postcontent: ki_web_ui.usercontrol_class
-        // test_report.TWebForm_test_report: system.web.ui.page
+        // test_report.TWebForm_test_report: ki_web_ui.page_class
         // UserControl_member_binder.TWebUserControl_member_binder: ki_web_ui.usercontrol_class
         // UserControl_about.TWebUserControl_about: ki_web_ui.usercontrol_class
         // UserControl_user.TWebUserControl_user: ki_web_ui.usercontrol_class
