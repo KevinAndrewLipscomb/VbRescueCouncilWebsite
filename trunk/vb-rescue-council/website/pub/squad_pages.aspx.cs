@@ -15,9 +15,9 @@ namespace squad_pages
 
         protected void Page_Load(object sender, System.EventArgs e)
         {
+            Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - squad_pages";
             if (!IsPostBack)
             {
-                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - squad_pages";
                 //Response.Redirect("~/protected/overview.aspx");
             }
         }

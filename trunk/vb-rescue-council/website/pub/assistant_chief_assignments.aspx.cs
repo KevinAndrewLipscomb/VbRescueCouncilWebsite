@@ -15,9 +15,9 @@ namespace assistant_chief_assignments
 
         protected void Page_Load(object sender, System.EventArgs e)
         {
+            Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - assistant_chief_assignments";
             if (!IsPostBack)
             {
-                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - assistant_chief_assignments";
                 //Response.Redirect("~/protected/overview.aspx");
             }
         }

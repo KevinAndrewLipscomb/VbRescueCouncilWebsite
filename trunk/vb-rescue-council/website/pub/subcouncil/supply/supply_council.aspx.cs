@@ -15,9 +15,9 @@ namespace supply_council
 
         protected void Page_Load(object sender, System.EventArgs e)
         {
+            Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - supply_council";
             if (!IsPostBack)
             {
-                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - supply_council";
                 //Response.Redirect("~/protected/overview.aspx");
             }
         }
