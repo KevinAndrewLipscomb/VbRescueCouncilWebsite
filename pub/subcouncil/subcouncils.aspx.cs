@@ -15,9 +15,9 @@ namespace subcouncils
 
         protected void Page_Load(object sender, System.EventArgs e)
         {
+            Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - subcouncils";
             if (!IsPostBack)
             {
-                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - subcouncils";
                 //Response.Redirect("~/protected/overview.aspx");
             }
         }

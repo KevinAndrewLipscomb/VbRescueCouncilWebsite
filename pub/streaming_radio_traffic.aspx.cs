@@ -24,9 +24,9 @@ namespace streaming_radio_traffic
 
         protected void Page_Load(object sender, System.EventArgs e)
         {
+            Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - streaming_radio_traffic";
             if (!IsPostBack)
             {
-                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - streaming_radio_traffic";
                 //Response.Redirect("~/protected/overview.aspx");
                 Audio_control.Src = p.ss_broadcastify.AudioSrcUrl
                   (

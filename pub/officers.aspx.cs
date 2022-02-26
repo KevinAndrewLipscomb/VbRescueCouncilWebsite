@@ -15,9 +15,9 @@ namespace officers
 
         protected void Page_Load(object sender, System.EventArgs e)
         {
+            Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - officers";
             if (!IsPostBack)
             {
-                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - officers";
                 //Response.Redirect("~/protected/overview.aspx");
             }
         }

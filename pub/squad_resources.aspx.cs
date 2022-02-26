@@ -15,9 +15,9 @@ namespace squad_resources
 
         protected void Page_Load(object sender, System.EventArgs e)
         {
+            Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - squad_resources";
             if (!IsPostBack)
             {
-                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - squad_resources";
                 //Response.Redirect("~/protected/overview.aspx");
             }
         }

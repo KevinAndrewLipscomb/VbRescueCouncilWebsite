@@ -15,9 +15,9 @@ namespace corporate_event_matrix
 
         protected void Page_Load(object sender, System.EventArgs e)
         {
+            Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - corporate_event_matrix";
             if (!IsPostBack)
             {
-                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - corporate_event_matrix";
                 //Response.Redirect("~/protected/overview.aspx");
             }
         }
