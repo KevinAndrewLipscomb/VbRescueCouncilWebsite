@@ -1,5 +1,5 @@
 #
-# $Id$
+# $Id: .crontab 4390 2012-11-21 21:23:01Z kevinanlipscomb $
 #
 00 02 * * * wget --output-document=/dev/null --no-check-certificate --timeout=14400 --tries=1 https://localhost/VbRescueCouncilWebsite/noninteractive/milestone_sweep.aspx
 15 02 * * * wget --output-document=/dev/null --no-check-certificate --timeout=14400 --tries=1 https://localhost/VbRescueCouncilWebsite/noninteractive/daily_tasks.aspx
