@@ -4,15 +4,14 @@
 
 *.lnk
 *.user
+.svn/
+.vs/
 1-user-setup.sql
-unpublished.config
-/.svn
-/.vs
-/bin/*.dll.config
-/bin/*.xml
-/lib/ki/*.dll
-/lib/ki/*.dll.config
-/lib/ki/*.xml
-/obj
-/packages
+bin/*.dll.config
+bin/*.pdb
+bin/*.xml
+obj/
+packages/
+unpublished.*
+/lib/ki/
 /Web.config
